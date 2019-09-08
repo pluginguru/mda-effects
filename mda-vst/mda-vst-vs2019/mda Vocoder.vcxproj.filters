@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="vstsdk2.4">
+      <UniqueIdentifier>{c68ae427-3472-4ac9-8290-0053d88fabfa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="vstsdk2.4\pluginterfaces">
+      <UniqueIdentifier>{c99a9bba-2073-4a0a-832d-2ca40f06466d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="vstsdk2.4\public.sdk">
+      <UniqueIdentifier>{27ef78d5-8fd9-4d87-8342-26a9f78892d4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\src\mdaVocoder.h" />
+    <ClInclude Include="C:\SDKs\VST_SDK_3.6.12\VST2_SDK\pluginterfaces\vst2.x\aeffect.h">
+      <Filter>vstsdk2.4\pluginterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\SDKs\VST_SDK_3.6.12\VST2_SDK\pluginterfaces\vst2.x\aeffectx.h">
+      <Filter>vstsdk2.4\pluginterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\SDKs\VST_SDK_3.6.12\VST2_SDK\public.sdk\source\vst2.x\aeffeditor.h">
+      <Filter>vstsdk2.4\public.sdk</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\SDKs\VST_SDK_3.6.12\VST2_SDK\public.sdk\source\vst2.x\audioeffect.h">
+      <Filter>vstsdk2.4\public.sdk</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\SDKs\VST_SDK_3.6.12\VST2_SDK\public.sdk\source\vst2.x\audioeffectx.h">
+      <Filter>vstsdk2.4\public.sdk</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\src\mdaVocoder.cpp" />
+    <ClCompile Include="C:\SDKs\VST_SDK_3.6.12\VST2_SDK\public.sdk\source\vst2.x\audioeffect.cpp">
+      <Filter>vstsdk2.4\public.sdk</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\SDKs\VST_SDK_3.6.12\VST2_SDK\public.sdk\source\vst2.x\audioeffectx.cpp">
+      <Filter>vstsdk2.4\public.sdk</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\SDKs\VST_SDK_3.6.12\VST2_SDK\public.sdk\source\vst2.x\vstplugmain.cpp">
+      <Filter>vstsdk2.4\public.sdk</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
