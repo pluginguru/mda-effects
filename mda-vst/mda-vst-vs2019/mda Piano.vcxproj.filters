@@ -28,7 +28,6 @@
     <ClInclude Include="C:\SDKs\VST_SDK_3.6.12\VST2_SDK\public.sdk\source\vst2.x\audioeffectx.h">
       <Filter>vstsdk2.4\public.sdk</Filter>
     </ClInclude>
-    <ClInclude Include="..\src\mdaPianoData.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\src\mdaPiano.cpp" />
