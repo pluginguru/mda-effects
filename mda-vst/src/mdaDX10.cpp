@@ -329,6 +329,7 @@ void mdaDX10::process(float** inputs, float** outputs, VstInt32 sampleFrames)
                         V->mod0 = x;
                         V->menv += V->mdec * (V->mlev - V->menv);
 
+                        V->dcar = tune * pbend * V->tuning;
                         x = V->car + V->dcar + x * V->menv + mw; //carrier phase
                         while (x > 1.0f) x -= 2.0f;  //wrap phase
                         while (x < -1.0f) x += 2.0f;
@@ -409,6 +410,7 @@ void mdaDX10::processReplacing(float** inputs, float** outputs, VstInt32 sampleF
                         V->mod0 = x;
                         V->menv += V->mdec * (V->mlev - V->menv);
 
+                        V->dcar = tune * pbend * V->tuning;
                         x = V->car + V->dcar + x * V->menv + mw; //carrier phase
                         while (x > 1.0f) x -= 2.0f;  //wrap phase
                         while (x < -1.0f) x += 2.0f;
@@ -470,10 +472,10 @@ void mdaDX10::noteOn(VstInt32 note, VstInt32 velocity)
             if (voice[v].env < l) { l = voice[v].env;  vl = v; }
         }
 
-        l = (float)exp(0.05776226505f * ((float)note + param[12] + param[12] - 1.0f));
+        l = voice[vl].tuning = (float)exp(0.05776226505f * ((float)note + param[12] + param[12] - 1.0f));
         voice[vl].note = note;                         //fine tuning
         voice[vl].car = 0.0f;
-        voice[vl].dcar = tune * pbend * l; //pitch bend not updated during note as a bit tricky...
+        voice[vl].dcar = tune * pbend * voice[vl].tuning;
 
         if (l > 50.0f) l = 50.0f; //key tracking
         l *= (64.0f + velsens * (velocity - 64)); //vel sens

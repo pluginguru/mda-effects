@@ -27,11 +27,12 @@ struct VOICE  //voice state
     float mlev; //modulator target level
     float mdec; //modulator envelope decay
     float car;  //carrier oscillator
-    float dcar;
+    float dcar; //carrier phase increment
     float cenv; //smoothed env
     float catt; //smoothing
     float cdec; //carrier envelope decay
     VstInt32  note; //remember what note triggered this
+    float tuning;   //used in recomputing dcar for pitch bend
 };
 
 
