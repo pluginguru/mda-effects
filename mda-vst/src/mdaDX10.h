@@ -94,4 +94,5 @@ private:
     float depth, dept2, mdec, mrel; //modulator envelope
     float lfo0, lfo1, dlfo, modwhl, MW, pbend, velsens, volume, vibrato; //LFO and CC
     float rich, modmix;
+    bool enableModWheelToVibrato;
 };

@@ -122,6 +122,8 @@ void mdaDX10::update()  //parameter change //if multitimbral would have to move 
     //rich = -1.0f + 2 * param[13];
     modmix = 0.25f * param[14] * param[14];
     dlfo = 628.3f * ifs * 25.0f * param[15] * param[15]; //these params not in original DX10
+    
+    enableModWheelToVibrato = param[15] != 0.0f;
 }
 
 
@@ -304,7 +306,7 @@ void mdaDX10::process(float** inputs, float** outputs, VstInt32 sampleFrames)
             frame += frames;
 
             while (--frames >= 0)  //would be faster with voice loop outside frame loop!
-            {                   //but then each voice would need it's own LFO...
+            {                      //but then each voice would need it's own LFO...
                 VOICE* V = voice;
                 o = 0.0f;
 
@@ -312,7 +314,10 @@ void mdaDX10::process(float** inputs, float** outputs, VstInt32 sampleFrames)
                 {
                     lfo0 += dlfo * lfo1; //sine LFO
                     lfo1 -= dlfo * lfo0;
-                    mw = lfo1 * (modwhl + vibrato);
+                    if (enableModWheelToVibrato)
+                        mw = lfo1 * (modwhl + vibrato);
+                    else
+                        mw = lfo1 * vibrato;
                     k = 100;
                 }
 
@@ -393,7 +398,10 @@ void mdaDX10::processReplacing(float** inputs, float** outputs, VstInt32 sampleF
                 {
                     lfo0 += dlfo * lfo1; //sine LFO
                     lfo1 -= dlfo * lfo0;
-                    mw = lfo1 * (modwhl + vibrato);
+                    if (enableModWheelToVibrato)
+                        mw = lfo1 * (modwhl + vibrato);
+                    else
+                        mw = lfo1 * vibrato;
                     k = 100;
                 }
 
