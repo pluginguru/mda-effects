@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "6CA0EFBB09C3773300811C25"
-               BuildableName = "Build All"
-               BlueprintName = "Build All"
+               BlueprintIdentifier = "346B3BC12487D8F400E059A7"
+               BuildableName = "mdaJX10.vst"
+               BlueprintName = "mdaJX10"
                ReferencedContainer = "container:mda-vst.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -31,7 +31,7 @@
       </Testables>
    </TestAction>
    <LaunchAction
-      buildConfiguration = "Release"
+      buildConfiguration = "Debug"
       selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       launchStyle = "0"
@@ -40,15 +40,10 @@
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"
       allowLocationSimulation = "YES">
-      <MacroExpansion>
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "6CA0EFBB09C3773300811C25"
-            BuildableName = "Build All"
-            BlueprintName = "Build All"
-            ReferencedContainer = "container:mda-vst.xcodeproj">
-         </BuildableReference>
-      </MacroExpansion>
+      <PathRunnable
+         runnableDebuggingMode = "0"
+         FilePath = "/Users/shane/Documents/GitHub/unify/Builds/MacOSX/build/Debug/Unify.app">
+      </PathRunnable>
    </LaunchAction>
    <ProfileAction
       buildConfiguration = "Release"
@@ -59,9 +54,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "6CA0EFBB09C3773300811C25"
-            BuildableName = "Build All"
-            BlueprintName = "Build All"
+            BlueprintIdentifier = "346B3BC12487D8F400E059A7"
+            BuildableName = "mdaJX10.vst"
+            BlueprintName = "mdaJX10"
             ReferencedContainer = "container:mda-vst.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
