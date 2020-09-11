@@ -110,7 +110,7 @@ mdaJX10::mdaJX10(audioMasterCallback audioMaster) : AudioEffectX(audioMaster, NP
         fillpatch(i++, "Squelchy Frog", 0.5f, 0.41f, 0.23f, 0.45f, 0.77f, 0.0f, 0.4f, 0.65f, 0.95f, 0.0f, 0.5f, 0.33f, 0.5f, 0.0f, 0.25f, 0.0f, 0.7f, 0.65f, 0.18f, 0.32f, 1.0f, 0.0f, 0.06f, 0.5f);
 
         //for testing...
-        //fillpatch(0, "Monosynth", 0.62f, 0.26f, 0.51f, 0.79f, 0.35f, 0.54f, 0.64f, 0.39f, 0.51f, 0.65f, 0.0f, 0.07f, 0.52f, 0.24f, 0.84f, 0.13f, 0.3f, 0.76f, 0.21f, 0.58f, 0.3f, 0.0f, 0.36f, 0.5f);
+        fillpatch(0, "Bright Pad", 1.0f, 0.5193142294883728f, 0.79248046875f, 0.2841796875f, 0.1860894113779068f, 0.5f, 0.6717665195465088f, 0.01703559048473835f, 0.6524522304534912f, 0.0f, 0.0f, 0.8198513388633728f, 0.6067436933517456f, 0.00786675326526165f, 0.8494737148284912f, 0.1667751669883728f, 0.4950086772441864f, 1.0f, 0.4822591245174408f, 0.6612955927848816f, 0.4969889223575592f, 0.3123643696308136f, 0.4462619423866272f, 0.5002170205116272f);
 
         setProgram(0);
     }
@@ -706,6 +706,7 @@ void mdaJX10::processReplacing(float** inputs, float** outputs, VstInt32 sampleF
                         }
 
                         if (V->ff > fx) V->ff = fx; //stability limit
+                        if (V->ff < -fx) V->ff = -fx;
 
                         V->f0 += V->ff * V->f1; //state-variable filter
                         V->f1 -= V->ff * (V->f0 + fq * V->f1 - x - V->f2);
@@ -714,6 +715,8 @@ void mdaJX10::processReplacing(float** inputs, float** outputs, VstInt32 sampleF
                         V->f2 = x;
 
                         o += V->env * V->f0;
+                        if (o < -1.0f || o > 1.0f)
+                            fprintf(stderr, "%f\n", o);
                     }
                     V++;
                 }

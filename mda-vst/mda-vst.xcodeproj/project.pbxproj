@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 42;
+	objectVersion = 45;
 	objects = {
 
 /* Begin PBXAggregateTarget section */
@@ -13,6 +13,7 @@
 			buildPhases = (
 			);
 			dependencies = (
+				346B3BD32487DA8600E059A7 /* PBXTargetDependency */,
 				6CA0EFC309C377F700811C25 /* PBXTargetDependency */,
 				6CA0EFC509C377F700811C25 /* PBXTargetDependency */,
 				6CA0EFC709C377F700811C25 /* PBXTargetDependency */,
@@ -160,6 +161,11 @@
 		344B8CC72325D59500860751 /* vstplugmain.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 344B8C602325D59500860751 /* vstplugmain.cpp */; };
 		344B8CC82325D59500860751 /* vstplugmain.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 344B8C602325D59500860751 /* vstplugmain.cpp */; };
 		344B8CC92325D59500860751 /* vstplugmain.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 344B8C602325D59500860751 /* vstplugmain.cpp */; };
+		346B3BC42487D8F400E059A7 /* audioeffectx.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 344B8C5E2325D59400860751 /* audioeffectx.cpp */; };
+		346B3BC62487D8F400E059A7 /* vstplugmain.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 344B8C602325D59500860751 /* vstplugmain.cpp */; };
+		346B3BC72487D8F400E059A7 /* audioeffect.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 344B8C5C2325D59400860751 /* audioeffect.cpp */; };
+		346B3BC92487D8F400E059A7 /* Carbon.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 08EA7FFBFE8413EDC02AAC07 /* Carbon.framework */; };
+		346B3BD12487D9CF00E059A7 /* mdaJX10.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 346B3BCF2487D98F00E059A7 /* mdaJX10.cpp */; };
 		6CA0F00E09C3782C00811C25 /* mdaAmbience.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 6CA0F00C09C3782C00811C25 /* mdaAmbience.cpp */; };
 		6CA0F01109C3785100811C25 /* mdaBandisto.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 6CA0F00F09C3785100811C25 /* mdaBandisto.cpp */; };
 		6CA0F01409C3786E00811C25 /* mdaBeatBox.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 6CA0F01209C3786D00811C25 /* mdaBeatBox.cpp */; };
@@ -233,6 +239,13 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
+		346B3BD22487DA8600E059A7 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 089C1669FE841209C02AAC07 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 346B3BC12487D8F400E059A7;
+			remoteInfo = "mda JX10";
+		};
 		6CA0EFC209C377F700811C25 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 089C1669FE841209C02AAC07 /* Project object */;
@@ -490,6 +503,10 @@
 		344B8C5E2325D59400860751 /* audioeffectx.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = audioeffectx.cpp; path = ../../../../SDKs/VST_SDK_3.6.12_build67/VST2_SDK/public.sdk/source/vst2.x/audioeffectx.cpp; sourceTree = "<group>"; };
 		344B8C5F2325D59500860751 /* audioeffectx.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = audioeffectx.h; path = ../../../../SDKs/VST_SDK_3.6.12_build67/VST2_SDK/public.sdk/source/vst2.x/audioeffectx.h; sourceTree = "<group>"; };
 		344B8C602325D59500860751 /* vstplugmain.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = vstplugmain.cpp; path = ../../../../SDKs/VST_SDK_3.6.12_build67/VST2_SDK/public.sdk/source/vst2.x/vstplugmain.cpp; sourceTree = "<group>"; };
+		346B3BCD2487D8F400E059A7 /* mdaJX10.vst */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = mdaJX10.vst; sourceTree = BUILT_PRODUCTS_DIR; };
+		346B3BCE2487D8F400E059A7 /* mda Ambience copy-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "mda Ambience copy-Info.plist"; path = "/Users/shane/Documents/GitHub/mda-effects/mda-vst/mda Ambience copy-Info.plist"; sourceTree = "<absolute>"; };
+		346B3BCF2487D98F00E059A7 /* mdaJX10.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = mdaJX10.cpp; path = src/mdaJX10.cpp; sourceTree = "<group>"; };
+		346B3BD02487D98F00E059A7 /* mdaJX10.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = mdaJX10.h; path = src/mdaJX10.h; sourceTree = "<group>"; };
 		6CA0EDF809C36A0000811C25 /* mda Bandisto.vst */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "mda Bandisto.vst"; sourceTree = BUILT_PRODUCTS_DIR; };
 		6CA0EE1A09C36F5F00811C25 /* mda BeatBox.vst */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "mda BeatBox.vst"; sourceTree = BUILT_PRODUCTS_DIR; };
 		6CA0EE2609C36F8A00811C25 /* mda Combo.vst */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "mda Combo.vst"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -603,6 +620,14 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
+		346B3BC82487D8F400E059A7 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				346B3BC92487D8F400E059A7 /* Carbon.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		6CA0EDF409C36A0000811C25 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
@@ -893,6 +918,7 @@
 				08EA7FFBFE8413EDC02AAC07 /* Carbon.framework */,
 				08FB77ADFE841716C02AAC07 /* Source */,
 				19C28FB4FE9D528D11CA2CBB /* Products */,
+				346B3BCE2487D8F400E059A7 /* mda Ambience copy-Info.plist */,
 			);
 			name = "vst 2.4 examples";
 			sourceTree = "<group>";
@@ -930,6 +956,8 @@
 				6CA0F07D09C3827200811C25 /* mdaEPiano.h */,
 				6CA0F07909C3825700811C25 /* mdaImage.cpp */,
 				6CA0F07A09C3825700811C25 /* mdaImage.h */,
+				346B3BCF2487D98F00E059A7 /* mdaJX10.cpp */,
+				346B3BD02487D98F00E059A7 /* mdaJX10.h */,
 				6CA0F07309C3822600811C25 /* mdaLeslie.cpp */,
 				6CA0F07409C3822600811C25 /* mdaLeslie.h */,
 				6CA0F07009C3820E00811C25 /* mdaLimiter.cpp */,
@@ -1017,6 +1045,7 @@
 				6CA0EFB509C3727C00811C25 /* mda Vocoder.vst */,
 				DA2FFA620A698CBE001B44E6 /* mda Looplex.vst */,
 				DAB133BA0B982DA3006AA414 /* mda SubSynth.vst */,
+				346B3BCD2487D8F400E059A7 /* mdaJX10.vst */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -1039,6 +1068,24 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
+		346B3BC12487D8F400E059A7 /* mdaJX10 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 346B3BCA2487D8F400E059A7 /* Build configuration list for PBXNativeTarget "mdaJX10" */;
+			buildPhases = (
+				346B3BC22487D8F400E059A7 /* Resources */,
+				346B3BC32487D8F400E059A7 /* Sources */,
+				346B3BC82487D8F400E059A7 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = mdaJX10;
+			productInstallPath = "$(HOME)/Library/Bundles";
+			productName = "vst 2.4 examples";
+			productReference = 346B3BCD2487D8F400E059A7 /* mdaJX10.vst */;
+			productType = "com.apple.product-type.bundle";
+		};
 		6CA0EDED09C36A0000811C25 /* mda Bandisto */ = {
 			isa = PBXNativeTarget;
 			buildConfigurationList = 6CA0EDF509C36A0000811C25 /* Build configuration list for PBXNativeTarget "mda Bandisto" */;
@@ -1675,7 +1722,7 @@
 		089C1669FE841209C02AAC07 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 1030;
+				LastUpgradeCheck = 1150;
 			};
 			buildConfigurationList = 4FADC23708B4156C00ABE55E /* Build configuration list for PBXProject "mda-vst" */;
 			compatibilityVersion = "Xcode 2.4";
@@ -1704,6 +1751,7 @@
 				6CA0EE7C09C3703000811C25 /* mda Dynamics */,
 				6CA0EE8809C3703D00811C25 /* mda ePiano */,
 				6CA0EE9409C3705600811C25 /* mda Image */,
+				346B3BC12487D8F400E059A7 /* mdaJX10 */,
 				6CA0EEAC09C3707A00811C25 /* mda Leslie */,
 				6CA0EEB809C3708C00811C25 /* mda Limiter */,
 				DA2FFA570A698CBE001B44E6 /* mda Looplex */,
@@ -1730,6 +1778,13 @@
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
+		346B3BC22487D8F400E059A7 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		6CA0EDEE09C36A0000811C25 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -1978,6 +2033,17 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
+		346B3BC32487D8F400E059A7 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				346B3BC42487D8F400E059A7 /* audioeffectx.cpp in Sources */,
+				346B3BD12487D9CF00E059A7 /* mdaJX10.cpp in Sources */,
+				346B3BC62487D8F400E059A7 /* vstplugmain.cpp in Sources */,
+				346B3BC72487D8F400E059A7 /* audioeffect.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		6CA0EDEF09C36A0000811C25 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -2366,6 +2432,11 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
+		346B3BD32487DA8600E059A7 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 346B3BC12487D8F400E059A7 /* mdaJX10 */;
+			targetProxy = 346B3BD22487DA8600E059A7 /* PBXContainerItemProxy */;
+		};
 		6CA0EFC309C377F700811C25 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = 8D01CCC60486CAD60068D4B7 /* mda Ambience */;
@@ -2544,6 +2615,28 @@
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
+		346B3BCB2487D8F400E059A7 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				INFOPLIST_FILE = "mda Ambience copy-Info.plist";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst_$(PRODUCT_NAME)";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = "";
+			};
+			name = Debug;
+		};
+		346B3BCC2487D8F400E059A7 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				INFOPLIST_FILE = "mda Ambience copy-Info.plist";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst_$(PRODUCT_NAME)";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = "";
+			};
+			name = Release;
+		};
 		4FADC23408B4156C00ABE55E /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
@@ -2586,6 +2679,8 @@
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "Developer ID Application: Dunne & Associates Technology Consulting, Inc (W5AEHZN66V)";
+				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
 				GCC_ALTIVEC_EXTENSIONS = NO;
@@ -2625,7 +2720,8 @@
 				);
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
 				INFOPLIST_PREPROCESS = YES;
-				ONLY_ACTIVE_ARCH = NO;
+				ONLY_ACTIVE_ARCH = YES;
+				OTHER_CODE_SIGN_FLAGS = "--timestamp";
 				SDKROOT = "";
 				WARNING_CFLAGS = "-Wall";
 				WRAPPER_EXTENSION = vst;
@@ -2653,7 +2749,9 @@
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "Developer ID Application: Dunne & Associates Technology Consulting, Inc (W5AEHZN66V)";
 				DEPLOYMENT_POSTPROCESSING = YES;
+				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_ALTIVEC_EXTENSIONS = NO;
 				GCC_AUTO_VECTORIZATION = YES;
@@ -2697,6 +2795,7 @@
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
 				INFOPLIST_PREPROCESS = YES;
 				ONLY_ACTIVE_ARCH = NO;
+				OTHER_CODE_SIGN_FLAGS = "--timestamp";
 				SDKROOT = "";
 				WARNING_CFLAGS = "-Wall";
 				WRAPPER_EXTENSION = vst;
@@ -3500,6 +3599,15 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
+		346B3BCA2487D8F400E059A7 /* Build configuration list for PBXNativeTarget "mdaJX10" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				346B3BCB2487D8F400E059A7 /* Debug */,
+				346B3BCC2487D8F400E059A7 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
 		4FADC23308B4156C00ABE55E /* Build configuration list for PBXNativeTarget "mda Ambience" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
