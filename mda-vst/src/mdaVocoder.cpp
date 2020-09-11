@@ -143,7 +143,7 @@ void mdaVocoder::suspend() ///clear any buffers...
 {
     VstInt32 i, j;
 
-    for (i = 0; i < nbnd; i++) for (j = 3; j < 12; j++) f[i][j] = 0.0f; //zero band filters and envelopes
+    for (i = 0; i < NBANDS; i++) for (j = 3; j < 12; j++) f[i][j] = 0.0f; //zero band filters and envelopes
     kout = 0.0f;
     kval = 0;
 }
