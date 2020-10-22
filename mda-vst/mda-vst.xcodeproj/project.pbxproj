@@ -244,252 +244,252 @@
 			containerPortal = 089C1669FE841209C02AAC07 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 346B3BC12487D8F400E059A7;
-			remoteInfo = "mda JX10";
+			remoteInfo = mdaJX10;
 		};
 		6CA0EFC209C377F700811C25 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 089C1669FE841209C02AAC07 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 8D01CCC60486CAD60068D4B7;
-			remoteInfo = "mda Ambience";
+			remoteInfo = mdaAmbience;
 		};
 		6CA0EFC409C377F700811C25 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 089C1669FE841209C02AAC07 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 6CA0EDED09C36A0000811C25;
-			remoteInfo = "mda Bandisto";
+			remoteInfo = mdaBandisto;
 		};
 		6CA0EFC609C377F700811C25 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 089C1669FE841209C02AAC07 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 6CA0EE1009C36F5F00811C25;
-			remoteInfo = "mda BeatBox";
+			remoteInfo = mdaBeatBox;
 		};
 		6CA0EFC809C377F700811C25 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 089C1669FE841209C02AAC07 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 6CA0EE1C09C36F8A00811C25;
-			remoteInfo = "mda Combo";
+			remoteInfo = mdaCombo;
 		};
 		6CA0EFCA09C377F700811C25 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 089C1669FE841209C02AAC07 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 6CA0EE2809C36F9300811C25;
-			remoteInfo = "mda De-ess";
+			remoteInfo = "mdaDe-ess";
 		};
 		6CA0EFCC09C377F700811C25 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 089C1669FE841209C02AAC07 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 6CA0EE3409C36FB300811C25;
-			remoteInfo = "mda Degrade";
+			remoteInfo = mdaDegrade;
 		};
 		6CA0EFCE09C377F700811C25 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 089C1669FE841209C02AAC07 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 6CA0EE4009C36FC400811C25;
-			remoteInfo = "mda Delay";
+			remoteInfo = mdaDelay;
 		};
 		6CA0EFD009C377F700811C25 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 089C1669FE841209C02AAC07 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 6CA0EE4C09C36FD400811C25;
-			remoteInfo = "mda Detune";
+			remoteInfo = mdaDetune;
 		};
 		6CA0EFD209C377F700811C25 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 089C1669FE841209C02AAC07 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 6CA0EE5809C36FE900811C25;
-			remoteInfo = "mda Dither";
+			remoteInfo = mdaDither;
 		};
 		6CA0EFD409C377F700811C25 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 089C1669FE841209C02AAC07 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 6CA0EE6409C36FF900811C25;
-			remoteInfo = "mda DubDelay";
+			remoteInfo = mdaDubDelay;
 		};
 		6CA0EFD609C377F700811C25 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 089C1669FE841209C02AAC07 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 6CA0EE7009C3701D00811C25;
-			remoteInfo = "mda DX10";
+			remoteInfo = mdaDX10;
 		};
 		6CA0EFD809C377F700811C25 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 089C1669FE841209C02AAC07 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 6CA0EE7C09C3703000811C25;
-			remoteInfo = "mda Dynamics";
+			remoteInfo = mdaDynamics;
 		};
 		6CA0EFDA09C377F700811C25 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 089C1669FE841209C02AAC07 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 6CA0EE8809C3703D00811C25;
-			remoteInfo = "mda ePiano";
+			remoteInfo = mdaePiano;
 		};
 		6CA0EFDC09C377F700811C25 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 089C1669FE841209C02AAC07 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 6CA0EE9409C3705600811C25;
-			remoteInfo = "mda Image";
+			remoteInfo = mdaImage;
 		};
 		6CA0EFE009C377F700811C25 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 089C1669FE841209C02AAC07 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 6CA0EEAC09C3707A00811C25;
-			remoteInfo = "mda Leslie";
+			remoteInfo = mdaLeslie;
 		};
 		6CA0EFE209C377F700811C25 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 089C1669FE841209C02AAC07 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 6CA0EEB809C3708C00811C25;
-			remoteInfo = "mda Limiter";
+			remoteInfo = mdaLimiter;
 		};
 		6CA0EFE409C377F700811C25 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 089C1669FE841209C02AAC07 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 6CA0EEC409C3709E00811C25;
-			remoteInfo = "mda Loudness";
+			remoteInfo = mdaLoudness;
 		};
 		6CA0EFE609C377F700811C25 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 089C1669FE841209C02AAC07 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 6CA0EED009C370B200811C25;
-			remoteInfo = "mda MultiBand";
+			remoteInfo = mdaMultiBand;
 		};
 		6CA0EFE809C377F700811C25 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 089C1669FE841209C02AAC07 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 6CA0EEDD09C370D000811C25;
-			remoteInfo = "mda Overdrive";
+			remoteInfo = mdaOverdrive;
 		};
 		6CA0EFEA09C377F700811C25 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 089C1669FE841209C02AAC07 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 6CA0EEE909C370E300811C25;
-			remoteInfo = "mda Piano";
+			remoteInfo = mdaPiano;
 		};
 		6CA0EFEC09C377F700811C25 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 089C1669FE841209C02AAC07 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 6CA0EEF509C370F600811C25;
-			remoteInfo = "mda RePsycho!";
+			remoteInfo = "mdaRePsycho!";
 		};
 		6CA0EFEE09C377F700811C25 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 089C1669FE841209C02AAC07 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 6CA0EF0309C3716000811C25;
-			remoteInfo = "mda RezFilter";
+			remoteInfo = mdaRezFilter;
 		};
 		6CA0EFF009C377F700811C25 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 089C1669FE841209C02AAC07 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 6CA0EF0F09C3716700811C25;
-			remoteInfo = "mda RingMod";
+			remoteInfo = mdaRingMod;
 		};
 		6CA0EFF209C377F700811C25 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 089C1669FE841209C02AAC07 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 6CA0EF1B09C3716D00811C25;
-			remoteInfo = "mda RoundPan";
+			remoteInfo = mdaRoundPan;
 		};
 		6CA0EFF409C377F700811C25 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 089C1669FE841209C02AAC07 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 6CA0EF2709C3717600811C25;
-			remoteInfo = "mda Shepard";
+			remoteInfo = mdaShepard;
 		};
 		6CA0EFF809C377F700811C25 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 089C1669FE841209C02AAC07 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 6CA0EF3F09C371C600811C25;
-			remoteInfo = "mda Splitter";
+			remoteInfo = mdaSplitter;
 		};
 		6CA0EFFA09C377F700811C25 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 089C1669FE841209C02AAC07 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 6CA0EF4B09C371D800811C25;
-			remoteInfo = "mda Stereo";
+			remoteInfo = mdaStereo;
 		};
 		6CA0F00009C377F700811C25 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 089C1669FE841209C02AAC07 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 6CA0EF6F09C3720D00811C25;
-			remoteInfo = "mda TestTone";
+			remoteInfo = mdaTestTone;
 		};
 		6CA0F00209C377F700811C25 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 089C1669FE841209C02AAC07 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 6CA0EF7B09C3722300811C25;
-			remoteInfo = "mda ThruZero";
+			remoteInfo = mdaThruZero;
 		};
 		6CA0F00409C377F700811C25 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 089C1669FE841209C02AAC07 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 6CA0EF8709C3723600811C25;
-			remoteInfo = "mda Tracker";
+			remoteInfo = mdaTracker;
 		};
 		6CA0F00609C377F700811C25 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 089C1669FE841209C02AAC07 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 6CA0EF9309C3724900811C25;
-			remoteInfo = "mda Transient";
+			remoteInfo = mdaTransient;
 		};
 		6CA0F00809C377F700811C25 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 089C1669FE841209C02AAC07 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 6CA0EF9F09C3726500811C25;
-			remoteInfo = "mda VocInput";
+			remoteInfo = mdaVocInput;
 		};
 		6CA0F00A09C377F700811C25 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 089C1669FE841209C02AAC07 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 6CA0EFAB09C3727C00811C25;
-			remoteInfo = "mda Vocoder";
+			remoteInfo = mdaVocoder;
 		};
 		DA2FFA670A698F37001B44E6 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 089C1669FE841209C02AAC07 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = DA2FFA570A698CBE001B44E6;
-			remoteInfo = "mda Looplex";
+			remoteInfo = mdaLooplex;
 		};
 		DAB7DAC30B9C603300AE5662 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 089C1669FE841209C02AAC07 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = DAB133AE0B982DA3006AA414;
-			remoteInfo = "mda SubSynth";
+			remoteInfo = mdaSubSynth;
 		};
 /* End PBXContainerItemProxy section */
 
@@ -504,41 +504,40 @@
 		344B8C5F2325D59500860751 /* audioeffectx.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = audioeffectx.h; path = ../../../../SDKs/VST_SDK_3.6.12_build67/VST2_SDK/public.sdk/source/vst2.x/audioeffectx.h; sourceTree = "<group>"; };
 		344B8C602325D59500860751 /* vstplugmain.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = vstplugmain.cpp; path = ../../../../SDKs/VST_SDK_3.6.12_build67/VST2_SDK/public.sdk/source/vst2.x/vstplugmain.cpp; sourceTree = "<group>"; };
 		346B3BCD2487D8F400E059A7 /* mdaJX10.vst */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = mdaJX10.vst; sourceTree = BUILT_PRODUCTS_DIR; };
-		346B3BCE2487D8F400E059A7 /* mda Ambience copy-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "mda Ambience copy-Info.plist"; path = "/Users/shane/Documents/GitHub/mda-effects/mda-vst/mda Ambience copy-Info.plist"; sourceTree = "<absolute>"; };
 		346B3BCF2487D98F00E059A7 /* mdaJX10.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = mdaJX10.cpp; path = src/mdaJX10.cpp; sourceTree = "<group>"; };
 		346B3BD02487D98F00E059A7 /* mdaJX10.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = mdaJX10.h; path = src/mdaJX10.h; sourceTree = "<group>"; };
-		6CA0EDF809C36A0000811C25 /* mda Bandisto.vst */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "mda Bandisto.vst"; sourceTree = BUILT_PRODUCTS_DIR; };
-		6CA0EE1A09C36F5F00811C25 /* mda BeatBox.vst */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "mda BeatBox.vst"; sourceTree = BUILT_PRODUCTS_DIR; };
-		6CA0EE2609C36F8A00811C25 /* mda Combo.vst */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "mda Combo.vst"; sourceTree = BUILT_PRODUCTS_DIR; };
-		6CA0EE3209C36F9300811C25 /* mda De-ess.vst */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "mda De-ess.vst"; sourceTree = BUILT_PRODUCTS_DIR; };
-		6CA0EE3E09C36FB300811C25 /* mda Degrade.vst */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "mda Degrade.vst"; sourceTree = BUILT_PRODUCTS_DIR; };
-		6CA0EE4A09C36FC400811C25 /* mda Delay.vst */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "mda Delay.vst"; sourceTree = BUILT_PRODUCTS_DIR; };
-		6CA0EE5609C36FD400811C25 /* mda Detune.vst */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "mda Detune.vst"; sourceTree = BUILT_PRODUCTS_DIR; };
-		6CA0EE6209C36FE900811C25 /* mda Dither.vst */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "mda Dither.vst"; sourceTree = BUILT_PRODUCTS_DIR; };
-		6CA0EE6E09C36FF900811C25 /* mda DubDelay.vst */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "mda DubDelay.vst"; sourceTree = BUILT_PRODUCTS_DIR; };
-		6CA0EE7A09C3701D00811C25 /* mda DX10.vst */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "mda DX10.vst"; sourceTree = BUILT_PRODUCTS_DIR; };
-		6CA0EE8609C3703000811C25 /* mda Dynamics.vst */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "mda Dynamics.vst"; sourceTree = BUILT_PRODUCTS_DIR; };
-		6CA0EE9209C3703D00811C25 /* mda ePiano.vst */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "mda ePiano.vst"; sourceTree = BUILT_PRODUCTS_DIR; };
-		6CA0EE9E09C3705600811C25 /* mda Image.vst */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "mda Image.vst"; sourceTree = BUILT_PRODUCTS_DIR; };
-		6CA0EEB609C3707A00811C25 /* mda Leslie.vst */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "mda Leslie.vst"; sourceTree = BUILT_PRODUCTS_DIR; };
-		6CA0EEC209C3708C00811C25 /* mda Limiter.vst */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "mda Limiter.vst"; sourceTree = BUILT_PRODUCTS_DIR; };
-		6CA0EECE09C3709E00811C25 /* mda Loudness.vst */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "mda Loudness.vst"; sourceTree = BUILT_PRODUCTS_DIR; };
-		6CA0EEDA09C370B200811C25 /* mda MultiBand.vst */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "mda MultiBand.vst"; sourceTree = BUILT_PRODUCTS_DIR; };
-		6CA0EEE709C370D000811C25 /* mda Overdrive.vst */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "mda Overdrive.vst"; sourceTree = BUILT_PRODUCTS_DIR; };
-		6CA0EEF309C370E300811C25 /* mda Piano.vst */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "mda Piano.vst"; sourceTree = BUILT_PRODUCTS_DIR; };
-		6CA0EEFF09C370F600811C25 /* mda RePsycho!.vst */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "mda RePsycho!.vst"; sourceTree = BUILT_PRODUCTS_DIR; };
-		6CA0EF0D09C3716000811C25 /* mda RezFilter.vst */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "mda RezFilter.vst"; sourceTree = BUILT_PRODUCTS_DIR; };
-		6CA0EF1909C3716700811C25 /* mda RingMod.vst */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "mda RingMod.vst"; sourceTree = BUILT_PRODUCTS_DIR; };
-		6CA0EF2509C3716D00811C25 /* mda RoundPan.vst */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "mda RoundPan.vst"; sourceTree = BUILT_PRODUCTS_DIR; };
-		6CA0EF3109C3717600811C25 /* mda Shepard.vst */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "mda Shepard.vst"; sourceTree = BUILT_PRODUCTS_DIR; };
-		6CA0EF4909C371C600811C25 /* mda Splitter.vst */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "mda Splitter.vst"; sourceTree = BUILT_PRODUCTS_DIR; };
-		6CA0EF5509C371D800811C25 /* mda Stereo.vst */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "mda Stereo.vst"; sourceTree = BUILT_PRODUCTS_DIR; };
-		6CA0EF7909C3720D00811C25 /* mda TestTone.vst */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "mda TestTone.vst"; sourceTree = BUILT_PRODUCTS_DIR; };
-		6CA0EF8509C3722300811C25 /* mda ThruZero.vst */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "mda ThruZero.vst"; sourceTree = BUILT_PRODUCTS_DIR; };
-		6CA0EF9109C3723600811C25 /* mda Tracker.vst */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "mda Tracker.vst"; sourceTree = BUILT_PRODUCTS_DIR; };
-		6CA0EF9D09C3724900811C25 /* mda Transient.vst */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "mda Transient.vst"; sourceTree = BUILT_PRODUCTS_DIR; };
-		6CA0EFA909C3726500811C25 /* mda VocInput.vst */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "mda VocInput.vst"; sourceTree = BUILT_PRODUCTS_DIR; };
-		6CA0EFB509C3727C00811C25 /* mda Vocoder.vst */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "mda Vocoder.vst"; sourceTree = BUILT_PRODUCTS_DIR; };
+		6CA0EDF809C36A0000811C25 /* mdaBandisto.vst */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = mdaBandisto.vst; sourceTree = BUILT_PRODUCTS_DIR; };
+		6CA0EE1A09C36F5F00811C25 /* mdaBeatBox.vst */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = mdaBeatBox.vst; sourceTree = BUILT_PRODUCTS_DIR; };
+		6CA0EE2609C36F8A00811C25 /* mdaCombo.vst */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = mdaCombo.vst; sourceTree = BUILT_PRODUCTS_DIR; };
+		6CA0EE3209C36F9300811C25 /* mdaDe-ess.vst */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "mdaDe-ess.vst"; sourceTree = BUILT_PRODUCTS_DIR; };
+		6CA0EE3E09C36FB300811C25 /* mdaDegrade.vst */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = mdaDegrade.vst; sourceTree = BUILT_PRODUCTS_DIR; };
+		6CA0EE4A09C36FC400811C25 /* mdaDelay.vst */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = mdaDelay.vst; sourceTree = BUILT_PRODUCTS_DIR; };
+		6CA0EE5609C36FD400811C25 /* mdaDetune.vst */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = mdaDetune.vst; sourceTree = BUILT_PRODUCTS_DIR; };
+		6CA0EE6209C36FE900811C25 /* mdaDither.vst */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = mdaDither.vst; sourceTree = BUILT_PRODUCTS_DIR; };
+		6CA0EE6E09C36FF900811C25 /* mdaDubDelay.vst */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = mdaDubDelay.vst; sourceTree = BUILT_PRODUCTS_DIR; };
+		6CA0EE7A09C3701D00811C25 /* mdaDX10.vst */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = mdaDX10.vst; sourceTree = BUILT_PRODUCTS_DIR; };
+		6CA0EE8609C3703000811C25 /* mdaDynamics.vst */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = mdaDynamics.vst; sourceTree = BUILT_PRODUCTS_DIR; };
+		6CA0EE9209C3703D00811C25 /* mdaePiano.vst */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = mdaePiano.vst; sourceTree = BUILT_PRODUCTS_DIR; };
+		6CA0EE9E09C3705600811C25 /* mdaImage.vst */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = mdaImage.vst; sourceTree = BUILT_PRODUCTS_DIR; };
+		6CA0EEB609C3707A00811C25 /* mdaLeslie.vst */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = mdaLeslie.vst; sourceTree = BUILT_PRODUCTS_DIR; };
+		6CA0EEC209C3708C00811C25 /* mdaLimiter.vst */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = mdaLimiter.vst; sourceTree = BUILT_PRODUCTS_DIR; };
+		6CA0EECE09C3709E00811C25 /* mdaLoudness.vst */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = mdaLoudness.vst; sourceTree = BUILT_PRODUCTS_DIR; };
+		6CA0EEDA09C370B200811C25 /* mdaMultiBand.vst */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = mdaMultiBand.vst; sourceTree = BUILT_PRODUCTS_DIR; };
+		6CA0EEE709C370D000811C25 /* mdaOverdrive.vst */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = mdaOverdrive.vst; sourceTree = BUILT_PRODUCTS_DIR; };
+		6CA0EEF309C370E300811C25 /* mdaPiano.vst */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = mdaPiano.vst; sourceTree = BUILT_PRODUCTS_DIR; };
+		6CA0EEFF09C370F600811C25 /* mdaRePsycho!.vst */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "mdaRePsycho!.vst"; sourceTree = BUILT_PRODUCTS_DIR; };
+		6CA0EF0D09C3716000811C25 /* mdaRezFilter.vst */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = mdaRezFilter.vst; sourceTree = BUILT_PRODUCTS_DIR; };
+		6CA0EF1909C3716700811C25 /* mdaRingMod.vst */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = mdaRingMod.vst; sourceTree = BUILT_PRODUCTS_DIR; };
+		6CA0EF2509C3716D00811C25 /* mdaRoundPan.vst */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = mdaRoundPan.vst; sourceTree = BUILT_PRODUCTS_DIR; };
+		6CA0EF3109C3717600811C25 /* mdaShepard.vst */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = mdaShepard.vst; sourceTree = BUILT_PRODUCTS_DIR; };
+		6CA0EF4909C371C600811C25 /* mdaSplitter.vst */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = mdaSplitter.vst; sourceTree = BUILT_PRODUCTS_DIR; };
+		6CA0EF5509C371D800811C25 /* mdaStereo.vst */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = mdaStereo.vst; sourceTree = BUILT_PRODUCTS_DIR; };
+		6CA0EF7909C3720D00811C25 /* mdaTestTone.vst */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = mdaTestTone.vst; sourceTree = BUILT_PRODUCTS_DIR; };
+		6CA0EF8509C3722300811C25 /* mdaThruZero.vst */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = mdaThruZero.vst; sourceTree = BUILT_PRODUCTS_DIR; };
+		6CA0EF9109C3723600811C25 /* mdaTracker.vst */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = mdaTracker.vst; sourceTree = BUILT_PRODUCTS_DIR; };
+		6CA0EF9D09C3724900811C25 /* mdaTransient.vst */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = mdaTransient.vst; sourceTree = BUILT_PRODUCTS_DIR; };
+		6CA0EFA909C3726500811C25 /* mdaVocInput.vst */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = mdaVocInput.vst; sourceTree = BUILT_PRODUCTS_DIR; };
+		6CA0EFB509C3727C00811C25 /* mdaVocoder.vst */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = mdaVocoder.vst; sourceTree = BUILT_PRODUCTS_DIR; };
 		6CA0EFBC09C3773400811C25 /* mda.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = mda.plist; path = "mda-vst.xcodeproj/mda.plist"; sourceTree = "<group>"; };
 		6CA0F00C09C3782C00811C25 /* mdaAmbience.cpp */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.cpp.cpp; name = mdaAmbience.cpp; path = src/mdaAmbience.cpp; sourceTree = SOURCE_ROOT; };
 		6CA0F00D09C3782C00811C25 /* mdaAmbience.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = mdaAmbience.h; path = src/mdaAmbience.h; sourceTree = SOURCE_ROOT; };
@@ -606,13 +605,13 @@
 		6CA0F07A09C3825700811C25 /* mdaImage.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = mdaImage.h; path = src/mdaImage.h; sourceTree = SOURCE_ROOT; };
 		6CA0F07C09C3827200811C25 /* mdaEPiano.cpp */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.cpp.cpp; name = mdaEPiano.cpp; path = src/mdaEPiano.cpp; sourceTree = SOURCE_ROOT; };
 		6CA0F07D09C3827200811C25 /* mdaEPiano.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = mdaEPiano.h; path = src/mdaEPiano.h; sourceTree = SOURCE_ROOT; };
-		8D01CCD20486CAD60068D4B7 /* mda Ambience.vst */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "mda Ambience.vst"; sourceTree = BUILT_PRODUCTS_DIR; };
-		DA2FFA620A698CBE001B44E6 /* mda Looplex.vst */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "mda Looplex.vst"; sourceTree = BUILT_PRODUCTS_DIR; };
+		8D01CCD20486CAD60068D4B7 /* mdaAmbience.vst */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = mdaAmbience.vst; sourceTree = BUILT_PRODUCTS_DIR; };
+		DA2FFA620A698CBE001B44E6 /* mdaLooplex.vst */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = mdaLooplex.vst; sourceTree = BUILT_PRODUCTS_DIR; };
 		DA2FFA640A698D14001B44E6 /* mdaLooplex.cpp */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.cpp.cpp; name = mdaLooplex.cpp; path = src/mdaLooplex.cpp; sourceTree = "<group>"; };
 		DA2FFA650A698D14001B44E6 /* mdaLooplex.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = mdaLooplex.h; path = src/mdaLooplex.h; sourceTree = "<group>"; };
 		DA2FFAE40A699751001B44E6 /* mdaEPianoData.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = mdaEPianoData.h; path = src/mdaEPianoData.h; sourceTree = "<group>"; };
 		DA2FFAE50A69977C001B44E6 /* mdaPianoData.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = mdaPianoData.h; path = src/mdaPianoData.h; sourceTree = "<group>"; };
-		DAB133BA0B982DA3006AA414 /* mda SubSynth.vst */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "mda SubSynth.vst"; sourceTree = BUILT_PRODUCTS_DIR; };
+		DAB133BA0B982DA3006AA414 /* mdaSubSynth.vst */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = mdaSubSynth.vst; sourceTree = BUILT_PRODUCTS_DIR; };
 		DAB133BC0B982E12006AA414 /* mdaSubBass.cpp */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.cpp.cpp; name = mdaSubBass.cpp; path = src/mdaSubBass.cpp; sourceTree = "<group>"; };
 		DAB133BD0B982E12006AA414 /* mdaSubBass.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = mdaSubBass.h; path = src/mdaSubBass.h; sourceTree = "<group>"; };
 		DAB133BF0B982E2E006AA414 /* mdaSubSynth.cpp */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.cpp.cpp; name = mdaSubSynth.cpp; path = src/mdaSubSynth.cpp; sourceTree = "<group>"; };
@@ -918,7 +917,6 @@
 				08EA7FFBFE8413EDC02AAC07 /* Carbon.framework */,
 				08FB77ADFE841716C02AAC07 /* Source */,
 				19C28FB4FE9D528D11CA2CBB /* Products */,
-				346B3BCE2487D8F400E059A7 /* mda Ambience copy-Info.plist */,
 			);
 			name = "vst 2.4 examples";
 			sourceTree = "<group>";
@@ -1010,41 +1008,41 @@
 		19C28FB4FE9D528D11CA2CBB /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				8D01CCD20486CAD60068D4B7 /* mda Ambience.vst */,
-				6CA0EDF809C36A0000811C25 /* mda Bandisto.vst */,
-				6CA0EE1A09C36F5F00811C25 /* mda BeatBox.vst */,
-				6CA0EE2609C36F8A00811C25 /* mda Combo.vst */,
-				6CA0EE3209C36F9300811C25 /* mda De-ess.vst */,
-				6CA0EE3E09C36FB300811C25 /* mda Degrade.vst */,
-				6CA0EE4A09C36FC400811C25 /* mda Delay.vst */,
-				6CA0EE5609C36FD400811C25 /* mda Detune.vst */,
-				6CA0EE6209C36FE900811C25 /* mda Dither.vst */,
-				6CA0EE6E09C36FF900811C25 /* mda DubDelay.vst */,
-				6CA0EE7A09C3701D00811C25 /* mda DX10.vst */,
-				6CA0EE8609C3703000811C25 /* mda Dynamics.vst */,
-				6CA0EE9209C3703D00811C25 /* mda ePiano.vst */,
-				6CA0EE9E09C3705600811C25 /* mda Image.vst */,
-				6CA0EEB609C3707A00811C25 /* mda Leslie.vst */,
-				6CA0EEC209C3708C00811C25 /* mda Limiter.vst */,
-				6CA0EECE09C3709E00811C25 /* mda Loudness.vst */,
-				6CA0EEDA09C370B200811C25 /* mda MultiBand.vst */,
-				6CA0EEE709C370D000811C25 /* mda Overdrive.vst */,
-				6CA0EEF309C370E300811C25 /* mda Piano.vst */,
-				6CA0EEFF09C370F600811C25 /* mda RePsycho!.vst */,
-				6CA0EF0D09C3716000811C25 /* mda RezFilter.vst */,
-				6CA0EF1909C3716700811C25 /* mda RingMod.vst */,
-				6CA0EF2509C3716D00811C25 /* mda RoundPan.vst */,
-				6CA0EF3109C3717600811C25 /* mda Shepard.vst */,
-				6CA0EF4909C371C600811C25 /* mda Splitter.vst */,
-				6CA0EF5509C371D800811C25 /* mda Stereo.vst */,
-				6CA0EF7909C3720D00811C25 /* mda TestTone.vst */,
-				6CA0EF8509C3722300811C25 /* mda ThruZero.vst */,
-				6CA0EF9109C3723600811C25 /* mda Tracker.vst */,
-				6CA0EF9D09C3724900811C25 /* mda Transient.vst */,
-				6CA0EFA909C3726500811C25 /* mda VocInput.vst */,
-				6CA0EFB509C3727C00811C25 /* mda Vocoder.vst */,
-				DA2FFA620A698CBE001B44E6 /* mda Looplex.vst */,
-				DAB133BA0B982DA3006AA414 /* mda SubSynth.vst */,
+				8D01CCD20486CAD60068D4B7 /* mdaAmbience.vst */,
+				6CA0EDF809C36A0000811C25 /* mdaBandisto.vst */,
+				6CA0EE1A09C36F5F00811C25 /* mdaBeatBox.vst */,
+				6CA0EE2609C36F8A00811C25 /* mdaCombo.vst */,
+				6CA0EE3209C36F9300811C25 /* mdaDe-ess.vst */,
+				6CA0EE3E09C36FB300811C25 /* mdaDegrade.vst */,
+				6CA0EE4A09C36FC400811C25 /* mdaDelay.vst */,
+				6CA0EE5609C36FD400811C25 /* mdaDetune.vst */,
+				6CA0EE6209C36FE900811C25 /* mdaDither.vst */,
+				6CA0EE6E09C36FF900811C25 /* mdaDubDelay.vst */,
+				6CA0EE7A09C3701D00811C25 /* mdaDX10.vst */,
+				6CA0EE8609C3703000811C25 /* mdaDynamics.vst */,
+				6CA0EE9209C3703D00811C25 /* mdaePiano.vst */,
+				6CA0EE9E09C3705600811C25 /* mdaImage.vst */,
+				6CA0EEB609C3707A00811C25 /* mdaLeslie.vst */,
+				6CA0EEC209C3708C00811C25 /* mdaLimiter.vst */,
+				6CA0EECE09C3709E00811C25 /* mdaLoudness.vst */,
+				6CA0EEDA09C370B200811C25 /* mdaMultiBand.vst */,
+				6CA0EEE709C370D000811C25 /* mdaOverdrive.vst */,
+				6CA0EEF309C370E300811C25 /* mdaPiano.vst */,
+				6CA0EEFF09C370F600811C25 /* mdaRePsycho!.vst */,
+				6CA0EF0D09C3716000811C25 /* mdaRezFilter.vst */,
+				6CA0EF1909C3716700811C25 /* mdaRingMod.vst */,
+				6CA0EF2509C3716D00811C25 /* mdaRoundPan.vst */,
+				6CA0EF3109C3717600811C25 /* mdaShepard.vst */,
+				6CA0EF4909C371C600811C25 /* mdaSplitter.vst */,
+				6CA0EF5509C371D800811C25 /* mdaStereo.vst */,
+				6CA0EF7909C3720D00811C25 /* mdaTestTone.vst */,
+				6CA0EF8509C3722300811C25 /* mdaThruZero.vst */,
+				6CA0EF9109C3723600811C25 /* mdaTracker.vst */,
+				6CA0EF9D09C3724900811C25 /* mdaTransient.vst */,
+				6CA0EFA909C3726500811C25 /* mdaVocInput.vst */,
+				6CA0EFB509C3727C00811C25 /* mdaVocoder.vst */,
+				DA2FFA620A698CBE001B44E6 /* mdaLooplex.vst */,
+				DAB133BA0B982DA3006AA414 /* mdaSubSynth.vst */,
 				346B3BCD2487D8F400E059A7 /* mdaJX10.vst */,
 			);
 			name = Products;
@@ -1086,9 +1084,9 @@
 			productReference = 346B3BCD2487D8F400E059A7 /* mdaJX10.vst */;
 			productType = "com.apple.product-type.bundle";
 		};
-		6CA0EDED09C36A0000811C25 /* mda Bandisto */ = {
+		6CA0EDED09C36A0000811C25 /* mdaBandisto */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 6CA0EDF509C36A0000811C25 /* Build configuration list for PBXNativeTarget "mda Bandisto" */;
+			buildConfigurationList = 6CA0EDF509C36A0000811C25 /* Build configuration list for PBXNativeTarget "mdaBandisto" */;
 			buildPhases = (
 				6CA0EDEE09C36A0000811C25 /* Resources */,
 				6CA0EDEF09C36A0000811C25 /* Sources */,
@@ -1098,15 +1096,15 @@
 			);
 			dependencies = (
 			);
-			name = "mda Bandisto";
+			name = mdaBandisto;
 			productInstallPath = "$(HOME)/Library/Bundles";
 			productName = "vst 2.4 examples";
-			productReference = 6CA0EDF809C36A0000811C25 /* mda Bandisto.vst */;
+			productReference = 6CA0EDF809C36A0000811C25 /* mdaBandisto.vst */;
 			productType = "com.apple.product-type.bundle";
 		};
-		6CA0EE1009C36F5F00811C25 /* mda BeatBox */ = {
+		6CA0EE1009C36F5F00811C25 /* mdaBeatBox */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 6CA0EE1709C36F5F00811C25 /* Build configuration list for PBXNativeTarget "mda BeatBox" */;
+			buildConfigurationList = 6CA0EE1709C36F5F00811C25 /* Build configuration list for PBXNativeTarget "mdaBeatBox" */;
 			buildPhases = (
 				6CA0EE1109C36F5F00811C25 /* Resources */,
 				6CA0EE1209C36F5F00811C25 /* Sources */,
@@ -1116,15 +1114,15 @@
 			);
 			dependencies = (
 			);
-			name = "mda BeatBox";
+			name = mdaBeatBox;
 			productInstallPath = "$(HOME)/Library/Bundles";
 			productName = "vst 2.4 examples";
-			productReference = 6CA0EE1A09C36F5F00811C25 /* mda BeatBox.vst */;
+			productReference = 6CA0EE1A09C36F5F00811C25 /* mdaBeatBox.vst */;
 			productType = "com.apple.product-type.bundle";
 		};
-		6CA0EE1C09C36F8A00811C25 /* mda Combo */ = {
+		6CA0EE1C09C36F8A00811C25 /* mdaCombo */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 6CA0EE2309C36F8A00811C25 /* Build configuration list for PBXNativeTarget "mda Combo" */;
+			buildConfigurationList = 6CA0EE2309C36F8A00811C25 /* Build configuration list for PBXNativeTarget "mdaCombo" */;
 			buildPhases = (
 				6CA0EE1D09C36F8A00811C25 /* Resources */,
 				6CA0EE1E09C36F8A00811C25 /* Sources */,
@@ -1134,15 +1132,15 @@
 			);
 			dependencies = (
 			);
-			name = "mda Combo";
+			name = mdaCombo;
 			productInstallPath = "$(HOME)/Library/Bundles";
 			productName = "vst 2.4 examples";
-			productReference = 6CA0EE2609C36F8A00811C25 /* mda Combo.vst */;
+			productReference = 6CA0EE2609C36F8A00811C25 /* mdaCombo.vst */;
 			productType = "com.apple.product-type.bundle";
 		};
-		6CA0EE2809C36F9300811C25 /* mda De-ess */ = {
+		6CA0EE2809C36F9300811C25 /* mdaDe-ess */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 6CA0EE2F09C36F9300811C25 /* Build configuration list for PBXNativeTarget "mda De-ess" */;
+			buildConfigurationList = 6CA0EE2F09C36F9300811C25 /* Build configuration list for PBXNativeTarget "mdaDe-ess" */;
 			buildPhases = (
 				6CA0EE2909C36F9300811C25 /* Resources */,
 				6CA0EE2A09C36F9300811C25 /* Sources */,
@@ -1152,15 +1150,15 @@
 			);
 			dependencies = (
 			);
-			name = "mda De-ess";
+			name = "mdaDe-ess";
 			productInstallPath = "$(HOME)/Library/Bundles";
 			productName = "vst 2.4 examples";
-			productReference = 6CA0EE3209C36F9300811C25 /* mda De-ess.vst */;
+			productReference = 6CA0EE3209C36F9300811C25 /* mdaDe-ess.vst */;
 			productType = "com.apple.product-type.bundle";
 		};
-		6CA0EE3409C36FB300811C25 /* mda Degrade */ = {
+		6CA0EE3409C36FB300811C25 /* mdaDegrade */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 6CA0EE3B09C36FB300811C25 /* Build configuration list for PBXNativeTarget "mda Degrade" */;
+			buildConfigurationList = 6CA0EE3B09C36FB300811C25 /* Build configuration list for PBXNativeTarget "mdaDegrade" */;
 			buildPhases = (
 				6CA0EE3509C36FB300811C25 /* Resources */,
 				6CA0EE3609C36FB300811C25 /* Sources */,
@@ -1170,15 +1168,15 @@
 			);
 			dependencies = (
 			);
-			name = "mda Degrade";
+			name = mdaDegrade;
 			productInstallPath = "$(HOME)/Library/Bundles";
 			productName = "vst 2.4 examples";
-			productReference = 6CA0EE3E09C36FB300811C25 /* mda Degrade.vst */;
+			productReference = 6CA0EE3E09C36FB300811C25 /* mdaDegrade.vst */;
 			productType = "com.apple.product-type.bundle";
 		};
-		6CA0EE4009C36FC400811C25 /* mda Delay */ = {
+		6CA0EE4009C36FC400811C25 /* mdaDelay */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 6CA0EE4709C36FC400811C25 /* Build configuration list for PBXNativeTarget "mda Delay" */;
+			buildConfigurationList = 6CA0EE4709C36FC400811C25 /* Build configuration list for PBXNativeTarget "mdaDelay" */;
 			buildPhases = (
 				6CA0EE4109C36FC400811C25 /* Resources */,
 				6CA0EE4209C36FC400811C25 /* Sources */,
@@ -1188,15 +1186,15 @@
 			);
 			dependencies = (
 			);
-			name = "mda Delay";
+			name = mdaDelay;
 			productInstallPath = "$(HOME)/Library/Bundles";
 			productName = "vst 2.4 examples";
-			productReference = 6CA0EE4A09C36FC400811C25 /* mda Delay.vst */;
+			productReference = 6CA0EE4A09C36FC400811C25 /* mdaDelay.vst */;
 			productType = "com.apple.product-type.bundle";
 		};
-		6CA0EE4C09C36FD400811C25 /* mda Detune */ = {
+		6CA0EE4C09C36FD400811C25 /* mdaDetune */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 6CA0EE5309C36FD400811C25 /* Build configuration list for PBXNativeTarget "mda Detune" */;
+			buildConfigurationList = 6CA0EE5309C36FD400811C25 /* Build configuration list for PBXNativeTarget "mdaDetune" */;
 			buildPhases = (
 				6CA0EE4D09C36FD400811C25 /* Resources */,
 				6CA0EE4E09C36FD400811C25 /* Sources */,
@@ -1206,15 +1204,15 @@
 			);
 			dependencies = (
 			);
-			name = "mda Detune";
+			name = mdaDetune;
 			productInstallPath = "$(HOME)/Library/Bundles";
 			productName = "vst 2.4 examples";
-			productReference = 6CA0EE5609C36FD400811C25 /* mda Detune.vst */;
+			productReference = 6CA0EE5609C36FD400811C25 /* mdaDetune.vst */;
 			productType = "com.apple.product-type.bundle";
 		};
-		6CA0EE5809C36FE900811C25 /* mda Dither */ = {
+		6CA0EE5809C36FE900811C25 /* mdaDither */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 6CA0EE5F09C36FE900811C25 /* Build configuration list for PBXNativeTarget "mda Dither" */;
+			buildConfigurationList = 6CA0EE5F09C36FE900811C25 /* Build configuration list for PBXNativeTarget "mdaDither" */;
 			buildPhases = (
 				6CA0EE5909C36FE900811C25 /* Resources */,
 				6CA0EE5A09C36FE900811C25 /* Sources */,
@@ -1224,15 +1222,15 @@
 			);
 			dependencies = (
 			);
-			name = "mda Dither";
+			name = mdaDither;
 			productInstallPath = "$(HOME)/Library/Bundles";
 			productName = "vst 2.4 examples";
-			productReference = 6CA0EE6209C36FE900811C25 /* mda Dither.vst */;
+			productReference = 6CA0EE6209C36FE900811C25 /* mdaDither.vst */;
 			productType = "com.apple.product-type.bundle";
 		};
-		6CA0EE6409C36FF900811C25 /* mda DubDelay */ = {
+		6CA0EE6409C36FF900811C25 /* mdaDubDelay */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 6CA0EE6B09C36FF900811C25 /* Build configuration list for PBXNativeTarget "mda DubDelay" */;
+			buildConfigurationList = 6CA0EE6B09C36FF900811C25 /* Build configuration list for PBXNativeTarget "mdaDubDelay" */;
 			buildPhases = (
 				6CA0EE6509C36FF900811C25 /* Resources */,
 				6CA0EE6609C36FF900811C25 /* Sources */,
@@ -1242,15 +1240,15 @@
 			);
 			dependencies = (
 			);
-			name = "mda DubDelay";
+			name = mdaDubDelay;
 			productInstallPath = "$(HOME)/Library/Bundles";
 			productName = "vst 2.4 examples";
-			productReference = 6CA0EE6E09C36FF900811C25 /* mda DubDelay.vst */;
+			productReference = 6CA0EE6E09C36FF900811C25 /* mdaDubDelay.vst */;
 			productType = "com.apple.product-type.bundle";
 		};
-		6CA0EE7009C3701D00811C25 /* mda DX10 */ = {
+		6CA0EE7009C3701D00811C25 /* mdaDX10 */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 6CA0EE7709C3701D00811C25 /* Build configuration list for PBXNativeTarget "mda DX10" */;
+			buildConfigurationList = 6CA0EE7709C3701D00811C25 /* Build configuration list for PBXNativeTarget "mdaDX10" */;
 			buildPhases = (
 				6CA0EE7109C3701D00811C25 /* Resources */,
 				6CA0EE7209C3701D00811C25 /* Sources */,
@@ -1260,15 +1258,15 @@
 			);
 			dependencies = (
 			);
-			name = "mda DX10";
+			name = mdaDX10;
 			productInstallPath = "$(HOME)/Library/Bundles";
 			productName = "vst 2.4 examples";
-			productReference = 6CA0EE7A09C3701D00811C25 /* mda DX10.vst */;
+			productReference = 6CA0EE7A09C3701D00811C25 /* mdaDX10.vst */;
 			productType = "com.apple.product-type.bundle";
 		};
-		6CA0EE7C09C3703000811C25 /* mda Dynamics */ = {
+		6CA0EE7C09C3703000811C25 /* mdaDynamics */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 6CA0EE8309C3703000811C25 /* Build configuration list for PBXNativeTarget "mda Dynamics" */;
+			buildConfigurationList = 6CA0EE8309C3703000811C25 /* Build configuration list for PBXNativeTarget "mdaDynamics" */;
 			buildPhases = (
 				6CA0EE7D09C3703000811C25 /* Resources */,
 				6CA0EE7E09C3703000811C25 /* Sources */,
@@ -1278,15 +1276,15 @@
 			);
 			dependencies = (
 			);
-			name = "mda Dynamics";
+			name = mdaDynamics;
 			productInstallPath = "$(HOME)/Library/Bundles";
 			productName = "vst 2.4 examples";
-			productReference = 6CA0EE8609C3703000811C25 /* mda Dynamics.vst */;
+			productReference = 6CA0EE8609C3703000811C25 /* mdaDynamics.vst */;
 			productType = "com.apple.product-type.bundle";
 		};
-		6CA0EE8809C3703D00811C25 /* mda ePiano */ = {
+		6CA0EE8809C3703D00811C25 /* mdaePiano */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 6CA0EE8F09C3703D00811C25 /* Build configuration list for PBXNativeTarget "mda ePiano" */;
+			buildConfigurationList = 6CA0EE8F09C3703D00811C25 /* Build configuration list for PBXNativeTarget "mdaePiano" */;
 			buildPhases = (
 				6CA0EE8909C3703D00811C25 /* Resources */,
 				6CA0EE8A09C3703D00811C25 /* Sources */,
@@ -1296,15 +1294,15 @@
 			);
 			dependencies = (
 			);
-			name = "mda ePiano";
+			name = mdaePiano;
 			productInstallPath = "$(HOME)/Library/Bundles";
 			productName = "vst 2.4 examples";
-			productReference = 6CA0EE9209C3703D00811C25 /* mda ePiano.vst */;
+			productReference = 6CA0EE9209C3703D00811C25 /* mdaePiano.vst */;
 			productType = "com.apple.product-type.bundle";
 		};
-		6CA0EE9409C3705600811C25 /* mda Image */ = {
+		6CA0EE9409C3705600811C25 /* mdaImage */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 6CA0EE9B09C3705600811C25 /* Build configuration list for PBXNativeTarget "mda Image" */;
+			buildConfigurationList = 6CA0EE9B09C3705600811C25 /* Build configuration list for PBXNativeTarget "mdaImage" */;
 			buildPhases = (
 				6CA0EE9509C3705600811C25 /* Resources */,
 				6CA0EE9609C3705600811C25 /* Sources */,
@@ -1314,15 +1312,15 @@
 			);
 			dependencies = (
 			);
-			name = "mda Image";
+			name = mdaImage;
 			productInstallPath = "$(HOME)/Library/Bundles";
 			productName = "vst 2.4 examples";
-			productReference = 6CA0EE9E09C3705600811C25 /* mda Image.vst */;
+			productReference = 6CA0EE9E09C3705600811C25 /* mdaImage.vst */;
 			productType = "com.apple.product-type.bundle";
 		};
-		6CA0EEAC09C3707A00811C25 /* mda Leslie */ = {
+		6CA0EEAC09C3707A00811C25 /* mdaLeslie */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 6CA0EEB309C3707A00811C25 /* Build configuration list for PBXNativeTarget "mda Leslie" */;
+			buildConfigurationList = 6CA0EEB309C3707A00811C25 /* Build configuration list for PBXNativeTarget "mdaLeslie" */;
 			buildPhases = (
 				6CA0EEAD09C3707A00811C25 /* Resources */,
 				6CA0EEAE09C3707A00811C25 /* Sources */,
@@ -1332,15 +1330,15 @@
 			);
 			dependencies = (
 			);
-			name = "mda Leslie";
+			name = mdaLeslie;
 			productInstallPath = "$(HOME)/Library/Bundles";
 			productName = "vst 2.4 examples";
-			productReference = 6CA0EEB609C3707A00811C25 /* mda Leslie.vst */;
+			productReference = 6CA0EEB609C3707A00811C25 /* mdaLeslie.vst */;
 			productType = "com.apple.product-type.bundle";
 		};
-		6CA0EEB809C3708C00811C25 /* mda Limiter */ = {
+		6CA0EEB809C3708C00811C25 /* mdaLimiter */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 6CA0EEBF09C3708C00811C25 /* Build configuration list for PBXNativeTarget "mda Limiter" */;
+			buildConfigurationList = 6CA0EEBF09C3708C00811C25 /* Build configuration list for PBXNativeTarget "mdaLimiter" */;
 			buildPhases = (
 				6CA0EEB909C3708C00811C25 /* Resources */,
 				6CA0EEBA09C3708C00811C25 /* Sources */,
@@ -1350,15 +1348,15 @@
 			);
 			dependencies = (
 			);
-			name = "mda Limiter";
+			name = mdaLimiter;
 			productInstallPath = "$(HOME)/Library/Bundles";
 			productName = "vst 2.4 examples";
-			productReference = 6CA0EEC209C3708C00811C25 /* mda Limiter.vst */;
+			productReference = 6CA0EEC209C3708C00811C25 /* mdaLimiter.vst */;
 			productType = "com.apple.product-type.bundle";
 		};
-		6CA0EEC409C3709E00811C25 /* mda Loudness */ = {
+		6CA0EEC409C3709E00811C25 /* mdaLoudness */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 6CA0EECB09C3709E00811C25 /* Build configuration list for PBXNativeTarget "mda Loudness" */;
+			buildConfigurationList = 6CA0EECB09C3709E00811C25 /* Build configuration list for PBXNativeTarget "mdaLoudness" */;
 			buildPhases = (
 				6CA0EEC509C3709E00811C25 /* Resources */,
 				6CA0EEC609C3709E00811C25 /* Sources */,
@@ -1368,15 +1366,15 @@
 			);
 			dependencies = (
 			);
-			name = "mda Loudness";
+			name = mdaLoudness;
 			productInstallPath = "$(HOME)/Library/Bundles";
 			productName = "vst 2.4 examples";
-			productReference = 6CA0EECE09C3709E00811C25 /* mda Loudness.vst */;
+			productReference = 6CA0EECE09C3709E00811C25 /* mdaLoudness.vst */;
 			productType = "com.apple.product-type.bundle";
 		};
-		6CA0EED009C370B200811C25 /* mda MultiBand */ = {
+		6CA0EED009C370B200811C25 /* mdaMultiBand */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 6CA0EED709C370B200811C25 /* Build configuration list for PBXNativeTarget "mda MultiBand" */;
+			buildConfigurationList = 6CA0EED709C370B200811C25 /* Build configuration list for PBXNativeTarget "mdaMultiBand" */;
 			buildPhases = (
 				6CA0EED109C370B200811C25 /* Resources */,
 				6CA0EED209C370B200811C25 /* Sources */,
@@ -1386,15 +1384,15 @@
 			);
 			dependencies = (
 			);
-			name = "mda MultiBand";
+			name = mdaMultiBand;
 			productInstallPath = "$(HOME)/Library/Bundles";
 			productName = "vst 2.4 examples";
-			productReference = 6CA0EEDA09C370B200811C25 /* mda MultiBand.vst */;
+			productReference = 6CA0EEDA09C370B200811C25 /* mdaMultiBand.vst */;
 			productType = "com.apple.product-type.bundle";
 		};
-		6CA0EEDD09C370D000811C25 /* mda Overdrive */ = {
+		6CA0EEDD09C370D000811C25 /* mdaOverdrive */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 6CA0EEE409C370D000811C25 /* Build configuration list for PBXNativeTarget "mda Overdrive" */;
+			buildConfigurationList = 6CA0EEE409C370D000811C25 /* Build configuration list for PBXNativeTarget "mdaOverdrive" */;
 			buildPhases = (
 				6CA0EEDE09C370D000811C25 /* Resources */,
 				6CA0EEDF09C370D000811C25 /* Sources */,
@@ -1404,15 +1402,15 @@
 			);
 			dependencies = (
 			);
-			name = "mda Overdrive";
+			name = mdaOverdrive;
 			productInstallPath = "$(HOME)/Library/Bundles";
 			productName = "vst 2.4 examples";
-			productReference = 6CA0EEE709C370D000811C25 /* mda Overdrive.vst */;
+			productReference = 6CA0EEE709C370D000811C25 /* mdaOverdrive.vst */;
 			productType = "com.apple.product-type.bundle";
 		};
-		6CA0EEE909C370E300811C25 /* mda Piano */ = {
+		6CA0EEE909C370E300811C25 /* mdaPiano */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 6CA0EEF009C370E300811C25 /* Build configuration list for PBXNativeTarget "mda Piano" */;
+			buildConfigurationList = 6CA0EEF009C370E300811C25 /* Build configuration list for PBXNativeTarget "mdaPiano" */;
 			buildPhases = (
 				6CA0EEEA09C370E300811C25 /* Resources */,
 				6CA0EEEB09C370E300811C25 /* Sources */,
@@ -1422,15 +1420,15 @@
 			);
 			dependencies = (
 			);
-			name = "mda Piano";
+			name = mdaPiano;
 			productInstallPath = "$(HOME)/Library/Bundles";
 			productName = "vst 2.4 examples";
-			productReference = 6CA0EEF309C370E300811C25 /* mda Piano.vst */;
+			productReference = 6CA0EEF309C370E300811C25 /* mdaPiano.vst */;
 			productType = "com.apple.product-type.bundle";
 		};
-		6CA0EEF509C370F600811C25 /* mda RePsycho! */ = {
+		6CA0EEF509C370F600811C25 /* mdaRePsycho! */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 6CA0EEFC09C370F600811C25 /* Build configuration list for PBXNativeTarget "mda RePsycho!" */;
+			buildConfigurationList = 6CA0EEFC09C370F600811C25 /* Build configuration list for PBXNativeTarget "mdaRePsycho!" */;
 			buildPhases = (
 				6CA0EEF609C370F600811C25 /* Resources */,
 				6CA0EEF709C370F600811C25 /* Sources */,
@@ -1440,15 +1438,15 @@
 			);
 			dependencies = (
 			);
-			name = "mda RePsycho!";
+			name = "mdaRePsycho!";
 			productInstallPath = "$(HOME)/Library/Bundles";
 			productName = "vst 2.4 examples";
-			productReference = 6CA0EEFF09C370F600811C25 /* mda RePsycho!.vst */;
+			productReference = 6CA0EEFF09C370F600811C25 /* mdaRePsycho!.vst */;
 			productType = "com.apple.product-type.bundle";
 		};
-		6CA0EF0309C3716000811C25 /* mda RezFilter */ = {
+		6CA0EF0309C3716000811C25 /* mdaRezFilter */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 6CA0EF0A09C3716000811C25 /* Build configuration list for PBXNativeTarget "mda RezFilter" */;
+			buildConfigurationList = 6CA0EF0A09C3716000811C25 /* Build configuration list for PBXNativeTarget "mdaRezFilter" */;
 			buildPhases = (
 				6CA0EF0409C3716000811C25 /* Resources */,
 				6CA0EF0509C3716000811C25 /* Sources */,
@@ -1458,15 +1456,15 @@
 			);
 			dependencies = (
 			);
-			name = "mda RezFilter";
+			name = mdaRezFilter;
 			productInstallPath = "$(HOME)/Library/Bundles";
 			productName = "vst 2.4 examples";
-			productReference = 6CA0EF0D09C3716000811C25 /* mda RezFilter.vst */;
+			productReference = 6CA0EF0D09C3716000811C25 /* mdaRezFilter.vst */;
 			productType = "com.apple.product-type.bundle";
 		};
-		6CA0EF0F09C3716700811C25 /* mda RingMod */ = {
+		6CA0EF0F09C3716700811C25 /* mdaRingMod */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 6CA0EF1609C3716700811C25 /* Build configuration list for PBXNativeTarget "mda RingMod" */;
+			buildConfigurationList = 6CA0EF1609C3716700811C25 /* Build configuration list for PBXNativeTarget "mdaRingMod" */;
 			buildPhases = (
 				6CA0EF1009C3716700811C25 /* Resources */,
 				6CA0EF1109C3716700811C25 /* Sources */,
@@ -1476,15 +1474,15 @@
 			);
 			dependencies = (
 			);
-			name = "mda RingMod";
+			name = mdaRingMod;
 			productInstallPath = "$(HOME)/Library/Bundles";
 			productName = "vst 2.4 examples";
-			productReference = 6CA0EF1909C3716700811C25 /* mda RingMod.vst */;
+			productReference = 6CA0EF1909C3716700811C25 /* mdaRingMod.vst */;
 			productType = "com.apple.product-type.bundle";
 		};
-		6CA0EF1B09C3716D00811C25 /* mda RoundPan */ = {
+		6CA0EF1B09C3716D00811C25 /* mdaRoundPan */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 6CA0EF2209C3716D00811C25 /* Build configuration list for PBXNativeTarget "mda RoundPan" */;
+			buildConfigurationList = 6CA0EF2209C3716D00811C25 /* Build configuration list for PBXNativeTarget "mdaRoundPan" */;
 			buildPhases = (
 				6CA0EF1C09C3716D00811C25 /* Resources */,
 				6CA0EF1D09C3716D00811C25 /* Sources */,
@@ -1494,15 +1492,15 @@
 			);
 			dependencies = (
 			);
-			name = "mda RoundPan";
+			name = mdaRoundPan;
 			productInstallPath = "$(HOME)/Library/Bundles";
 			productName = "vst 2.4 examples";
-			productReference = 6CA0EF2509C3716D00811C25 /* mda RoundPan.vst */;
+			productReference = 6CA0EF2509C3716D00811C25 /* mdaRoundPan.vst */;
 			productType = "com.apple.product-type.bundle";
 		};
-		6CA0EF2709C3717600811C25 /* mda Shepard */ = {
+		6CA0EF2709C3717600811C25 /* mdaShepard */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 6CA0EF2E09C3717600811C25 /* Build configuration list for PBXNativeTarget "mda Shepard" */;
+			buildConfigurationList = 6CA0EF2E09C3717600811C25 /* Build configuration list for PBXNativeTarget "mdaShepard" */;
 			buildPhases = (
 				6CA0EF2809C3717600811C25 /* Resources */,
 				6CA0EF2909C3717600811C25 /* Sources */,
@@ -1512,15 +1510,15 @@
 			);
 			dependencies = (
 			);
-			name = "mda Shepard";
+			name = mdaShepard;
 			productInstallPath = "$(HOME)/Library/Bundles";
 			productName = "vst 2.4 examples";
-			productReference = 6CA0EF3109C3717600811C25 /* mda Shepard.vst */;
+			productReference = 6CA0EF3109C3717600811C25 /* mdaShepard.vst */;
 			productType = "com.apple.product-type.bundle";
 		};
-		6CA0EF3F09C371C600811C25 /* mda Splitter */ = {
+		6CA0EF3F09C371C600811C25 /* mdaSplitter */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 6CA0EF4609C371C600811C25 /* Build configuration list for PBXNativeTarget "mda Splitter" */;
+			buildConfigurationList = 6CA0EF4609C371C600811C25 /* Build configuration list for PBXNativeTarget "mdaSplitter" */;
 			buildPhases = (
 				6CA0EF4009C371C600811C25 /* Resources */,
 				6CA0EF4109C371C600811C25 /* Sources */,
@@ -1530,15 +1528,15 @@
 			);
 			dependencies = (
 			);
-			name = "mda Splitter";
+			name = mdaSplitter;
 			productInstallPath = "$(HOME)/Library/Bundles";
 			productName = "vst 2.4 examples";
-			productReference = 6CA0EF4909C371C600811C25 /* mda Splitter.vst */;
+			productReference = 6CA0EF4909C371C600811C25 /* mdaSplitter.vst */;
 			productType = "com.apple.product-type.bundle";
 		};
-		6CA0EF4B09C371D800811C25 /* mda Stereo */ = {
+		6CA0EF4B09C371D800811C25 /* mdaStereo */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 6CA0EF5209C371D800811C25 /* Build configuration list for PBXNativeTarget "mda Stereo" */;
+			buildConfigurationList = 6CA0EF5209C371D800811C25 /* Build configuration list for PBXNativeTarget "mdaStereo" */;
 			buildPhases = (
 				6CA0EF4C09C371D800811C25 /* Resources */,
 				6CA0EF4D09C371D800811C25 /* Sources */,
@@ -1548,15 +1546,15 @@
 			);
 			dependencies = (
 			);
-			name = "mda Stereo";
+			name = mdaStereo;
 			productInstallPath = "$(HOME)/Library/Bundles";
 			productName = "vst 2.4 examples";
-			productReference = 6CA0EF5509C371D800811C25 /* mda Stereo.vst */;
+			productReference = 6CA0EF5509C371D800811C25 /* mdaStereo.vst */;
 			productType = "com.apple.product-type.bundle";
 		};
-		6CA0EF6F09C3720D00811C25 /* mda TestTone */ = {
+		6CA0EF6F09C3720D00811C25 /* mdaTestTone */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 6CA0EF7609C3720D00811C25 /* Build configuration list for PBXNativeTarget "mda TestTone" */;
+			buildConfigurationList = 6CA0EF7609C3720D00811C25 /* Build configuration list for PBXNativeTarget "mdaTestTone" */;
 			buildPhases = (
 				6CA0EF7009C3720D00811C25 /* Resources */,
 				6CA0EF7109C3720D00811C25 /* Sources */,
@@ -1566,15 +1564,15 @@
 			);
 			dependencies = (
 			);
-			name = "mda TestTone";
+			name = mdaTestTone;
 			productInstallPath = "$(HOME)/Library/Bundles";
 			productName = "vst 2.4 examples";
-			productReference = 6CA0EF7909C3720D00811C25 /* mda TestTone.vst */;
+			productReference = 6CA0EF7909C3720D00811C25 /* mdaTestTone.vst */;
 			productType = "com.apple.product-type.bundle";
 		};
-		6CA0EF7B09C3722300811C25 /* mda ThruZero */ = {
+		6CA0EF7B09C3722300811C25 /* mdaThruZero */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 6CA0EF8209C3722300811C25 /* Build configuration list for PBXNativeTarget "mda ThruZero" */;
+			buildConfigurationList = 6CA0EF8209C3722300811C25 /* Build configuration list for PBXNativeTarget "mdaThruZero" */;
 			buildPhases = (
 				6CA0EF7C09C3722300811C25 /* Resources */,
 				6CA0EF7D09C3722300811C25 /* Sources */,
@@ -1584,15 +1582,15 @@
 			);
 			dependencies = (
 			);
-			name = "mda ThruZero";
+			name = mdaThruZero;
 			productInstallPath = "$(HOME)/Library/Bundles";
 			productName = "vst 2.4 examples";
-			productReference = 6CA0EF8509C3722300811C25 /* mda ThruZero.vst */;
+			productReference = 6CA0EF8509C3722300811C25 /* mdaThruZero.vst */;
 			productType = "com.apple.product-type.bundle";
 		};
-		6CA0EF8709C3723600811C25 /* mda Tracker */ = {
+		6CA0EF8709C3723600811C25 /* mdaTracker */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 6CA0EF8E09C3723600811C25 /* Build configuration list for PBXNativeTarget "mda Tracker" */;
+			buildConfigurationList = 6CA0EF8E09C3723600811C25 /* Build configuration list for PBXNativeTarget "mdaTracker" */;
 			buildPhases = (
 				6CA0EF8809C3723600811C25 /* Resources */,
 				6CA0EF8909C3723600811C25 /* Sources */,
@@ -1602,15 +1600,15 @@
 			);
 			dependencies = (
 			);
-			name = "mda Tracker";
+			name = mdaTracker;
 			productInstallPath = "$(HOME)/Library/Bundles";
 			productName = "vst 2.4 examples";
-			productReference = 6CA0EF9109C3723600811C25 /* mda Tracker.vst */;
+			productReference = 6CA0EF9109C3723600811C25 /* mdaTracker.vst */;
 			productType = "com.apple.product-type.bundle";
 		};
-		6CA0EF9309C3724900811C25 /* mda Transient */ = {
+		6CA0EF9309C3724900811C25 /* mdaTransient */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 6CA0EF9A09C3724900811C25 /* Build configuration list for PBXNativeTarget "mda Transient" */;
+			buildConfigurationList = 6CA0EF9A09C3724900811C25 /* Build configuration list for PBXNativeTarget "mdaTransient" */;
 			buildPhases = (
 				6CA0EF9409C3724900811C25 /* Resources */,
 				6CA0EF9509C3724900811C25 /* Sources */,
@@ -1620,15 +1618,15 @@
 			);
 			dependencies = (
 			);
-			name = "mda Transient";
+			name = mdaTransient;
 			productInstallPath = "$(HOME)/Library/Bundles";
 			productName = "vst 2.4 examples";
-			productReference = 6CA0EF9D09C3724900811C25 /* mda Transient.vst */;
+			productReference = 6CA0EF9D09C3724900811C25 /* mdaTransient.vst */;
 			productType = "com.apple.product-type.bundle";
 		};
-		6CA0EF9F09C3726500811C25 /* mda VocInput */ = {
+		6CA0EF9F09C3726500811C25 /* mdaVocInput */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 6CA0EFA609C3726500811C25 /* Build configuration list for PBXNativeTarget "mda VocInput" */;
+			buildConfigurationList = 6CA0EFA609C3726500811C25 /* Build configuration list for PBXNativeTarget "mdaVocInput" */;
 			buildPhases = (
 				6CA0EFA009C3726500811C25 /* Resources */,
 				6CA0EFA109C3726500811C25 /* Sources */,
@@ -1638,15 +1636,15 @@
 			);
 			dependencies = (
 			);
-			name = "mda VocInput";
+			name = mdaVocInput;
 			productInstallPath = "$(HOME)/Library/Bundles";
 			productName = "vst 2.4 examples";
-			productReference = 6CA0EFA909C3726500811C25 /* mda VocInput.vst */;
+			productReference = 6CA0EFA909C3726500811C25 /* mdaVocInput.vst */;
 			productType = "com.apple.product-type.bundle";
 		};
-		6CA0EFAB09C3727C00811C25 /* mda Vocoder */ = {
+		6CA0EFAB09C3727C00811C25 /* mdaVocoder */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 6CA0EFB209C3727C00811C25 /* Build configuration list for PBXNativeTarget "mda Vocoder" */;
+			buildConfigurationList = 6CA0EFB209C3727C00811C25 /* Build configuration list for PBXNativeTarget "mdaVocoder" */;
 			buildPhases = (
 				6CA0EFAC09C3727C00811C25 /* Resources */,
 				6CA0EFAD09C3727C00811C25 /* Sources */,
@@ -1656,15 +1654,15 @@
 			);
 			dependencies = (
 			);
-			name = "mda Vocoder";
+			name = mdaVocoder;
 			productInstallPath = "$(HOME)/Library/Bundles";
 			productName = "vst 2.4 examples";
-			productReference = 6CA0EFB509C3727C00811C25 /* mda Vocoder.vst */;
+			productReference = 6CA0EFB509C3727C00811C25 /* mdaVocoder.vst */;
 			productType = "com.apple.product-type.bundle";
 		};
-		8D01CCC60486CAD60068D4B7 /* mda Ambience */ = {
+		8D01CCC60486CAD60068D4B7 /* mdaAmbience */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 4FADC23308B4156C00ABE55E /* Build configuration list for PBXNativeTarget "mda Ambience" */;
+			buildConfigurationList = 4FADC23308B4156C00ABE55E /* Build configuration list for PBXNativeTarget "mdaAmbience" */;
 			buildPhases = (
 				8D01CCC90486CAD60068D4B7 /* Resources */,
 				8D01CCCB0486CAD60068D4B7 /* Sources */,
@@ -1674,15 +1672,15 @@
 			);
 			dependencies = (
 			);
-			name = "mda Ambience";
+			name = mdaAmbience;
 			productInstallPath = "$(HOME)/Library/Bundles";
 			productName = "vst 2.4 examples";
-			productReference = 8D01CCD20486CAD60068D4B7 /* mda Ambience.vst */;
+			productReference = 8D01CCD20486CAD60068D4B7 /* mdaAmbience.vst */;
 			productType = "com.apple.product-type.bundle";
 		};
-		DA2FFA570A698CBE001B44E6 /* mda Looplex */ = {
+		DA2FFA570A698CBE001B44E6 /* mdaLooplex */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = DA2FFA5F0A698CBE001B44E6 /* Build configuration list for PBXNativeTarget "mda Looplex" */;
+			buildConfigurationList = DA2FFA5F0A698CBE001B44E6 /* Build configuration list for PBXNativeTarget "mdaLooplex" */;
 			buildPhases = (
 				DA2FFA580A698CBE001B44E6 /* Resources */,
 				DA2FFA590A698CBE001B44E6 /* Sources */,
@@ -1692,15 +1690,15 @@
 			);
 			dependencies = (
 			);
-			name = "mda Looplex";
+			name = mdaLooplex;
 			productInstallPath = "$(HOME)/Library/Bundles";
 			productName = "vst 2.4 examples";
-			productReference = DA2FFA620A698CBE001B44E6 /* mda Looplex.vst */;
+			productReference = DA2FFA620A698CBE001B44E6 /* mdaLooplex.vst */;
 			productType = "com.apple.product-type.bundle";
 		};
-		DAB133AE0B982DA3006AA414 /* mda SubSynth */ = {
+		DAB133AE0B982DA3006AA414 /* mdaSubSynth */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = DAB133B70B982DA3006AA414 /* Build configuration list for PBXNativeTarget "mda SubSynth" */;
+			buildConfigurationList = DAB133B70B982DA3006AA414 /* Build configuration list for PBXNativeTarget "mdaSubSynth" */;
 			buildPhases = (
 				DAB133AF0B982DA3006AA414 /* Resources */,
 				DAB133B00B982DA3006AA414 /* Sources */,
@@ -1710,10 +1708,10 @@
 			);
 			dependencies = (
 			);
-			name = "mda SubSynth";
+			name = mdaSubSynth;
 			productInstallPath = "$(HOME)/Library/Bundles";
 			productName = "vst 2.4 examples";
-			productReference = DAB133BA0B982DA3006AA414 /* mda SubSynth.vst */;
+			productReference = DAB133BA0B982DA3006AA414 /* mdaSubSynth.vst */;
 			productType = "com.apple.product-type.bundle";
 		};
 /* End PBXNativeTarget section */
@@ -1722,7 +1720,7 @@
 		089C1669FE841209C02AAC07 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 1150;
+				LastUpgradeCheck = 1200;
 			};
 			buildConfigurationList = 4FADC23708B4156C00ABE55E /* Build configuration list for PBXProject "mda-vst" */;
 			compatibilityVersion = "Xcode 2.4";
@@ -1737,42 +1735,42 @@
 			projectRoot = "";
 			targets = (
 				6CA0EFBB09C3773300811C25 /* Build All */,
-				8D01CCC60486CAD60068D4B7 /* mda Ambience */,
-				6CA0EDED09C36A0000811C25 /* mda Bandisto */,
-				6CA0EE1009C36F5F00811C25 /* mda BeatBox */,
-				6CA0EE1C09C36F8A00811C25 /* mda Combo */,
-				6CA0EE2809C36F9300811C25 /* mda De-ess */,
-				6CA0EE3409C36FB300811C25 /* mda Degrade */,
-				6CA0EE4009C36FC400811C25 /* mda Delay */,
-				6CA0EE4C09C36FD400811C25 /* mda Detune */,
-				6CA0EE5809C36FE900811C25 /* mda Dither */,
-				6CA0EE6409C36FF900811C25 /* mda DubDelay */,
-				6CA0EE7009C3701D00811C25 /* mda DX10 */,
-				6CA0EE7C09C3703000811C25 /* mda Dynamics */,
-				6CA0EE8809C3703D00811C25 /* mda ePiano */,
-				6CA0EE9409C3705600811C25 /* mda Image */,
+				8D01CCC60486CAD60068D4B7 /* mdaAmbience */,
+				6CA0EDED09C36A0000811C25 /* mdaBandisto */,
+				6CA0EE1009C36F5F00811C25 /* mdaBeatBox */,
+				6CA0EE1C09C36F8A00811C25 /* mdaCombo */,
+				6CA0EE2809C36F9300811C25 /* mdaDe-ess */,
+				6CA0EE3409C36FB300811C25 /* mdaDegrade */,
+				6CA0EE4009C36FC400811C25 /* mdaDelay */,
+				6CA0EE4C09C36FD400811C25 /* mdaDetune */,
+				6CA0EE5809C36FE900811C25 /* mdaDither */,
+				6CA0EE6409C36FF900811C25 /* mdaDubDelay */,
+				6CA0EE7009C3701D00811C25 /* mdaDX10 */,
+				6CA0EE7C09C3703000811C25 /* mdaDynamics */,
+				6CA0EE8809C3703D00811C25 /* mdaePiano */,
+				6CA0EE9409C3705600811C25 /* mdaImage */,
 				346B3BC12487D8F400E059A7 /* mdaJX10 */,
-				6CA0EEAC09C3707A00811C25 /* mda Leslie */,
-				6CA0EEB809C3708C00811C25 /* mda Limiter */,
-				DA2FFA570A698CBE001B44E6 /* mda Looplex */,
-				6CA0EEC409C3709E00811C25 /* mda Loudness */,
-				6CA0EED009C370B200811C25 /* mda MultiBand */,
-				6CA0EEDD09C370D000811C25 /* mda Overdrive */,
-				6CA0EEE909C370E300811C25 /* mda Piano */,
-				6CA0EEF509C370F600811C25 /* mda RePsycho! */,
-				6CA0EF0309C3716000811C25 /* mda RezFilter */,
-				6CA0EF0F09C3716700811C25 /* mda RingMod */,
-				6CA0EF1B09C3716D00811C25 /* mda RoundPan */,
-				6CA0EF2709C3717600811C25 /* mda Shepard */,
-				6CA0EF3F09C371C600811C25 /* mda Splitter */,
-				6CA0EF4B09C371D800811C25 /* mda Stereo */,
-				DAB133AE0B982DA3006AA414 /* mda SubSynth */,
-				6CA0EF6F09C3720D00811C25 /* mda TestTone */,
-				6CA0EF7B09C3722300811C25 /* mda ThruZero */,
-				6CA0EF8709C3723600811C25 /* mda Tracker */,
-				6CA0EF9309C3724900811C25 /* mda Transient */,
-				6CA0EF9F09C3726500811C25 /* mda VocInput */,
-				6CA0EFAB09C3727C00811C25 /* mda Vocoder */,
+				6CA0EEAC09C3707A00811C25 /* mdaLeslie */,
+				6CA0EEB809C3708C00811C25 /* mdaLimiter */,
+				DA2FFA570A698CBE001B44E6 /* mdaLooplex */,
+				6CA0EEC409C3709E00811C25 /* mdaLoudness */,
+				6CA0EED009C370B200811C25 /* mdaMultiBand */,
+				6CA0EEDD09C370D000811C25 /* mdaOverdrive */,
+				6CA0EEE909C370E300811C25 /* mdaPiano */,
+				6CA0EEF509C370F600811C25 /* mdaRePsycho! */,
+				6CA0EF0309C3716000811C25 /* mdaRezFilter */,
+				6CA0EF0F09C3716700811C25 /* mdaRingMod */,
+				6CA0EF1B09C3716D00811C25 /* mdaRoundPan */,
+				6CA0EF2709C3717600811C25 /* mdaShepard */,
+				6CA0EF3F09C371C600811C25 /* mdaSplitter */,
+				6CA0EF4B09C371D800811C25 /* mdaStereo */,
+				DAB133AE0B982DA3006AA414 /* mdaSubSynth */,
+				6CA0EF6F09C3720D00811C25 /* mdaTestTone */,
+				6CA0EF7B09C3722300811C25 /* mdaThruZero */,
+				6CA0EF8709C3723600811C25 /* mdaTracker */,
+				6CA0EF9309C3724900811C25 /* mdaTransient */,
+				6CA0EF9F09C3726500811C25 /* mdaVocInput */,
+				6CA0EFAB09C3727C00811C25 /* mdaVocoder */,
 			);
 		};
 /* End PBXProject section */
@@ -2439,177 +2437,177 @@
 		};
 		6CA0EFC309C377F700811C25 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 8D01CCC60486CAD60068D4B7 /* mda Ambience */;
+			target = 8D01CCC60486CAD60068D4B7 /* mdaAmbience */;
 			targetProxy = 6CA0EFC209C377F700811C25 /* PBXContainerItemProxy */;
 		};
 		6CA0EFC509C377F700811C25 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 6CA0EDED09C36A0000811C25 /* mda Bandisto */;
+			target = 6CA0EDED09C36A0000811C25 /* mdaBandisto */;
 			targetProxy = 6CA0EFC409C377F700811C25 /* PBXContainerItemProxy */;
 		};
 		6CA0EFC709C377F700811C25 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 6CA0EE1009C36F5F00811C25 /* mda BeatBox */;
+			target = 6CA0EE1009C36F5F00811C25 /* mdaBeatBox */;
 			targetProxy = 6CA0EFC609C377F700811C25 /* PBXContainerItemProxy */;
 		};
 		6CA0EFC909C377F700811C25 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 6CA0EE1C09C36F8A00811C25 /* mda Combo */;
+			target = 6CA0EE1C09C36F8A00811C25 /* mdaCombo */;
 			targetProxy = 6CA0EFC809C377F700811C25 /* PBXContainerItemProxy */;
 		};
 		6CA0EFCB09C377F700811C25 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 6CA0EE2809C36F9300811C25 /* mda De-ess */;
+			target = 6CA0EE2809C36F9300811C25 /* mdaDe-ess */;
 			targetProxy = 6CA0EFCA09C377F700811C25 /* PBXContainerItemProxy */;
 		};
 		6CA0EFCD09C377F700811C25 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 6CA0EE3409C36FB300811C25 /* mda Degrade */;
+			target = 6CA0EE3409C36FB300811C25 /* mdaDegrade */;
 			targetProxy = 6CA0EFCC09C377F700811C25 /* PBXContainerItemProxy */;
 		};
 		6CA0EFCF09C377F700811C25 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 6CA0EE4009C36FC400811C25 /* mda Delay */;
+			target = 6CA0EE4009C36FC400811C25 /* mdaDelay */;
 			targetProxy = 6CA0EFCE09C377F700811C25 /* PBXContainerItemProxy */;
 		};
 		6CA0EFD109C377F700811C25 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 6CA0EE4C09C36FD400811C25 /* mda Detune */;
+			target = 6CA0EE4C09C36FD400811C25 /* mdaDetune */;
 			targetProxy = 6CA0EFD009C377F700811C25 /* PBXContainerItemProxy */;
 		};
 		6CA0EFD309C377F700811C25 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 6CA0EE5809C36FE900811C25 /* mda Dither */;
+			target = 6CA0EE5809C36FE900811C25 /* mdaDither */;
 			targetProxy = 6CA0EFD209C377F700811C25 /* PBXContainerItemProxy */;
 		};
 		6CA0EFD509C377F700811C25 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 6CA0EE6409C36FF900811C25 /* mda DubDelay */;
+			target = 6CA0EE6409C36FF900811C25 /* mdaDubDelay */;
 			targetProxy = 6CA0EFD409C377F700811C25 /* PBXContainerItemProxy */;
 		};
 		6CA0EFD709C377F700811C25 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 6CA0EE7009C3701D00811C25 /* mda DX10 */;
+			target = 6CA0EE7009C3701D00811C25 /* mdaDX10 */;
 			targetProxy = 6CA0EFD609C377F700811C25 /* PBXContainerItemProxy */;
 		};
 		6CA0EFD909C377F700811C25 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 6CA0EE7C09C3703000811C25 /* mda Dynamics */;
+			target = 6CA0EE7C09C3703000811C25 /* mdaDynamics */;
 			targetProxy = 6CA0EFD809C377F700811C25 /* PBXContainerItemProxy */;
 		};
 		6CA0EFDB09C377F700811C25 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 6CA0EE8809C3703D00811C25 /* mda ePiano */;
+			target = 6CA0EE8809C3703D00811C25 /* mdaePiano */;
 			targetProxy = 6CA0EFDA09C377F700811C25 /* PBXContainerItemProxy */;
 		};
 		6CA0EFDD09C377F700811C25 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 6CA0EE9409C3705600811C25 /* mda Image */;
+			target = 6CA0EE9409C3705600811C25 /* mdaImage */;
 			targetProxy = 6CA0EFDC09C377F700811C25 /* PBXContainerItemProxy */;
 		};
 		6CA0EFE109C377F700811C25 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 6CA0EEAC09C3707A00811C25 /* mda Leslie */;
+			target = 6CA0EEAC09C3707A00811C25 /* mdaLeslie */;
 			targetProxy = 6CA0EFE009C377F700811C25 /* PBXContainerItemProxy */;
 		};
 		6CA0EFE309C377F700811C25 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 6CA0EEB809C3708C00811C25 /* mda Limiter */;
+			target = 6CA0EEB809C3708C00811C25 /* mdaLimiter */;
 			targetProxy = 6CA0EFE209C377F700811C25 /* PBXContainerItemProxy */;
 		};
 		6CA0EFE509C377F700811C25 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 6CA0EEC409C3709E00811C25 /* mda Loudness */;
+			target = 6CA0EEC409C3709E00811C25 /* mdaLoudness */;
 			targetProxy = 6CA0EFE409C377F700811C25 /* PBXContainerItemProxy */;
 		};
 		6CA0EFE709C377F700811C25 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 6CA0EED009C370B200811C25 /* mda MultiBand */;
+			target = 6CA0EED009C370B200811C25 /* mdaMultiBand */;
 			targetProxy = 6CA0EFE609C377F700811C25 /* PBXContainerItemProxy */;
 		};
 		6CA0EFE909C377F700811C25 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 6CA0EEDD09C370D000811C25 /* mda Overdrive */;
+			target = 6CA0EEDD09C370D000811C25 /* mdaOverdrive */;
 			targetProxy = 6CA0EFE809C377F700811C25 /* PBXContainerItemProxy */;
 		};
 		6CA0EFEB09C377F700811C25 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 6CA0EEE909C370E300811C25 /* mda Piano */;
+			target = 6CA0EEE909C370E300811C25 /* mdaPiano */;
 			targetProxy = 6CA0EFEA09C377F700811C25 /* PBXContainerItemProxy */;
 		};
 		6CA0EFED09C377F700811C25 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 6CA0EEF509C370F600811C25 /* mda RePsycho! */;
+			target = 6CA0EEF509C370F600811C25 /* mdaRePsycho! */;
 			targetProxy = 6CA0EFEC09C377F700811C25 /* PBXContainerItemProxy */;
 		};
 		6CA0EFEF09C377F700811C25 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 6CA0EF0309C3716000811C25 /* mda RezFilter */;
+			target = 6CA0EF0309C3716000811C25 /* mdaRezFilter */;
 			targetProxy = 6CA0EFEE09C377F700811C25 /* PBXContainerItemProxy */;
 		};
 		6CA0EFF109C377F700811C25 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 6CA0EF0F09C3716700811C25 /* mda RingMod */;
+			target = 6CA0EF0F09C3716700811C25 /* mdaRingMod */;
 			targetProxy = 6CA0EFF009C377F700811C25 /* PBXContainerItemProxy */;
 		};
 		6CA0EFF309C377F700811C25 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 6CA0EF1B09C3716D00811C25 /* mda RoundPan */;
+			target = 6CA0EF1B09C3716D00811C25 /* mdaRoundPan */;
 			targetProxy = 6CA0EFF209C377F700811C25 /* PBXContainerItemProxy */;
 		};
 		6CA0EFF509C377F700811C25 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 6CA0EF2709C3717600811C25 /* mda Shepard */;
+			target = 6CA0EF2709C3717600811C25 /* mdaShepard */;
 			targetProxy = 6CA0EFF409C377F700811C25 /* PBXContainerItemProxy */;
 		};
 		6CA0EFF909C377F700811C25 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 6CA0EF3F09C371C600811C25 /* mda Splitter */;
+			target = 6CA0EF3F09C371C600811C25 /* mdaSplitter */;
 			targetProxy = 6CA0EFF809C377F700811C25 /* PBXContainerItemProxy */;
 		};
 		6CA0EFFB09C377F700811C25 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 6CA0EF4B09C371D800811C25 /* mda Stereo */;
+			target = 6CA0EF4B09C371D800811C25 /* mdaStereo */;
 			targetProxy = 6CA0EFFA09C377F700811C25 /* PBXContainerItemProxy */;
 		};
 		6CA0F00109C377F700811C25 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 6CA0EF6F09C3720D00811C25 /* mda TestTone */;
+			target = 6CA0EF6F09C3720D00811C25 /* mdaTestTone */;
 			targetProxy = 6CA0F00009C377F700811C25 /* PBXContainerItemProxy */;
 		};
 		6CA0F00309C377F700811C25 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 6CA0EF7B09C3722300811C25 /* mda ThruZero */;
+			target = 6CA0EF7B09C3722300811C25 /* mdaThruZero */;
 			targetProxy = 6CA0F00209C377F700811C25 /* PBXContainerItemProxy */;
 		};
 		6CA0F00509C377F700811C25 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 6CA0EF8709C3723600811C25 /* mda Tracker */;
+			target = 6CA0EF8709C3723600811C25 /* mdaTracker */;
 			targetProxy = 6CA0F00409C377F700811C25 /* PBXContainerItemProxy */;
 		};
 		6CA0F00709C377F700811C25 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 6CA0EF9309C3724900811C25 /* mda Transient */;
+			target = 6CA0EF9309C3724900811C25 /* mdaTransient */;
 			targetProxy = 6CA0F00609C377F700811C25 /* PBXContainerItemProxy */;
 		};
 		6CA0F00909C377F700811C25 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 6CA0EF9F09C3726500811C25 /* mda VocInput */;
+			target = 6CA0EF9F09C3726500811C25 /* mdaVocInput */;
 			targetProxy = 6CA0F00809C377F700811C25 /* PBXContainerItemProxy */;
 		};
 		6CA0F00B09C377F700811C25 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 6CA0EFAB09C3727C00811C25 /* mda Vocoder */;
+			target = 6CA0EFAB09C3727C00811C25 /* mdaVocoder */;
 			targetProxy = 6CA0F00A09C377F700811C25 /* PBXContainerItemProxy */;
 		};
 		DA2FFA680A698F37001B44E6 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = DA2FFA570A698CBE001B44E6 /* mda Looplex */;
+			target = DA2FFA570A698CBE001B44E6 /* mdaLooplex */;
 			targetProxy = DA2FFA670A698F37001B44E6 /* PBXContainerItemProxy */;
 		};
 		DAB7DAC40B9C603300AE5662 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = DAB133AE0B982DA3006AA414 /* mda SubSynth */;
+			target = DAB133AE0B982DA3006AA414 /* mdaSubSynth */;
 			targetProxy = DAB7DAC30B9C603300AE5662 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -2619,8 +2617,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
-				INFOPLIST_FILE = "mda Ambience copy-Info.plist";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst_$(PRODUCT_NAME)";
+				CURRENT_PROJECT_VERSION = 2.4;
+				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
+				MARKETING_VERSION = 2.4;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaJX10";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = "";
 			};
@@ -2630,8 +2630,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
-				INFOPLIST_FILE = "mda Ambience copy-Info.plist";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst_$(PRODUCT_NAME)";
+				CURRENT_PROJECT_VERSION = 2.4;
+				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
+				MARKETING_VERSION = 2.4;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaJX10";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = "";
 			};
@@ -2641,8 +2643,8 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst_$(PRODUCT_NAME)";
-				PRODUCT_NAME = "mda Ambience";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst-mdaAmbience";
+				PRODUCT_NAME = mdaAmbience;
 				SDKROOT = "";
 			};
 			name = Debug;
@@ -2652,8 +2654,8 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst_$(PRODUCT_NAME)";
-				PRODUCT_NAME = "mda Ambience";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst-mdaAmbience";
+				PRODUCT_NAME = mdaAmbience;
 				SDKROOT = "";
 			};
 			name = Release;
@@ -2674,6 +2676,7 @@
 				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
 				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
 				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
 				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
 				CLANG_WARN_STRICT_PROTOTYPES = YES;
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
@@ -2744,6 +2747,7 @@
 				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
 				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
 				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
 				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
 				CLANG_WARN_STRICT_PROTOTYPES = YES;
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
@@ -2807,8 +2811,8 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.$(PRODUCT_NAME)";
-				PRODUCT_NAME = "mda Bandisto";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaBandisto";
+				PRODUCT_NAME = mdaBandisto;
 				SDKROOT = "";
 			};
 			name = Debug;
@@ -2818,8 +2822,8 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.$(PRODUCT_NAME)";
-				PRODUCT_NAME = "mda Bandisto";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaBandisto";
+				PRODUCT_NAME = mdaBandisto;
 				SDKROOT = "";
 			};
 			name = Release;
@@ -2829,8 +2833,8 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.$(PRODUCT_NAME)";
-				PRODUCT_NAME = "mda BeatBox";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaBeatBox";
+				PRODUCT_NAME = mdaBeatBox;
 				SDKROOT = "";
 			};
 			name = Debug;
@@ -2840,8 +2844,8 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.$(PRODUCT_NAME)";
-				PRODUCT_NAME = "mda BeatBox";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaBeatBox";
+				PRODUCT_NAME = mdaBeatBox;
 				SDKROOT = "";
 			};
 			name = Release;
@@ -2851,8 +2855,8 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.$(PRODUCT_NAME)";
-				PRODUCT_NAME = "mda Combo";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaCombo";
+				PRODUCT_NAME = mdaCombo;
 				SDKROOT = "";
 			};
 			name = Debug;
@@ -2862,8 +2866,8 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.$(PRODUCT_NAME)";
-				PRODUCT_NAME = "mda Combo";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaCombo";
+				PRODUCT_NAME = mdaCombo;
 				SDKROOT = "";
 			};
 			name = Release;
@@ -2873,8 +2877,8 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.$(PRODUCT_NAME)";
-				PRODUCT_NAME = "mda De-ess";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaDe-ess";
+				PRODUCT_NAME = "mdaDe-ess";
 				SDKROOT = "";
 			};
 			name = Debug;
@@ -2884,8 +2888,8 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.$(PRODUCT_NAME)";
-				PRODUCT_NAME = "mda De-ess";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaDe-ess";
+				PRODUCT_NAME = "mdaDe-ess";
 				SDKROOT = "";
 			};
 			name = Release;
@@ -2895,8 +2899,8 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.$(PRODUCT_NAME)";
-				PRODUCT_NAME = "mda Degrade";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaDegrade";
+				PRODUCT_NAME = mdaDegrade;
 				SDKROOT = "";
 			};
 			name = Debug;
@@ -2906,8 +2910,8 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.$(PRODUCT_NAME)";
-				PRODUCT_NAME = "mda Degrade";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaDegrade";
+				PRODUCT_NAME = mdaDegrade;
 				SDKROOT = "";
 			};
 			name = Release;
@@ -2917,8 +2921,8 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.$(PRODUCT_NAME)";
-				PRODUCT_NAME = "mda Delay";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaDelay";
+				PRODUCT_NAME = mdaDelay;
 				SDKROOT = "";
 			};
 			name = Debug;
@@ -2928,8 +2932,8 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.$(PRODUCT_NAME)";
-				PRODUCT_NAME = "mda Delay";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaDelay";
+				PRODUCT_NAME = mdaDelay;
 				SDKROOT = "";
 			};
 			name = Release;
@@ -2939,8 +2943,8 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.$(PRODUCT_NAME)";
-				PRODUCT_NAME = "mda Detune";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaDetune";
+				PRODUCT_NAME = mdaDetune;
 				SDKROOT = "";
 			};
 			name = Debug;
@@ -2950,8 +2954,8 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.$(PRODUCT_NAME)";
-				PRODUCT_NAME = "mda Detune";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaDetune";
+				PRODUCT_NAME = mdaDetune;
 				SDKROOT = "";
 			};
 			name = Release;
@@ -2961,8 +2965,8 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.$(PRODUCT_NAME)";
-				PRODUCT_NAME = "mda Dither";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaDither";
+				PRODUCT_NAME = mdaDither;
 				SDKROOT = "";
 			};
 			name = Debug;
@@ -2972,8 +2976,8 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.$(PRODUCT_NAME)";
-				PRODUCT_NAME = "mda Dither";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaDither";
+				PRODUCT_NAME = mdaDither;
 				SDKROOT = "";
 			};
 			name = Release;
@@ -2983,8 +2987,8 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.$(PRODUCT_NAME)";
-				PRODUCT_NAME = "mda DubDelay";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaDubDelay";
+				PRODUCT_NAME = mdaDubDelay;
 				SDKROOT = "";
 			};
 			name = Debug;
@@ -2994,8 +2998,8 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.$(PRODUCT_NAME)";
-				PRODUCT_NAME = "mda DubDelay";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaDubDelay";
+				PRODUCT_NAME = mdaDubDelay;
 				SDKROOT = "";
 			};
 			name = Release;
@@ -3005,8 +3009,8 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.$(PRODUCT_NAME)";
-				PRODUCT_NAME = "mda DX10";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaDX10";
+				PRODUCT_NAME = mdaDX10;
 				SDKROOT = "";
 			};
 			name = Debug;
@@ -3016,8 +3020,8 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.$(PRODUCT_NAME)";
-				PRODUCT_NAME = "mda DX10";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaDX10";
+				PRODUCT_NAME = mdaDX10;
 				SDKROOT = "";
 			};
 			name = Release;
@@ -3027,8 +3031,8 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.$(PRODUCT_NAME)";
-				PRODUCT_NAME = "mda Dynamics";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaDynamics";
+				PRODUCT_NAME = mdaDynamics;
 				SDKROOT = "";
 			};
 			name = Debug;
@@ -3038,8 +3042,8 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.$(PRODUCT_NAME)";
-				PRODUCT_NAME = "mda Dynamics";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaDynamics";
+				PRODUCT_NAME = mdaDynamics;
 				SDKROOT = "";
 			};
 			name = Release;
@@ -3049,8 +3053,8 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.$(PRODUCT_NAME)";
-				PRODUCT_NAME = "mda ePiano";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaePiano";
+				PRODUCT_NAME = mdaePiano;
 				SDKROOT = "";
 			};
 			name = Debug;
@@ -3060,8 +3064,8 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.$(PRODUCT_NAME)";
-				PRODUCT_NAME = "mda ePiano";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaePiano";
+				PRODUCT_NAME = mdaePiano;
 				SDKROOT = "";
 			};
 			name = Release;
@@ -3071,8 +3075,8 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.$(PRODUCT_NAME)";
-				PRODUCT_NAME = "mda Image";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaImage";
+				PRODUCT_NAME = mdaImage;
 				SDKROOT = "";
 			};
 			name = Debug;
@@ -3082,8 +3086,8 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.$(PRODUCT_NAME)";
-				PRODUCT_NAME = "mda Image";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaImage";
+				PRODUCT_NAME = mdaImage;
 				SDKROOT = "";
 			};
 			name = Release;
@@ -3093,8 +3097,8 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.$(PRODUCT_NAME)";
-				PRODUCT_NAME = "mda Leslie";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaLeslie";
+				PRODUCT_NAME = mdaLeslie;
 				SDKROOT = "";
 			};
 			name = Debug;
@@ -3104,8 +3108,8 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.$(PRODUCT_NAME)";
-				PRODUCT_NAME = "mda Leslie";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaLeslie";
+				PRODUCT_NAME = mdaLeslie;
 				SDKROOT = "";
 			};
 			name = Release;
@@ -3115,8 +3119,8 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.$(PRODUCT_NAME)";
-				PRODUCT_NAME = "mda Limiter";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaLimiter";
+				PRODUCT_NAME = mdaLimiter;
 				SDKROOT = "";
 			};
 			name = Debug;
@@ -3126,8 +3130,8 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.$(PRODUCT_NAME)";
-				PRODUCT_NAME = "mda Limiter";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaLimiter";
+				PRODUCT_NAME = mdaLimiter;
 				SDKROOT = "";
 			};
 			name = Release;
@@ -3137,8 +3141,8 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.$(PRODUCT_NAME)";
-				PRODUCT_NAME = "mda Loudness";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaLoudness";
+				PRODUCT_NAME = mdaLoudness;
 				SDKROOT = "";
 			};
 			name = Debug;
@@ -3148,8 +3152,8 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.$(PRODUCT_NAME)";
-				PRODUCT_NAME = "mda Loudness";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaLoudness";
+				PRODUCT_NAME = mdaLoudness;
 				SDKROOT = "";
 			};
 			name = Release;
@@ -3159,8 +3163,8 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.$(PRODUCT_NAME)";
-				PRODUCT_NAME = "mda MultiBand";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaMultiBand";
+				PRODUCT_NAME = mdaMultiBand;
 				SDKROOT = "";
 			};
 			name = Debug;
@@ -3170,8 +3174,8 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.$(PRODUCT_NAME)";
-				PRODUCT_NAME = "mda MultiBand";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaMultiBand";
+				PRODUCT_NAME = mdaMultiBand;
 				SDKROOT = "";
 			};
 			name = Release;
@@ -3181,8 +3185,8 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.$(PRODUCT_NAME)";
-				PRODUCT_NAME = "mda Overdrive";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaOverdrive";
+				PRODUCT_NAME = mdaOverdrive;
 				SDKROOT = "";
 			};
 			name = Debug;
@@ -3192,8 +3196,8 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.$(PRODUCT_NAME)";
-				PRODUCT_NAME = "mda Overdrive";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaOverdrive";
+				PRODUCT_NAME = mdaOverdrive;
 				SDKROOT = "";
 			};
 			name = Release;
@@ -3203,8 +3207,8 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.$(PRODUCT_NAME)";
-				PRODUCT_NAME = "mda Piano";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaPiano";
+				PRODUCT_NAME = mdaPiano;
 				SDKROOT = "";
 			};
 			name = Debug;
@@ -3214,8 +3218,8 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.$(PRODUCT_NAME)";
-				PRODUCT_NAME = "mda Piano";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaPiano";
+				PRODUCT_NAME = mdaPiano;
 				SDKROOT = "";
 			};
 			name = Release;
@@ -3225,8 +3229,8 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.$(PRODUCT_NAME)";
-				PRODUCT_NAME = "mda RePsycho!";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaRePsycho-";
+				PRODUCT_NAME = "mdaRePsycho!";
 				SDKROOT = "";
 			};
 			name = Debug;
@@ -3236,8 +3240,8 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.$(PRODUCT_NAME)";
-				PRODUCT_NAME = "mda RePsycho!";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaRePsycho-";
+				PRODUCT_NAME = "mdaRePsycho!";
 				SDKROOT = "";
 			};
 			name = Release;
@@ -3247,8 +3251,8 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.$(PRODUCT_NAME)";
-				PRODUCT_NAME = "mda RezFilter";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaRezFilter";
+				PRODUCT_NAME = mdaRezFilter;
 				SDKROOT = "";
 			};
 			name = Debug;
@@ -3258,8 +3262,8 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.$(PRODUCT_NAME)";
-				PRODUCT_NAME = "mda RezFilter";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaRezFilter";
+				PRODUCT_NAME = mdaRezFilter;
 				SDKROOT = "";
 			};
 			name = Release;
@@ -3269,8 +3273,8 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.$(PRODUCT_NAME)";
-				PRODUCT_NAME = "mda RingMod";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaRingMod";
+				PRODUCT_NAME = mdaRingMod;
 				SDKROOT = "";
 			};
 			name = Debug;
@@ -3280,8 +3284,8 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.$(PRODUCT_NAME)";
-				PRODUCT_NAME = "mda RingMod";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaRingMod";
+				PRODUCT_NAME = mdaRingMod;
 				SDKROOT = "";
 			};
 			name = Release;
@@ -3291,8 +3295,8 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.$(PRODUCT_NAME)";
-				PRODUCT_NAME = "mda RoundPan";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaRoundPan";
+				PRODUCT_NAME = mdaRoundPan;
 				SDKROOT = "";
 			};
 			name = Debug;
@@ -3302,8 +3306,8 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.$(PRODUCT_NAME)";
-				PRODUCT_NAME = "mda RoundPan";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaRoundPan";
+				PRODUCT_NAME = mdaRoundPan;
 				SDKROOT = "";
 			};
 			name = Release;
@@ -3313,8 +3317,8 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.$(PRODUCT_NAME)";
-				PRODUCT_NAME = "mda Shepard";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaShepard";
+				PRODUCT_NAME = mdaShepard;
 				SDKROOT = "";
 			};
 			name = Debug;
@@ -3324,8 +3328,8 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.$(PRODUCT_NAME)";
-				PRODUCT_NAME = "mda Shepard";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaShepard";
+				PRODUCT_NAME = mdaShepard;
 				SDKROOT = "";
 			};
 			name = Release;
@@ -3335,8 +3339,8 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.$(PRODUCT_NAME)";
-				PRODUCT_NAME = "mda Splitter";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaSplitter";
+				PRODUCT_NAME = mdaSplitter;
 				SDKROOT = "";
 			};
 			name = Debug;
@@ -3346,8 +3350,8 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.$(PRODUCT_NAME)";
-				PRODUCT_NAME = "mda Splitter";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaSplitter";
+				PRODUCT_NAME = mdaSplitter;
 				SDKROOT = "";
 			};
 			name = Release;
@@ -3357,8 +3361,8 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.$(PRODUCT_NAME)";
-				PRODUCT_NAME = "mda Stereo";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaStereo";
+				PRODUCT_NAME = mdaStereo;
 				SDKROOT = "";
 			};
 			name = Debug;
@@ -3368,8 +3372,8 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.$(PRODUCT_NAME)";
-				PRODUCT_NAME = "mda Stereo";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaStereo";
+				PRODUCT_NAME = mdaStereo;
 				SDKROOT = "";
 			};
 			name = Release;
@@ -3379,8 +3383,8 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.$(PRODUCT_NAME)";
-				PRODUCT_NAME = "mda TestTone";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaTestTone";
+				PRODUCT_NAME = mdaTestTone;
 				SDKROOT = "";
 			};
 			name = Debug;
@@ -3390,8 +3394,8 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.$(PRODUCT_NAME)";
-				PRODUCT_NAME = "mda TestTone";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaTestTone";
+				PRODUCT_NAME = mdaTestTone;
 				SDKROOT = "";
 			};
 			name = Release;
@@ -3401,8 +3405,8 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.$(PRODUCT_NAME)";
-				PRODUCT_NAME = "mda ThruZero";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaThruZero";
+				PRODUCT_NAME = mdaThruZero;
 				SDKROOT = "";
 			};
 			name = Debug;
@@ -3412,8 +3416,8 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.$(PRODUCT_NAME)";
-				PRODUCT_NAME = "mda ThruZero";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaThruZero";
+				PRODUCT_NAME = mdaThruZero;
 				SDKROOT = "";
 			};
 			name = Release;
@@ -3423,8 +3427,8 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.$(PRODUCT_NAME)";
-				PRODUCT_NAME = "mda Tracker";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaTracker";
+				PRODUCT_NAME = mdaTracker;
 				SDKROOT = "";
 			};
 			name = Debug;
@@ -3434,8 +3438,8 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.$(PRODUCT_NAME)";
-				PRODUCT_NAME = "mda Tracker";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaTracker";
+				PRODUCT_NAME = mdaTracker;
 				SDKROOT = "";
 			};
 			name = Release;
@@ -3445,8 +3449,8 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.$(PRODUCT_NAME)";
-				PRODUCT_NAME = "mda Transient";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaTransient";
+				PRODUCT_NAME = mdaTransient;
 				SDKROOT = "";
 			};
 			name = Debug;
@@ -3456,8 +3460,8 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.$(PRODUCT_NAME)";
-				PRODUCT_NAME = "mda Transient";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaTransient";
+				PRODUCT_NAME = mdaTransient;
 				SDKROOT = "";
 			};
 			name = Release;
@@ -3467,8 +3471,8 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.$(PRODUCT_NAME)";
-				PRODUCT_NAME = "mda VocInput";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaVocInput";
+				PRODUCT_NAME = mdaVocInput;
 				SDKROOT = "";
 			};
 			name = Debug;
@@ -3478,8 +3482,8 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.$(PRODUCT_NAME)";
-				PRODUCT_NAME = "mda VocInput";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaVocInput";
+				PRODUCT_NAME = mdaVocInput;
 				SDKROOT = "";
 			};
 			name = Release;
@@ -3489,8 +3493,8 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.$(PRODUCT_NAME)";
-				PRODUCT_NAME = "mda Vocoder";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaVocoder";
+				PRODUCT_NAME = mdaVocoder;
 				SDKROOT = "";
 			};
 			name = Debug;
@@ -3500,8 +3504,8 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.$(PRODUCT_NAME)";
-				PRODUCT_NAME = "mda Vocoder";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaVocoder";
+				PRODUCT_NAME = mdaVocoder;
 				SDKROOT = "";
 			};
 			name = Release;
@@ -3557,8 +3561,8 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.$(PRODUCT_NAME)";
-				PRODUCT_NAME = "mda Looplex";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaLooplex";
+				PRODUCT_NAME = mdaLooplex;
 				SDKROOT = "";
 			};
 			name = Debug;
@@ -3568,8 +3572,8 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.$(PRODUCT_NAME)";
-				PRODUCT_NAME = "mda Looplex";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaLooplex";
+				PRODUCT_NAME = mdaLooplex;
 				SDKROOT = "";
 			};
 			name = Release;
@@ -3579,8 +3583,8 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.$(PRODUCT_NAME)";
-				PRODUCT_NAME = "mda SubSynth";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaSubSynth";
+				PRODUCT_NAME = mdaSubSynth;
 				SDKROOT = "";
 			};
 			name = Debug;
@@ -3590,8 +3594,8 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.$(PRODUCT_NAME)";
-				PRODUCT_NAME = "mda SubSynth";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaSubSynth";
+				PRODUCT_NAME = mdaSubSynth;
 				SDKROOT = "";
 			};
 			name = Release;
@@ -3608,7 +3612,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		4FADC23308B4156C00ABE55E /* Build configuration list for PBXNativeTarget "mda Ambience" */ = {
+		4FADC23308B4156C00ABE55E /* Build configuration list for PBXNativeTarget "mdaAmbience" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				4FADC23408B4156C00ABE55E /* Debug */,
@@ -3626,7 +3630,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		6CA0EDF509C36A0000811C25 /* Build configuration list for PBXNativeTarget "mda Bandisto" */ = {
+		6CA0EDF509C36A0000811C25 /* Build configuration list for PBXNativeTarget "mdaBandisto" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				6CA0EDF609C36A0000811C25 /* Debug */,
@@ -3635,7 +3639,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		6CA0EE1709C36F5F00811C25 /* Build configuration list for PBXNativeTarget "mda BeatBox" */ = {
+		6CA0EE1709C36F5F00811C25 /* Build configuration list for PBXNativeTarget "mdaBeatBox" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				6CA0EE1809C36F5F00811C25 /* Debug */,
@@ -3644,7 +3648,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		6CA0EE2309C36F8A00811C25 /* Build configuration list for PBXNativeTarget "mda Combo" */ = {
+		6CA0EE2309C36F8A00811C25 /* Build configuration list for PBXNativeTarget "mdaCombo" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				6CA0EE2409C36F8A00811C25 /* Debug */,
@@ -3653,7 +3657,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		6CA0EE2F09C36F9300811C25 /* Build configuration list for PBXNativeTarget "mda De-ess" */ = {
+		6CA0EE2F09C36F9300811C25 /* Build configuration list for PBXNativeTarget "mdaDe-ess" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				6CA0EE3009C36F9300811C25 /* Debug */,
@@ -3662,7 +3666,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		6CA0EE3B09C36FB300811C25 /* Build configuration list for PBXNativeTarget "mda Degrade" */ = {
+		6CA0EE3B09C36FB300811C25 /* Build configuration list for PBXNativeTarget "mdaDegrade" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				6CA0EE3C09C36FB300811C25 /* Debug */,
@@ -3671,7 +3675,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		6CA0EE4709C36FC400811C25 /* Build configuration list for PBXNativeTarget "mda Delay" */ = {
+		6CA0EE4709C36FC400811C25 /* Build configuration list for PBXNativeTarget "mdaDelay" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				6CA0EE4809C36FC400811C25 /* Debug */,
@@ -3680,7 +3684,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		6CA0EE5309C36FD400811C25 /* Build configuration list for PBXNativeTarget "mda Detune" */ = {
+		6CA0EE5309C36FD400811C25 /* Build configuration list for PBXNativeTarget "mdaDetune" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				6CA0EE5409C36FD400811C25 /* Debug */,
@@ -3689,7 +3693,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		6CA0EE5F09C36FE900811C25 /* Build configuration list for PBXNativeTarget "mda Dither" */ = {
+		6CA0EE5F09C36FE900811C25 /* Build configuration list for PBXNativeTarget "mdaDither" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				6CA0EE6009C36FE900811C25 /* Debug */,
@@ -3698,7 +3702,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		6CA0EE6B09C36FF900811C25 /* Build configuration list for PBXNativeTarget "mda DubDelay" */ = {
+		6CA0EE6B09C36FF900811C25 /* Build configuration list for PBXNativeTarget "mdaDubDelay" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				6CA0EE6C09C36FF900811C25 /* Debug */,
@@ -3707,7 +3711,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		6CA0EE7709C3701D00811C25 /* Build configuration list for PBXNativeTarget "mda DX10" */ = {
+		6CA0EE7709C3701D00811C25 /* Build configuration list for PBXNativeTarget "mdaDX10" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				6CA0EE7809C3701D00811C25 /* Debug */,
@@ -3716,7 +3720,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		6CA0EE8309C3703000811C25 /* Build configuration list for PBXNativeTarget "mda Dynamics" */ = {
+		6CA0EE8309C3703000811C25 /* Build configuration list for PBXNativeTarget "mdaDynamics" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				6CA0EE8409C3703000811C25 /* Debug */,
@@ -3725,7 +3729,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		6CA0EE8F09C3703D00811C25 /* Build configuration list for PBXNativeTarget "mda ePiano" */ = {
+		6CA0EE8F09C3703D00811C25 /* Build configuration list for PBXNativeTarget "mdaePiano" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				6CA0EE9009C3703D00811C25 /* Debug */,
@@ -3734,7 +3738,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		6CA0EE9B09C3705600811C25 /* Build configuration list for PBXNativeTarget "mda Image" */ = {
+		6CA0EE9B09C3705600811C25 /* Build configuration list for PBXNativeTarget "mdaImage" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				6CA0EE9C09C3705600811C25 /* Debug */,
@@ -3743,7 +3747,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		6CA0EEB309C3707A00811C25 /* Build configuration list for PBXNativeTarget "mda Leslie" */ = {
+		6CA0EEB309C3707A00811C25 /* Build configuration list for PBXNativeTarget "mdaLeslie" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				6CA0EEB409C3707A00811C25 /* Debug */,
@@ -3752,7 +3756,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		6CA0EEBF09C3708C00811C25 /* Build configuration list for PBXNativeTarget "mda Limiter" */ = {
+		6CA0EEBF09C3708C00811C25 /* Build configuration list for PBXNativeTarget "mdaLimiter" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				6CA0EEC009C3708C00811C25 /* Debug */,
@@ -3761,7 +3765,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		6CA0EECB09C3709E00811C25 /* Build configuration list for PBXNativeTarget "mda Loudness" */ = {
+		6CA0EECB09C3709E00811C25 /* Build configuration list for PBXNativeTarget "mdaLoudness" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				6CA0EECC09C3709E00811C25 /* Debug */,
@@ -3770,7 +3774,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		6CA0EED709C370B200811C25 /* Build configuration list for PBXNativeTarget "mda MultiBand" */ = {
+		6CA0EED709C370B200811C25 /* Build configuration list for PBXNativeTarget "mdaMultiBand" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				6CA0EED809C370B200811C25 /* Debug */,
@@ -3779,7 +3783,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		6CA0EEE409C370D000811C25 /* Build configuration list for PBXNativeTarget "mda Overdrive" */ = {
+		6CA0EEE409C370D000811C25 /* Build configuration list for PBXNativeTarget "mdaOverdrive" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				6CA0EEE509C370D000811C25 /* Debug */,
@@ -3788,7 +3792,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		6CA0EEF009C370E300811C25 /* Build configuration list for PBXNativeTarget "mda Piano" */ = {
+		6CA0EEF009C370E300811C25 /* Build configuration list for PBXNativeTarget "mdaPiano" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				6CA0EEF109C370E300811C25 /* Debug */,
@@ -3797,7 +3801,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		6CA0EEFC09C370F600811C25 /* Build configuration list for PBXNativeTarget "mda RePsycho!" */ = {
+		6CA0EEFC09C370F600811C25 /* Build configuration list for PBXNativeTarget "mdaRePsycho!" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				6CA0EEFD09C370F600811C25 /* Debug */,
@@ -3806,7 +3810,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		6CA0EF0A09C3716000811C25 /* Build configuration list for PBXNativeTarget "mda RezFilter" */ = {
+		6CA0EF0A09C3716000811C25 /* Build configuration list for PBXNativeTarget "mdaRezFilter" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				6CA0EF0B09C3716000811C25 /* Debug */,
@@ -3815,7 +3819,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		6CA0EF1609C3716700811C25 /* Build configuration list for PBXNativeTarget "mda RingMod" */ = {
+		6CA0EF1609C3716700811C25 /* Build configuration list for PBXNativeTarget "mdaRingMod" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				6CA0EF1709C3716700811C25 /* Debug */,
@@ -3824,7 +3828,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		6CA0EF2209C3716D00811C25 /* Build configuration list for PBXNativeTarget "mda RoundPan" */ = {
+		6CA0EF2209C3716D00811C25 /* Build configuration list for PBXNativeTarget "mdaRoundPan" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				6CA0EF2309C3716D00811C25 /* Debug */,
@@ -3833,7 +3837,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		6CA0EF2E09C3717600811C25 /* Build configuration list for PBXNativeTarget "mda Shepard" */ = {
+		6CA0EF2E09C3717600811C25 /* Build configuration list for PBXNativeTarget "mdaShepard" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				6CA0EF2F09C3717600811C25 /* Debug */,
@@ -3842,7 +3846,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		6CA0EF4609C371C600811C25 /* Build configuration list for PBXNativeTarget "mda Splitter" */ = {
+		6CA0EF4609C371C600811C25 /* Build configuration list for PBXNativeTarget "mdaSplitter" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				6CA0EF4709C371C600811C25 /* Debug */,
@@ -3851,7 +3855,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		6CA0EF5209C371D800811C25 /* Build configuration list for PBXNativeTarget "mda Stereo" */ = {
+		6CA0EF5209C371D800811C25 /* Build configuration list for PBXNativeTarget "mdaStereo" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				6CA0EF5309C371D800811C25 /* Debug */,
@@ -3860,7 +3864,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		6CA0EF7609C3720D00811C25 /* Build configuration list for PBXNativeTarget "mda TestTone" */ = {
+		6CA0EF7609C3720D00811C25 /* Build configuration list for PBXNativeTarget "mdaTestTone" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				6CA0EF7709C3720D00811C25 /* Debug */,
@@ -3869,7 +3873,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		6CA0EF8209C3722300811C25 /* Build configuration list for PBXNativeTarget "mda ThruZero" */ = {
+		6CA0EF8209C3722300811C25 /* Build configuration list for PBXNativeTarget "mdaThruZero" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				6CA0EF8309C3722300811C25 /* Debug */,
@@ -3878,7 +3882,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		6CA0EF8E09C3723600811C25 /* Build configuration list for PBXNativeTarget "mda Tracker" */ = {
+		6CA0EF8E09C3723600811C25 /* Build configuration list for PBXNativeTarget "mdaTracker" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				6CA0EF8F09C3723600811C25 /* Debug */,
@@ -3887,7 +3891,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		6CA0EF9A09C3724900811C25 /* Build configuration list for PBXNativeTarget "mda Transient" */ = {
+		6CA0EF9A09C3724900811C25 /* Build configuration list for PBXNativeTarget "mdaTransient" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				6CA0EF9B09C3724900811C25 /* Debug */,
@@ -3896,7 +3900,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		6CA0EFA609C3726500811C25 /* Build configuration list for PBXNativeTarget "mda VocInput" */ = {
+		6CA0EFA609C3726500811C25 /* Build configuration list for PBXNativeTarget "mdaVocInput" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				6CA0EFA709C3726500811C25 /* Debug */,
@@ -3905,7 +3909,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		6CA0EFB209C3727C00811C25 /* Build configuration list for PBXNativeTarget "mda Vocoder" */ = {
+		6CA0EFB209C3727C00811C25 /* Build configuration list for PBXNativeTarget "mdaVocoder" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				6CA0EFB309C3727C00811C25 /* Debug */,
@@ -3923,7 +3927,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		DA2FFA5F0A698CBE001B44E6 /* Build configuration list for PBXNativeTarget "mda Looplex" */ = {
+		DA2FFA5F0A698CBE001B44E6 /* Build configuration list for PBXNativeTarget "mdaLooplex" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				DA2FFA600A698CBE001B44E6 /* Debug */,
@@ -3932,7 +3936,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		DAB133B70B982DA3006AA414 /* Build configuration list for PBXNativeTarget "mda SubSynth" */ = {
+		DAB133B70B982DA3006AA414 /* Build configuration list for PBXNativeTarget "mdaSubSynth" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				DAB133B80B982DA3006AA414 /* Debug */,
