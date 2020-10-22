@@ -162,14 +162,14 @@ void mdaVocoder::setProgram(VstInt32 program)
 }
 
 
-void  mdaVocoder::setParameter(VstInt32 index, float value)
+void mdaVocoder::setParameter(VstInt32 index, float value)
 {
     programs[curProgram].param[index] = value;
     resume();
 }
 float mdaVocoder::getParameter(VstInt32 index) { return programs[curProgram].param[index]; }
-void  mdaVocoder::setProgramName(char* name) { strcpy(programs[curProgram].name, name); }
-void  mdaVocoder::getProgramName(char* name) { strcpy(name, programs[curProgram].name); }
+void mdaVocoder::setProgramName(char* name) { strcpy(programs[curProgram].name, name); }
+void mdaVocoder::getProgramName(char* name) { strcpy(name, programs[curProgram].name); }
 bool mdaVocoder::getProgramNameIndexed(VstInt32 category, VstInt32 index, char* name)
 {
     if ((unsigned int)index < NPROGS)
@@ -203,7 +203,7 @@ void mdaVocoder::getParameterDisplay(VstInt32 index, char* text)
 
     switch (index)
     {
-    case  0: if (swap) strcpy(string, "RIGHT"); else strcpy(string, "LEFT"); break;
+    case  0: if (swap) strcpy(string, "LEFT"); else strcpy(string, "RIGHT"); break;
     case  1: sprintf(string, "%.1f", 40.0f * param[index] - 20.0f); break;
     case  4: if (param[index] < 0.05f) strcpy(string, "FREEZE");
              else sprintf(string, "%.1f", (float)pow(10.0f, 1.0f + 3.0f * param[index])); break;
@@ -293,6 +293,10 @@ void mdaVocoder::process(float** inputs, float** outputs, VstInt32 sampleFrames)
         }
         o += oo * g; //effect of interpolating back up to Fs would be minimal (aliasing >16kHz)
 
+        if (isnan(o)) o = 0.0f;
+        if (o < -1.0f) o = -1.0f;
+        if (o > 1.0f) o = 1.0f;
+
         *++out1 = c + o;
         *++out2 = d + o;
     }
@@ -368,6 +372,10 @@ void mdaVocoder::processReplacing(float** inputs, float** outputs, VstInt32 samp
             }
         }
         o += oo * g; //effect of interpolating back up to Fs would be minimal (aliasing >16kHz)
+
+        if (isnan(o)) o = 0.0f;
+        if (o < -1.0f) o = -1.0f;
+        if (o > 1.0f) o = 1.0f;
 
         *++out1 = o;
         *++out2 = o;

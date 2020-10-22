@@ -1,7 +1,5 @@
 #pragma once
-
 #include "public.sdk/source/vst2.x/audioeffectx.h"
-
 
 #define NPARAMS  8  ///number of parameters
 #define NPROGS   5  ///number of programs
@@ -42,7 +40,7 @@ public:
     virtual bool getEffectName(char* name);
     virtual bool getVendorString(char* text);
     virtual bool getProductString(char* text);
-    virtual VstInt32 getVendorVersion() { return 1000; }
+    virtual VstInt32 getVendorVersion() { return 1010; }
 
 protected:
     mdaVocoderProgram* programs;
