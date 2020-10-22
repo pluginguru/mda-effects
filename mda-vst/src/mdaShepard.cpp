@@ -54,7 +54,7 @@ mdaShepard::mdaShepard(audioMasterCallback audioMaster) : AudioEffectX(audioMast
 
 bool  mdaShepard::getProductString(char* text) { strcpy(text, "mda Shepard"); return true; }
 bool  mdaShepard::getVendorString(char* text) { strcpy(text, "mda"); return true; }
-bool  mdaShepard::getEffectName(char* name) { strcpy(name, "Shepard"); return true; }
+bool  mdaShepard::getEffectName(char* name) { strcpy(name, "mda Shepard"); return true; }
 
 void mdaShepard::setParameter(VstInt32 index, float value)
 {

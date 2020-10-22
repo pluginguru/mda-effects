@@ -43,6 +43,7 @@ public:
     virtual bool getVendorString(char* text);
     virtual bool getProductString(char* text);
     virtual VstInt32 getVendorVersion() { return 1000; }
+    virtual VstPlugCategory getPlugCategory() { return kPlugCategEffect; }
 
 protected:
     mdaVocInputProgram* programs;

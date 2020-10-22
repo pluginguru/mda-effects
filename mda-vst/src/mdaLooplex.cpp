@@ -350,9 +350,9 @@ float mdaLooplex::getParameter(VstInt32 index) { return programs[curProgram].par
 void  mdaLooplex::setProgramName(char* name) { strcpy(programs[curProgram].name, name); }
 void  mdaLooplex::getProgramName(char* name) { strcpy(name, programs[curProgram].name); }
 void  mdaLooplex::setBlockSize(VstInt32 blockSize) { AudioEffectX::setBlockSize(blockSize); }
-bool  mdaLooplex::getEffectName(char* name) { strcpy(name, "Looplex"); return true; }
-bool  mdaLooplex::getVendorString(char* text) { strcpy(text, "mda"); return true; }
 bool  mdaLooplex::getProductString(char* text) { strcpy(text, "mda Looplex"); return true; }
+bool  mdaLooplex::getVendorString(char* text) { strcpy(text, "mda"); return true; }
+bool  mdaLooplex::getEffectName(char* name) { strcpy(name, "mda Looplex"); return true; }
 
 
 bool mdaLooplex::getProgramNameIndexed(VstInt32 category, VstInt32 index, char* text)

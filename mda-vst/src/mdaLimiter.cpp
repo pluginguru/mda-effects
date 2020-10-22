@@ -43,7 +43,7 @@ mdaLimiter::~mdaLimiter()
 
 bool  mdaLimiter::getProductString(char* text) { strcpy(text, "mda Limiter"); return true; }
 bool  mdaLimiter::getVendorString(char* text) { strcpy(text, "mda"); return true; }
-bool  mdaLimiter::getEffectName(char* name) { strcpy(name, "Limiter"); return true; }
+bool  mdaLimiter::getEffectName(char* name) { strcpy(name, "mda Limiter"); return true; }
 
 void mdaLimiter::setProgramName(char* name)
 {

@@ -69,7 +69,7 @@ mdaStereo::mdaStereo(audioMasterCallback audioMaster) : AudioEffectX(audioMaster
 
 bool  mdaStereo::getProductString(char* text) { strcpy(text, "mda Stereo"); return true; }
 bool  mdaStereo::getVendorString(char* text) { strcpy(text, "mda"); return true; }
-bool  mdaStereo::getEffectName(char* name) { strcpy(name, "Stereo"); return true; }
+bool  mdaStereo::getEffectName(char* name) { strcpy(name, "mda Stereo"); return true; }
 
 void mdaStereo::setParameter(VstInt32 index, float value)
 {

@@ -12,7 +12,7 @@ AudioEffect* createEffectInstance(audioMasterCallback audioMaster)
 
 bool  mdaDetune::getProductString(char* text) { strcpy(text, "mda Detune"); return true; }
 bool  mdaDetune::getVendorString(char* text) { strcpy(text, "mda"); return true; }
-bool  mdaDetune::getEffectName(char* name) { strcpy(name, "Detune"); return true; }
+bool  mdaDetune::getEffectName(char* name) { strcpy(name, "mda Detune"); return true; }
 
 mdaDetune::mdaDetune(audioMasterCallback audioMaster) : AudioEffectX(audioMaster, NPROGS, NPARAMS)
 {

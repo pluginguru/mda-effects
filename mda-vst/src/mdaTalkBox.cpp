@@ -53,7 +53,7 @@ mdaTalkBox::mdaTalkBox(audioMasterCallback audioMaster) : AudioEffectX(audioMast
 
 bool  mdaTalkBox::getProductString(char* text) { strcpy(text, "mda TalkBox"); return true; }
 bool  mdaTalkBox::getVendorString(char* text) { strcpy(text, "mda"); return true; }
-bool  mdaTalkBox::getEffectName(char* name) { strcpy(name, "TalkBox"); return true; }
+bool  mdaTalkBox::getEffectName(char* name) { strcpy(name, "mda TalkBox"); return true; }
 
 void mdaTalkBox::resume() ///update internal parameters...
 {

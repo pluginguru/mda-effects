@@ -39,24 +39,24 @@ projectList= [
     [ 'Vocoder', 'B41227FF-05FC-4291-8D5B-C150DA91D12B' ]
 ]
 
-project = open('mda Ambience.vcxproj').readlines()
-filters = open('mda Ambience.vcxproj.filters').readlines()
-user = open('mda Ambience.vcxproj.user').readlines()
+project = open('mdaAmbience.vcxproj').readlines()
+filters = open('mdaAmbience.vcxproj.filters').readlines()
+user = open('mdaAmbience.vcxproj.user').readlines()
 
 for [ name, guid ] in projectList[1:]:
     print name
     
-    file = open('mda ' + name + '.vcxproj', 'w')
+    file = open('mda' + name + '.vcxproj', 'w')
     for line in project:
         file.write(line.replace('FB4E8CEE-4576-401C-A97E-E353C44B6032', guid).replace('Ambience', name))
     file.close()
 
-    file = open('mda ' + name + '.vcxproj.filters', 'w')
+    file = open('mda' + name + '.vcxproj.filters', 'w')
     for line in filters:
         file.write(line.replace('Ambience', name))
     file.close()
 
-    file = open('mda ' + name + '.vcxproj.user', 'w')
+    file = open('mda' + name + '.vcxproj.user', 'w')
     for line in user:
         file.write(line)
     file.close()

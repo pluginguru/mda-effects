@@ -33,7 +33,7 @@ mdaRingMod::~mdaRingMod()
 
 bool  mdaRingMod::getProductString(char* text) { strcpy(text, "mda RingMod"); return true; }
 bool  mdaRingMod::getVendorString(char* text) { strcpy(text, "mda"); return true; }
-bool  mdaRingMod::getEffectName(char* name) { strcpy(name, "RingMod"); return true; }
+bool  mdaRingMod::getEffectName(char* name) { strcpy(name, "mda RingMod"); return true; }
 
 void mdaRingMod::setProgramName(char* name)
 {

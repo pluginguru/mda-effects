@@ -40,7 +40,7 @@ mdaDubDelay::mdaDubDelay(audioMasterCallback audioMaster) : AudioEffectX(audioMa
 
 bool  mdaDubDelay::getProductString(char* text) { strcpy(text, "mda DubDelay"); return true; }
 bool  mdaDubDelay::getVendorString(char* text) { strcpy(text, "mda"); return true; }
-bool  mdaDubDelay::getEffectName(char* name) { strcpy(name, "DubDelay"); return true; }
+bool  mdaDubDelay::getEffectName(char* name) { strcpy(name, "mda DubDelay"); return true; }
 
 void mdaDubDelay::setParameter(VstInt32 index, float value)
 {

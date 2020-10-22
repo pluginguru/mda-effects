@@ -54,7 +54,7 @@ mdaRePsycho::mdaRePsycho(audioMasterCallback audioMaster) : AudioEffectX(audioMa
 
 bool  mdaRePsycho::getProductString(char* text) { strcpy(text, "mda RePsycho!"); return true; }
 bool  mdaRePsycho::getVendorString(char* text) { strcpy(text, "mda"); return true; }
-bool  mdaRePsycho::getEffectName(char* name) { strcpy(name, "RePsycho!"); return true; }
+bool  mdaRePsycho::getEffectName(char* name) { strcpy(name, "mda RePsycho!"); return true; }
 
 void mdaRePsycho::setParameter(VstInt32 index, float value)
 {

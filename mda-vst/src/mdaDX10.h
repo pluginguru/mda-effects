@@ -66,6 +66,7 @@ public:
     virtual bool getProductString(char* text);
     virtual VstInt32 getVendorVersion() { return 1; }
     virtual VstInt32 canDo(char* text);
+    virtual VstPlugCategory getPlugCategory() { return kPlugCategSynth; }
 
     virtual VstInt32 getNumMidiInputChannels() { return 1; }
 

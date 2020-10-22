@@ -55,10 +55,12 @@ mdaVocoder::mdaVocoder(audioMasterCallback audioMaster) : AudioEffectX(audioMast
 
 bool  mdaVocoder::getProductString(char* text) { strcpy(text, "mda Vocoder"); return true; }
 bool  mdaVocoder::getVendorString(char* text) { strcpy(text, "mda"); return true; }
-bool  mdaVocoder::getEffectName(char* name) { strcpy(name, "Vocoder"); return true; }
+bool  mdaVocoder::getEffectName(char* name) { strcpy(name, "mda Vocoder"); return true; }
 
 void mdaVocoder::resume() ///update internal parameters...
 {
+    std::lock_guard<std::mutex> guard(mutex);
+
     float* param = programs[curProgram].param;
     double tpofs = 6.2831853 / getSampleRate();
     double rr, th, re;
@@ -233,6 +235,8 @@ void mdaVocoder::getParameterLabel(VstInt32 index, char* label)
 
 void mdaVocoder::process(float** inputs, float** outputs, VstInt32 sampleFrames)
 {
+    std::lock_guard<std::mutex> guard(mutex);
+
     float* in1 = inputs[0];
     float* in2 = inputs[1];
     float* out1 = outputs[0];
@@ -315,6 +319,8 @@ void mdaVocoder::process(float** inputs, float** outputs, VstInt32 sampleFrames)
 
 void mdaVocoder::processReplacing(float** inputs, float** outputs, VstInt32 sampleFrames)
 {
+    std::lock_guard<std::mutex> guard(mutex);
+
     float* in1 = inputs[0];
     float* in2 = inputs[1];
     float* out1 = outputs[0];

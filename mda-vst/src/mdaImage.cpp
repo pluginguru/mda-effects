@@ -29,7 +29,7 @@ mdaImage::mdaImage(audioMasterCallback audioMaster) : AudioEffectX(audioMaster, 
 
 bool  mdaImage::getProductString(char* text) { strcpy(text, "mda Image"); return true; }
 bool  mdaImage::getVendorString(char* text) { strcpy(text, "mda"); return true; }
-bool  mdaImage::getEffectName(char* name) { strcpy(name, "Image"); return true; }
+bool  mdaImage::getEffectName(char* name) { strcpy(name, "mda Image"); return true; }
 
 void mdaImage::setParameter(VstInt32 index, float value)
 {

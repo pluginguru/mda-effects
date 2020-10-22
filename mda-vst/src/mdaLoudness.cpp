@@ -36,7 +36,7 @@ mdaLoudnessProgram::mdaLoudnessProgram() ///default program settings
 
 bool  mdaLoudness::getProductString(char* text) { strcpy(text, "mda Loudness"); return true; }
 bool  mdaLoudness::getVendorString(char* text) { strcpy(text, "mda"); return true; }
-bool  mdaLoudness::getEffectName(char* name) { strcpy(name, "Loudness"); return true; }
+bool  mdaLoudness::getEffectName(char* name) { strcpy(name, "mda Loudness"); return true; }
 
 mdaLoudness::mdaLoudness(audioMasterCallback audioMaster) : AudioEffectX(audioMaster, NPROGS, NPARAMS)
 {

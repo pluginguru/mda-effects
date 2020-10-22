@@ -3,81 +3,81 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29230.47
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mda Delay", "mda Delay.vcxproj", "{A56D5788-2B5F-44CE-BE31-AA121854880D}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mdaDelay", "mdaDelay.vcxproj", "{A56D5788-2B5F-44CE-BE31-AA121854880D}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mda Ambience", "mda Ambience.vcxproj", "{FB4E8CEE-4576-401C-A97E-E353C44B6032}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mdaAmbience", "mdaAmbience.vcxproj", "{FB4E8CEE-4576-401C-A97E-E353C44B6032}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mda Bandisto", "mda Bandisto.vcxproj", "{95FC53A4-AAC1-44FE-8F89-940AEB157DE1}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mdaBandisto", "mdaBandisto.vcxproj", "{95FC53A4-AAC1-44FE-8F89-940AEB157DE1}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mda BeatBox", "mda BeatBox.vcxproj", "{32A35CE0-456D-48BF-9FF6-EA0DA09ADE7E}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mdaBeatBox", "mdaBeatBox.vcxproj", "{32A35CE0-456D-48BF-9FF6-EA0DA09ADE7E}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mda Combo", "mda Combo.vcxproj", "{E36A56F0-BE42-470F-8769-E1553F6B6B39}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mdaCombo", "mdaCombo.vcxproj", "{E36A56F0-BE42-470F-8769-E1553F6B6B39}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mda DeEss", "mda DeEss.vcxproj", "{318EEA04-FCDB-4C87-A083-1650D6968FF3}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mdaDeEss", "mdaDeEss.vcxproj", "{318EEA04-FCDB-4C87-A083-1650D6968FF3}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mda Degrade", "mda Degrade.vcxproj", "{3F2FE336-1EC7-4A5D-8A70-0E2F9FA482F3}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mdaDegrade", "mdaDegrade.vcxproj", "{3F2FE336-1EC7-4A5D-8A70-0E2F9FA482F3}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mda Detune", "mda Detune.vcxproj", "{EAD7038D-4BF5-4B1D-BAA6-DD326DBE50D3}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mdaDetune", "mdaDetune.vcxproj", "{EAD7038D-4BF5-4B1D-BAA6-DD326DBE50D3}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mda Dither", "mda Dither.vcxproj", "{FE5E0B29-E8D0-4C7B-B125-918E22760213}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mdaDither", "mdaDither.vcxproj", "{FE5E0B29-E8D0-4C7B-B125-918E22760213}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mda DubDelay", "mda DubDelay.vcxproj", "{8C13A5F2-A61E-4996-9571-74C71CF8E514}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mdaDubDelay", "mdaDubDelay.vcxproj", "{8C13A5F2-A61E-4996-9571-74C71CF8E514}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mda DX10", "mda DX10.vcxproj", "{8A2B47A5-692A-49C4-A6F2-5B5AB2FA63A0}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mdaDX10", "mdaDX10.vcxproj", "{8A2B47A5-692A-49C4-A6F2-5B5AB2FA63A0}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mda Dynamics", "mda Dynamics.vcxproj", "{4B6F8B6A-5CAC-4C82-86D7-CECB46123596}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mdaDynamics", "mdaDynamics.vcxproj", "{4B6F8B6A-5CAC-4C82-86D7-CECB46123596}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mda Envelope", "mda Envelope.vcxproj", "{C8244281-E77B-4904-89D2-6CF0066B842A}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mdaEnvelope", "mdaEnvelope.vcxproj", "{C8244281-E77B-4904-89D2-6CF0066B842A}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mda ePiano", "mda ePiano.vcxproj", "{E690AA48-7771-4890-A778-4D1F39287BF1}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mdaePiano", "mdaePiano.vcxproj", "{E690AA48-7771-4890-A778-4D1F39287BF1}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mda Image", "mda Image.vcxproj", "{6B616B46-4D10-46A1-B36D-1B9A27EFFC8D}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mdaImage", "mdaImage.vcxproj", "{6B616B46-4D10-46A1-B36D-1B9A27EFFC8D}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mda JX10", "mda JX10.vcxproj", "{09446102-1AFF-4937-8E2F-C8EF1678DF71}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mdaJX10", "mdaJX10.vcxproj", "{09446102-1AFF-4937-8E2F-C8EF1678DF71}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mda Leslie", "mda Leslie.vcxproj", "{520AC083-0E34-44D2-9DAE-058312A4E097}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mdaLeslie", "mdaLeslie.vcxproj", "{520AC083-0E34-44D2-9DAE-058312A4E097}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mda Limiter", "mda Limiter.vcxproj", "{0A1666DD-B1D1-4031-8EFA-D86461FA5D0B}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mdaLimiter", "mdaLimiter.vcxproj", "{0A1666DD-B1D1-4031-8EFA-D86461FA5D0B}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mda Looplex", "mda Looplex.vcxproj", "{5EE3E91A-359D-4FF8-A9A3-DA289E5B44E7}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mdaLooplex", "mdaLooplex.vcxproj", "{5EE3E91A-359D-4FF8-A9A3-DA289E5B44E7}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mda Loudness", "mda Loudness.vcxproj", "{C4D3A095-2D71-4DCE-806B-1BD381D34B54}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mdaLoudness", "mdaLoudness.vcxproj", "{C4D3A095-2D71-4DCE-806B-1BD381D34B54}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mda MultiBand", "mda MultiBand.vcxproj", "{8F827951-F2BD-4A3C-AB4F-74F6BA1034BA}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mdaMultiBand", "mdaMultiBand.vcxproj", "{8F827951-F2BD-4A3C-AB4F-74F6BA1034BA}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mda Overdrive", "mda Overdrive.vcxproj", "{0BB13495-2C0A-458D-B09F-5AA9918EBD2F}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mdaOverdrive", "mdaOverdrive.vcxproj", "{0BB13495-2C0A-458D-B09F-5AA9918EBD2F}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mda Piano", "mda Piano.vcxproj", "{0E324D7F-CFFE-4BEB-9402-BAEF80A3CA3D}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mdaPiano", "mdaPiano.vcxproj", "{0E324D7F-CFFE-4BEB-9402-BAEF80A3CA3D}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mda RePsycho!", "mda RePsycho!.vcxproj", "{E940A746-65D2-493A-BFA8-071A8DC97484}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mdaRePsycho!", "mdaRePsycho!.vcxproj", "{E940A746-65D2-493A-BFA8-071A8DC97484}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mda RezFilter", "mda RezFilter.vcxproj", "{370D98C9-13FF-4EFD-8C40-3271DBC49CA8}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mdaRezFilter", "mdaRezFilter.vcxproj", "{370D98C9-13FF-4EFD-8C40-3271DBC49CA8}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mda RingMod", "mda RingMod.vcxproj", "{19803485-24A6-438B-A9ED-49B07A020D2B}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mdaRingMod", "mdaRingMod.vcxproj", "{19803485-24A6-438B-A9ED-49B07A020D2B}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mda RoundPan", "mda RoundPan.vcxproj", "{A08D00BC-3A44-4228-A038-60B2B4234A34}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mdaRoundPan", "mdaRoundPan.vcxproj", "{A08D00BC-3A44-4228-A038-60B2B4234A34}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mda Shepard", "mda Shepard.vcxproj", "{4C0FBB7A-7AAB-4627-BFFE-E6DE1F91724D}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mdaShepard", "mdaShepard.vcxproj", "{4C0FBB7A-7AAB-4627-BFFE-E6DE1F91724D}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mda Splitter", "mda Splitter.vcxproj", "{0887BA3E-77B7-4BC0-A7CF-047935F8A171}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mdaSplitter", "mdaSplitter.vcxproj", "{0887BA3E-77B7-4BC0-A7CF-047935F8A171}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mda Stereo", "mda Stereo.vcxproj", "{3BB87A27-4C7C-4315-ABDB-FFE67BFA7F87}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mdaStereo", "mdaStereo.vcxproj", "{3BB87A27-4C7C-4315-ABDB-FFE67BFA7F87}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mda SubSynth", "mda SubSynth.vcxproj", "{C15528A8-2CF7-4F7E-92C0-E341A5BC9A5A}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mdaSubSynth", "mdaSubSynth.vcxproj", "{C15528A8-2CF7-4F7E-92C0-E341A5BC9A5A}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mda TalkBox", "mda TalkBox.vcxproj", "{56B68EB3-A0E7-4774-9CB5-4C04E94709C7}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mdaTalkBox", "mdaTalkBox.vcxproj", "{56B68EB3-A0E7-4774-9CB5-4C04E94709C7}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mda TestTone", "mda TestTone.vcxproj", "{1380896C-BBEF-4002-8B5F-E7960C693AA2}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mdaTestTone", "mdaTestTone.vcxproj", "{1380896C-BBEF-4002-8B5F-E7960C693AA2}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mda ThruZero", "mda ThruZero.vcxproj", "{8D951236-0515-4372-8932-EC9EEB4AC4EF}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mdaThruZero", "mdaThruZero.vcxproj", "{8D951236-0515-4372-8932-EC9EEB4AC4EF}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mda Tracker", "mda Tracker.vcxproj", "{8126931B-1709-4811-8A08-A0D61B65C06B}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mdaTracker", "mdaTracker.vcxproj", "{8126931B-1709-4811-8A08-A0D61B65C06B}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mda Transient", "mda Transient.vcxproj", "{D237E487-AB16-4FB5-8FE6-DDCA95319EF5}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mdaTransient", "mdaTransient.vcxproj", "{D237E487-AB16-4FB5-8FE6-DDCA95319EF5}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mda VocInput", "mda VocInput.vcxproj", "{ED6929F9-DFD2-4E71-8823-E2E9B5CD7BA8}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mdaVocInput", "mdaVocInput.vcxproj", "{ED6929F9-DFD2-4E71-8823-E2E9B5CD7BA8}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mda Vocoder", "mda Vocoder.vcxproj", "{B41227FF-05FC-4291-8D5B-C150DA91D12B}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mdaVocoder", "mdaVocoder.vcxproj", "{B41227FF-05FC-4291-8D5B-C150DA91D12B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

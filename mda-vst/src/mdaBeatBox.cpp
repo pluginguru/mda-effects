@@ -71,7 +71,7 @@ mdaBeatBox::mdaBeatBox(audioMasterCallback audioMaster) : AudioEffectX(audioMast
 
 bool  mdaBeatBox::getProductString(char* text) { strcpy(text, "mda BeatBox"); return true; }
 bool  mdaBeatBox::getVendorString(char* text) { strcpy(text, "mda"); return true; }
-bool  mdaBeatBox::getEffectName(char* name) { strcpy(name, "BeatBox"); return true; }
+bool  mdaBeatBox::getEffectName(char* name) { strcpy(name, "mda BeatBox"); return true; }
 
 void mdaBeatBox::setProgramName(char* name)
 {

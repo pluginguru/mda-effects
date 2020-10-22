@@ -27,7 +27,7 @@ mdaDeEss::mdaDeEss(audioMasterCallback audioMaster) : AudioEffectX(audioMaster, 
 
 bool  mdaDeEss::getProductString(char* text) { strcpy(text, "mda De-ess"); return true; }
 bool  mdaDeEss::getVendorString(char* text) { strcpy(text, "mda"); return true; }
-bool  mdaDeEss::getEffectName(char* name) { strcpy(name, "De-ess"); return true; }
+bool  mdaDeEss::getEffectName(char* name) { strcpy(name, "mda De-ess"); return true; }
 
 void mdaDeEss::setParameter(VstInt32 index, float value)
 {

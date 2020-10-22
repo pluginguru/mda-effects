@@ -59,7 +59,7 @@ void mdaEnvelope::suspend()
 
 bool mdaEnvelope::getProductString(char* text) { strcpy(text, "mda Envelope"); return true; }
 bool mdaEnvelope::getVendorString(char* text) { strcpy(text, "mda"); return true; }
-bool mdaEnvelope::getEffectName(char* name) { strcpy(name, "Envelope"); return true; }
+bool mdaEnvelope::getEffectName(char* name) { strcpy(name, "mda Envelope"); return true; }
 
 
 void mdaEnvelope::setProgramName(char* name)

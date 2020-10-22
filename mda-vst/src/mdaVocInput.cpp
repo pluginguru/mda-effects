@@ -37,7 +37,7 @@ mdaVocInput::mdaVocInput(audioMasterCallback audioMaster) : AudioEffectX(audioMa
 
 bool  mdaVocInput::getProductString(char* text) { strcpy(text, "mda VocInput"); return true; }
 bool  mdaVocInput::getVendorString(char* text) { strcpy(text, "mda"); return true; }
-bool  mdaVocInput::getEffectName(char* name) { strcpy(name, "VocInput"); return true; }
+bool  mdaVocInput::getEffectName(char* name) { strcpy(name, "mda VocInput"); return true; }
 
 void mdaVocInput::resume() ///update internal parameters...
 {

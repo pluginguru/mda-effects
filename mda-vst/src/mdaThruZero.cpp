@@ -62,7 +62,7 @@ mdaThruZero::mdaThruZero(audioMasterCallback audioMaster) : AudioEffectX(audioMa
 
 bool  mdaThruZero::getProductString(char* text) { strcpy(text, "mda ThruZero"); return true; }
 bool  mdaThruZero::getVendorString(char* text) { strcpy(text, "mda"); return true; }
-bool  mdaThruZero::getEffectName(char* name) { strcpy(name, "ThruZero"); return true; }
+bool  mdaThruZero::getEffectName(char* name) { strcpy(name, "mda ThruZero"); return true; }
 
 void mdaThruZero::resume() ///update internal parameters...
 {

@@ -32,7 +32,7 @@ mdaDegrade::mdaDegrade(audioMasterCallback audioMaster) : AudioEffectX(audioMast
 
 bool  mdaDegrade::getProductString(char* text) { strcpy(text, "mda Degrade"); return true; }
 bool  mdaDegrade::getVendorString(char* text) { strcpy(text, "mda"); return true; }
-bool  mdaDegrade::getEffectName(char* name) { strcpy(name, "Degrade"); return true; }
+bool  mdaDegrade::getEffectName(char* name) { strcpy(name, "mda Degrade"); return true; }
 
 void mdaDegrade::setParameter(VstInt32 index, float value)
 {

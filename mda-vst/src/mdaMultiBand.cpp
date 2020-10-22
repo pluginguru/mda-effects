@@ -88,7 +88,7 @@ mdaMultiBand::~mdaMultiBand()
 
 bool  mdaMultiBand::getProductString(char* text) { strcpy(text, "mda MultiBand"); return true; }
 bool  mdaMultiBand::getVendorString(char* text) { strcpy(text, "mda"); return true; }
-bool  mdaMultiBand::getEffectName(char* name) { strcpy(name, "MultiBand"); return true; }
+bool  mdaMultiBand::getEffectName(char* name) { strcpy(name, "mda MultiBand"); return true; }
 
 void mdaMultiBand::setProgramName(char* name)
 {

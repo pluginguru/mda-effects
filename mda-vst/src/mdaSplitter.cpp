@@ -33,7 +33,7 @@ mdaSplitter::mdaSplitter(audioMasterCallback audioMaster) : AudioEffectX(audioMa
 
 bool  mdaSplitter::getProductString(char* text) { strcpy(text, "mda Splitter"); return true; }
 bool  mdaSplitter::getVendorString(char* text) { strcpy(text, "mda"); return true; }
-bool  mdaSplitter::getEffectName(char* name) { strcpy(name, "Splitter"); return true; }
+bool  mdaSplitter::getEffectName(char* name) { strcpy(name, "mda Splitter"); return true; }
 
 void mdaSplitter::resume() ///update internal parameters...
 {

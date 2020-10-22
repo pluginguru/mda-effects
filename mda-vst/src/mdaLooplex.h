@@ -49,6 +49,9 @@ public:
     virtual VstInt32 getVendorVersion() { return 1; }
     virtual VstInt32 canDo(char* text);
 
+    // SD I haven't figured out what this one does yet!
+    virtual VstPlugCategory getPlugCategory() { return kPlugCategUnknown; }
+
     virtual VstInt32 getNumMidiInputChannels() { return 1; }
 
     void idle();

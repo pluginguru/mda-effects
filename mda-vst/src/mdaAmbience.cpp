@@ -69,7 +69,7 @@ mdaAmbience::~mdaAmbience()
 
 bool  mdaAmbience::getProductString(char* text) { strcpy(text, "mda Ambience"); return true; }
 bool  mdaAmbience::getVendorString(char* text) { strcpy(text, "mda"); return true; }
-bool  mdaAmbience::getEffectName(char* name) { strcpy(name, "Ambience"); return true; }
+bool  mdaAmbience::getEffectName(char* name) { strcpy(name, "mda Ambience"); return true; }
 
 void mdaAmbience::suspend()
 {

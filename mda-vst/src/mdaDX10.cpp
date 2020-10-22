@@ -184,9 +184,9 @@ float mdaDX10::getParameter(VstInt32 index) { return programs[curProgram].param[
 void  mdaDX10::setProgramName(char* name) { strcpy(programs[curProgram].name, name); }
 void  mdaDX10::getProgramName(char* name) { strcpy(name, programs[curProgram].name); }
 void  mdaDX10::setBlockSize(VstInt32 blockSize) { AudioEffectX::setBlockSize(blockSize); }
-bool  mdaDX10::getEffectName(char* name) { strcpy(name, "DX10"); return true; }
-bool  mdaDX10::getVendorString(char* text) { strcpy(text, "mda"); return true; }
 bool  mdaDX10::getProductString(char* text) { strcpy(text, "mda DX10"); return true; }
+bool  mdaDX10::getVendorString(char* text) { strcpy(text, "mda"); return true; }
+bool  mdaDX10::getEffectName(char* name) { strcpy(name, "mda DX10"); return true; }
 
 
 bool mdaDX10::getOutputProperties(VstInt32 index, VstPinProperties* properties)

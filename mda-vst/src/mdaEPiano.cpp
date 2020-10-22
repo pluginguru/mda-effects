@@ -201,9 +201,9 @@ float mdaEPiano::getParameter(VstInt32 index) { return programs[curProgram].para
 void  mdaEPiano::setProgramName(char* name) { strcpy(programs[curProgram].name, name); }
 void  mdaEPiano::getProgramName(char* name) { strcpy(name, programs[curProgram].name); }
 void  mdaEPiano::setBlockSize(VstInt32 blockSize) { AudioEffectX::setBlockSize(blockSize); }
-bool  mdaEPiano::getEffectName(char* name) { strcpy(name, "ePiano"); return true; }
-bool  mdaEPiano::getVendorString(char* text) { strcpy(text, "mda"); return true; }
 bool  mdaEPiano::getProductString(char* text) { strcpy(text, "mda ePiano"); return true; }
+bool  mdaEPiano::getVendorString(char* text) { strcpy(text, "mda"); return true; }
+bool  mdaEPiano::getEffectName(char* name) { strcpy(name, "mda ePiano"); return true; }
 
 
 bool mdaEPiano::getOutputProperties(VstInt32 index, VstPinProperties* properties)
