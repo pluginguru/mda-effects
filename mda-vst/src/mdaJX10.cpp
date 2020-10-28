@@ -551,6 +551,10 @@ void mdaJX10::process(float** inputs, float** outputs, VstInt32 sampleFrames)
                     V++;
                 }
 
+                if (isnan(o)) o = 0.0f;
+                if (o < -1.0f) o = -1.0f;
+                if (o > 1.0f) o = 1.0f;
+
                 *out1++ += o;
                 *out2++ += o;
             }
@@ -720,6 +724,10 @@ void mdaJX10::processReplacing(float** inputs, float** outputs, VstInt32 sampleF
                     }
                     V++;
                 }
+
+                if (isnan(o)) o = 0.0f;
+                if (o < -1.0f) o = -1.0f;
+                if (o > 1.0f) o = 1.0f;
 
                 *out1++ = o;
                 *out2++ = o;
