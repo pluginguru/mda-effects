@@ -64,7 +64,7 @@ public:
     virtual bool getEffectName(char* name);
     virtual bool getVendorString(char* text);
     virtual bool getProductString(char* text);
-    virtual VstInt32 getVendorVersion() { return 1; }
+    virtual VstInt32 getVendorVersion() { return 1010; }
     virtual VstInt32 canDo(char* text);
     virtual VstPlugCategory getPlugCategory() { return kPlugCategSynth; }
 
