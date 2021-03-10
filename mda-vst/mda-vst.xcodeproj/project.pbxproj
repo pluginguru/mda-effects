@@ -2798,7 +2798,7 @@
 				);
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
 				INFOPLIST_PREPROCESS = YES;
-				ONLY_ACTIVE_ARCH = NO;
+				ONLY_ACTIVE_ARCH = YES;
 				OTHER_CODE_SIGN_FLAGS = "--timestamp";
 				SDKROOT = "";
 				WARNING_CFLAGS = "-Wall";
