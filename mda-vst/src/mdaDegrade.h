@@ -23,7 +23,7 @@ public:
     virtual bool getEffectName(char* name) { strcpy(name, "mda Degrade"); return true; }
     virtual bool getVendorString(char* text) { strcpy(text, "mda"); return true; }
     virtual bool getProductString(char* text) { strcpy(text, "mda Degrade"); return true; }
-    virtual VstInt32 getVendorVersion() { return 1000; }
+    virtual VstInt32 getVendorVersion() { return 2000; }
     virtual VstPlugCategory getPlugCategory() { return kPlugCategEffect; }
 
 protected:
