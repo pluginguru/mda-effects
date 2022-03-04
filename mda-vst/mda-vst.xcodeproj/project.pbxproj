@@ -56,116 +56,116 @@
 /* End PBXAggregateTarget section */
 
 /* Begin PBXBuildFile section */
-		344B8C612325D59500860751 /* audioeffect.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 344B8C5C2325D59400860751 /* audioeffect.cpp */; };
-		344B8C622325D59500860751 /* audioeffect.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 344B8C5C2325D59400860751 /* audioeffect.cpp */; };
-		344B8C632325D59500860751 /* audioeffect.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 344B8C5C2325D59400860751 /* audioeffect.cpp */; };
-		344B8C642325D59500860751 /* audioeffect.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 344B8C5C2325D59400860751 /* audioeffect.cpp */; };
-		344B8C652325D59500860751 /* audioeffect.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 344B8C5C2325D59400860751 /* audioeffect.cpp */; };
-		344B8C662325D59500860751 /* audioeffect.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 344B8C5C2325D59400860751 /* audioeffect.cpp */; };
-		344B8C672325D59500860751 /* audioeffect.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 344B8C5C2325D59400860751 /* audioeffect.cpp */; };
-		344B8C682325D59500860751 /* audioeffect.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 344B8C5C2325D59400860751 /* audioeffect.cpp */; };
-		344B8C692325D59500860751 /* audioeffect.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 344B8C5C2325D59400860751 /* audioeffect.cpp */; };
-		344B8C6A2325D59500860751 /* audioeffect.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 344B8C5C2325D59400860751 /* audioeffect.cpp */; };
-		344B8C6B2325D59500860751 /* audioeffect.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 344B8C5C2325D59400860751 /* audioeffect.cpp */; };
-		344B8C6C2325D59500860751 /* audioeffect.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 344B8C5C2325D59400860751 /* audioeffect.cpp */; };
-		344B8C6D2325D59500860751 /* audioeffect.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 344B8C5C2325D59400860751 /* audioeffect.cpp */; };
-		344B8C6E2325D59500860751 /* audioeffect.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 344B8C5C2325D59400860751 /* audioeffect.cpp */; };
-		344B8C6F2325D59500860751 /* audioeffect.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 344B8C5C2325D59400860751 /* audioeffect.cpp */; };
-		344B8C702325D59500860751 /* audioeffect.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 344B8C5C2325D59400860751 /* audioeffect.cpp */; };
-		344B8C712325D59500860751 /* audioeffect.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 344B8C5C2325D59400860751 /* audioeffect.cpp */; };
-		344B8C722325D59500860751 /* audioeffect.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 344B8C5C2325D59400860751 /* audioeffect.cpp */; };
-		344B8C732325D59500860751 /* audioeffect.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 344B8C5C2325D59400860751 /* audioeffect.cpp */; };
-		344B8C742325D59500860751 /* audioeffect.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 344B8C5C2325D59400860751 /* audioeffect.cpp */; };
-		344B8C752325D59500860751 /* audioeffect.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 344B8C5C2325D59400860751 /* audioeffect.cpp */; };
-		344B8C762325D59500860751 /* audioeffect.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 344B8C5C2325D59400860751 /* audioeffect.cpp */; };
-		344B8C772325D59500860751 /* audioeffect.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 344B8C5C2325D59400860751 /* audioeffect.cpp */; };
-		344B8C782325D59500860751 /* audioeffect.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 344B8C5C2325D59400860751 /* audioeffect.cpp */; };
-		344B8C792325D59500860751 /* audioeffect.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 344B8C5C2325D59400860751 /* audioeffect.cpp */; };
-		344B8C7A2325D59500860751 /* audioeffect.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 344B8C5C2325D59400860751 /* audioeffect.cpp */; };
-		344B8C7B2325D59500860751 /* audioeffect.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 344B8C5C2325D59400860751 /* audioeffect.cpp */; };
-		344B8C7C2325D59500860751 /* audioeffect.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 344B8C5C2325D59400860751 /* audioeffect.cpp */; };
-		344B8C7D2325D59500860751 /* audioeffect.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 344B8C5C2325D59400860751 /* audioeffect.cpp */; };
-		344B8C7E2325D59500860751 /* audioeffect.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 344B8C5C2325D59400860751 /* audioeffect.cpp */; };
-		344B8C7F2325D59500860751 /* audioeffect.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 344B8C5C2325D59400860751 /* audioeffect.cpp */; };
-		344B8C802325D59500860751 /* audioeffect.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 344B8C5C2325D59400860751 /* audioeffect.cpp */; };
-		344B8C812325D59500860751 /* audioeffect.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 344B8C5C2325D59400860751 /* audioeffect.cpp */; };
-		344B8C822325D59500860751 /* audioeffect.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 344B8C5C2325D59400860751 /* audioeffect.cpp */; };
-		344B8C832325D59500860751 /* audioeffect.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 344B8C5C2325D59400860751 /* audioeffect.cpp */; };
-		344B8C842325D59500860751 /* audioeffectx.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 344B8C5E2325D59400860751 /* audioeffectx.cpp */; };
-		344B8C852325D59500860751 /* audioeffectx.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 344B8C5E2325D59400860751 /* audioeffectx.cpp */; };
-		344B8C862325D59500860751 /* audioeffectx.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 344B8C5E2325D59400860751 /* audioeffectx.cpp */; };
-		344B8C872325D59500860751 /* audioeffectx.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 344B8C5E2325D59400860751 /* audioeffectx.cpp */; };
-		344B8C882325D59500860751 /* audioeffectx.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 344B8C5E2325D59400860751 /* audioeffectx.cpp */; };
-		344B8C892325D59500860751 /* audioeffectx.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 344B8C5E2325D59400860751 /* audioeffectx.cpp */; };
-		344B8C8A2325D59500860751 /* audioeffectx.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 344B8C5E2325D59400860751 /* audioeffectx.cpp */; };
-		344B8C8B2325D59500860751 /* audioeffectx.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 344B8C5E2325D59400860751 /* audioeffectx.cpp */; };
-		344B8C8C2325D59500860751 /* audioeffectx.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 344B8C5E2325D59400860751 /* audioeffectx.cpp */; };
-		344B8C8D2325D59500860751 /* audioeffectx.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 344B8C5E2325D59400860751 /* audioeffectx.cpp */; };
-		344B8C8E2325D59500860751 /* audioeffectx.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 344B8C5E2325D59400860751 /* audioeffectx.cpp */; };
-		344B8C8F2325D59500860751 /* audioeffectx.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 344B8C5E2325D59400860751 /* audioeffectx.cpp */; };
-		344B8C902325D59500860751 /* audioeffectx.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 344B8C5E2325D59400860751 /* audioeffectx.cpp */; };
-		344B8C912325D59500860751 /* audioeffectx.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 344B8C5E2325D59400860751 /* audioeffectx.cpp */; };
-		344B8C922325D59500860751 /* audioeffectx.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 344B8C5E2325D59400860751 /* audioeffectx.cpp */; };
-		344B8C932325D59500860751 /* audioeffectx.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 344B8C5E2325D59400860751 /* audioeffectx.cpp */; };
-		344B8C942325D59500860751 /* audioeffectx.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 344B8C5E2325D59400860751 /* audioeffectx.cpp */; };
-		344B8C952325D59500860751 /* audioeffectx.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 344B8C5E2325D59400860751 /* audioeffectx.cpp */; };
-		344B8C962325D59500860751 /* audioeffectx.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 344B8C5E2325D59400860751 /* audioeffectx.cpp */; };
-		344B8C972325D59500860751 /* audioeffectx.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 344B8C5E2325D59400860751 /* audioeffectx.cpp */; };
-		344B8C982325D59500860751 /* audioeffectx.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 344B8C5E2325D59400860751 /* audioeffectx.cpp */; };
-		344B8C992325D59500860751 /* audioeffectx.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 344B8C5E2325D59400860751 /* audioeffectx.cpp */; };
-		344B8C9A2325D59500860751 /* audioeffectx.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 344B8C5E2325D59400860751 /* audioeffectx.cpp */; };
-		344B8C9B2325D59500860751 /* audioeffectx.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 344B8C5E2325D59400860751 /* audioeffectx.cpp */; };
-		344B8C9C2325D59500860751 /* audioeffectx.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 344B8C5E2325D59400860751 /* audioeffectx.cpp */; };
-		344B8C9D2325D59500860751 /* audioeffectx.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 344B8C5E2325D59400860751 /* audioeffectx.cpp */; };
-		344B8C9E2325D59500860751 /* audioeffectx.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 344B8C5E2325D59400860751 /* audioeffectx.cpp */; };
-		344B8C9F2325D59500860751 /* audioeffectx.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 344B8C5E2325D59400860751 /* audioeffectx.cpp */; };
-		344B8CA02325D59500860751 /* audioeffectx.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 344B8C5E2325D59400860751 /* audioeffectx.cpp */; };
-		344B8CA12325D59500860751 /* audioeffectx.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 344B8C5E2325D59400860751 /* audioeffectx.cpp */; };
-		344B8CA22325D59500860751 /* audioeffectx.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 344B8C5E2325D59400860751 /* audioeffectx.cpp */; };
-		344B8CA32325D59500860751 /* audioeffectx.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 344B8C5E2325D59400860751 /* audioeffectx.cpp */; };
-		344B8CA42325D59500860751 /* audioeffectx.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 344B8C5E2325D59400860751 /* audioeffectx.cpp */; };
-		344B8CA52325D59500860751 /* audioeffectx.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 344B8C5E2325D59400860751 /* audioeffectx.cpp */; };
-		344B8CA62325D59500860751 /* audioeffectx.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 344B8C5E2325D59400860751 /* audioeffectx.cpp */; };
-		344B8CA72325D59500860751 /* vstplugmain.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 344B8C602325D59500860751 /* vstplugmain.cpp */; };
-		344B8CA82325D59500860751 /* vstplugmain.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 344B8C602325D59500860751 /* vstplugmain.cpp */; };
-		344B8CA92325D59500860751 /* vstplugmain.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 344B8C602325D59500860751 /* vstplugmain.cpp */; };
-		344B8CAA2325D59500860751 /* vstplugmain.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 344B8C602325D59500860751 /* vstplugmain.cpp */; };
-		344B8CAB2325D59500860751 /* vstplugmain.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 344B8C602325D59500860751 /* vstplugmain.cpp */; };
-		344B8CAC2325D59500860751 /* vstplugmain.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 344B8C602325D59500860751 /* vstplugmain.cpp */; };
-		344B8CAD2325D59500860751 /* vstplugmain.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 344B8C602325D59500860751 /* vstplugmain.cpp */; };
-		344B8CAE2325D59500860751 /* vstplugmain.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 344B8C602325D59500860751 /* vstplugmain.cpp */; };
-		344B8CAF2325D59500860751 /* vstplugmain.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 344B8C602325D59500860751 /* vstplugmain.cpp */; };
-		344B8CB02325D59500860751 /* vstplugmain.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 344B8C602325D59500860751 /* vstplugmain.cpp */; };
-		344B8CB12325D59500860751 /* vstplugmain.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 344B8C602325D59500860751 /* vstplugmain.cpp */; };
-		344B8CB22325D59500860751 /* vstplugmain.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 344B8C602325D59500860751 /* vstplugmain.cpp */; };
-		344B8CB32325D59500860751 /* vstplugmain.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 344B8C602325D59500860751 /* vstplugmain.cpp */; };
-		344B8CB42325D59500860751 /* vstplugmain.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 344B8C602325D59500860751 /* vstplugmain.cpp */; };
-		344B8CB52325D59500860751 /* vstplugmain.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 344B8C602325D59500860751 /* vstplugmain.cpp */; };
-		344B8CB62325D59500860751 /* vstplugmain.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 344B8C602325D59500860751 /* vstplugmain.cpp */; };
-		344B8CB72325D59500860751 /* vstplugmain.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 344B8C602325D59500860751 /* vstplugmain.cpp */; };
-		344B8CB82325D59500860751 /* vstplugmain.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 344B8C602325D59500860751 /* vstplugmain.cpp */; };
-		344B8CB92325D59500860751 /* vstplugmain.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 344B8C602325D59500860751 /* vstplugmain.cpp */; };
-		344B8CBA2325D59500860751 /* vstplugmain.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 344B8C602325D59500860751 /* vstplugmain.cpp */; };
-		344B8CBB2325D59500860751 /* vstplugmain.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 344B8C602325D59500860751 /* vstplugmain.cpp */; };
-		344B8CBC2325D59500860751 /* vstplugmain.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 344B8C602325D59500860751 /* vstplugmain.cpp */; };
-		344B8CBD2325D59500860751 /* vstplugmain.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 344B8C602325D59500860751 /* vstplugmain.cpp */; };
-		344B8CBE2325D59500860751 /* vstplugmain.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 344B8C602325D59500860751 /* vstplugmain.cpp */; };
-		344B8CBF2325D59500860751 /* vstplugmain.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 344B8C602325D59500860751 /* vstplugmain.cpp */; };
-		344B8CC02325D59500860751 /* vstplugmain.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 344B8C602325D59500860751 /* vstplugmain.cpp */; };
-		344B8CC12325D59500860751 /* vstplugmain.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 344B8C602325D59500860751 /* vstplugmain.cpp */; };
-		344B8CC22325D59500860751 /* vstplugmain.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 344B8C602325D59500860751 /* vstplugmain.cpp */; };
-		344B8CC32325D59500860751 /* vstplugmain.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 344B8C602325D59500860751 /* vstplugmain.cpp */; };
-		344B8CC42325D59500860751 /* vstplugmain.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 344B8C602325D59500860751 /* vstplugmain.cpp */; };
-		344B8CC52325D59500860751 /* vstplugmain.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 344B8C602325D59500860751 /* vstplugmain.cpp */; };
-		344B8CC62325D59500860751 /* vstplugmain.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 344B8C602325D59500860751 /* vstplugmain.cpp */; };
-		344B8CC72325D59500860751 /* vstplugmain.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 344B8C602325D59500860751 /* vstplugmain.cpp */; };
-		344B8CC82325D59500860751 /* vstplugmain.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 344B8C602325D59500860751 /* vstplugmain.cpp */; };
-		344B8CC92325D59500860751 /* vstplugmain.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 344B8C602325D59500860751 /* vstplugmain.cpp */; };
-		346B3BC42487D8F400E059A7 /* audioeffectx.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 344B8C5E2325D59400860751 /* audioeffectx.cpp */; };
-		346B3BC62487D8F400E059A7 /* vstplugmain.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 344B8C602325D59500860751 /* vstplugmain.cpp */; };
-		346B3BC72487D8F400E059A7 /* audioeffect.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 344B8C5C2325D59400860751 /* audioeffect.cpp */; };
 		346B3BC92487D8F400E059A7 /* Carbon.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 08EA7FFBFE8413EDC02AAC07 /* Carbon.framework */; };
 		346B3BD12487D9CF00E059A7 /* mdaJX10.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 346B3BCF2487D98F00E059A7 /* mdaJX10.cpp */; };
+		34C1CBE427D2BC9100047D8D /* audioeffectx.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 34C1CBDE27D2BC9100047D8D /* audioeffectx.cpp */; };
+		34C1CBE527D2BC9100047D8D /* audioeffectx.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 34C1CBDE27D2BC9100047D8D /* audioeffectx.cpp */; };
+		34C1CBE627D2BC9100047D8D /* audioeffectx.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 34C1CBDE27D2BC9100047D8D /* audioeffectx.cpp */; };
+		34C1CBE727D2BC9100047D8D /* audioeffectx.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 34C1CBDE27D2BC9100047D8D /* audioeffectx.cpp */; };
+		34C1CBE827D2BC9100047D8D /* audioeffectx.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 34C1CBDE27D2BC9100047D8D /* audioeffectx.cpp */; };
+		34C1CBE927D2BC9100047D8D /* audioeffectx.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 34C1CBDE27D2BC9100047D8D /* audioeffectx.cpp */; };
+		34C1CBEA27D2BC9100047D8D /* audioeffectx.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 34C1CBDE27D2BC9100047D8D /* audioeffectx.cpp */; };
+		34C1CBEB27D2BC9100047D8D /* audioeffectx.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 34C1CBDE27D2BC9100047D8D /* audioeffectx.cpp */; };
+		34C1CBEC27D2BC9100047D8D /* audioeffectx.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 34C1CBDE27D2BC9100047D8D /* audioeffectx.cpp */; };
+		34C1CBED27D2BC9100047D8D /* audioeffectx.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 34C1CBDE27D2BC9100047D8D /* audioeffectx.cpp */; };
+		34C1CBEE27D2BC9100047D8D /* audioeffectx.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 34C1CBDE27D2BC9100047D8D /* audioeffectx.cpp */; };
+		34C1CBEF27D2BC9100047D8D /* audioeffectx.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 34C1CBDE27D2BC9100047D8D /* audioeffectx.cpp */; };
+		34C1CBF027D2BC9100047D8D /* audioeffectx.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 34C1CBDE27D2BC9100047D8D /* audioeffectx.cpp */; };
+		34C1CBF127D2BC9100047D8D /* audioeffectx.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 34C1CBDE27D2BC9100047D8D /* audioeffectx.cpp */; };
+		34C1CBF227D2BC9100047D8D /* audioeffectx.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 34C1CBDE27D2BC9100047D8D /* audioeffectx.cpp */; };
+		34C1CBF327D2BC9100047D8D /* audioeffectx.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 34C1CBDE27D2BC9100047D8D /* audioeffectx.cpp */; };
+		34C1CBF427D2BC9100047D8D /* audioeffectx.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 34C1CBDE27D2BC9100047D8D /* audioeffectx.cpp */; };
+		34C1CBF527D2BC9100047D8D /* audioeffectx.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 34C1CBDE27D2BC9100047D8D /* audioeffectx.cpp */; };
+		34C1CBF627D2BC9100047D8D /* audioeffectx.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 34C1CBDE27D2BC9100047D8D /* audioeffectx.cpp */; };
+		34C1CBF727D2BC9100047D8D /* audioeffectx.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 34C1CBDE27D2BC9100047D8D /* audioeffectx.cpp */; };
+		34C1CBF827D2BC9100047D8D /* audioeffectx.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 34C1CBDE27D2BC9100047D8D /* audioeffectx.cpp */; };
+		34C1CBF927D2BC9100047D8D /* audioeffectx.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 34C1CBDE27D2BC9100047D8D /* audioeffectx.cpp */; };
+		34C1CBFA27D2BC9100047D8D /* audioeffectx.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 34C1CBDE27D2BC9100047D8D /* audioeffectx.cpp */; };
+		34C1CBFB27D2BC9100047D8D /* audioeffectx.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 34C1CBDE27D2BC9100047D8D /* audioeffectx.cpp */; };
+		34C1CBFC27D2BC9100047D8D /* audioeffectx.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 34C1CBDE27D2BC9100047D8D /* audioeffectx.cpp */; };
+		34C1CBFD27D2BC9100047D8D /* audioeffectx.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 34C1CBDE27D2BC9100047D8D /* audioeffectx.cpp */; };
+		34C1CBFE27D2BC9100047D8D /* audioeffectx.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 34C1CBDE27D2BC9100047D8D /* audioeffectx.cpp */; };
+		34C1CBFF27D2BC9100047D8D /* audioeffectx.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 34C1CBDE27D2BC9100047D8D /* audioeffectx.cpp */; };
+		34C1CC0027D2BC9100047D8D /* audioeffectx.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 34C1CBDE27D2BC9100047D8D /* audioeffectx.cpp */; };
+		34C1CC0127D2BC9100047D8D /* audioeffectx.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 34C1CBDE27D2BC9100047D8D /* audioeffectx.cpp */; };
+		34C1CC0227D2BC9100047D8D /* audioeffectx.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 34C1CBDE27D2BC9100047D8D /* audioeffectx.cpp */; };
+		34C1CC0327D2BC9100047D8D /* audioeffectx.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 34C1CBDE27D2BC9100047D8D /* audioeffectx.cpp */; };
+		34C1CC0427D2BC9100047D8D /* audioeffectx.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 34C1CBDE27D2BC9100047D8D /* audioeffectx.cpp */; };
+		34C1CC0527D2BC9100047D8D /* audioeffectx.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 34C1CBDE27D2BC9100047D8D /* audioeffectx.cpp */; };
+		34C1CC0627D2BC9100047D8D /* audioeffectx.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 34C1CBDE27D2BC9100047D8D /* audioeffectx.cpp */; };
+		34C1CC0727D2BC9100047D8D /* audioeffectx.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 34C1CBDE27D2BC9100047D8D /* audioeffectx.cpp */; };
+		34C1CC0827D2BC9100047D8D /* vstplugmain.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 34C1CBDF27D2BC9100047D8D /* vstplugmain.cpp */; };
+		34C1CC0927D2BC9100047D8D /* vstplugmain.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 34C1CBDF27D2BC9100047D8D /* vstplugmain.cpp */; };
+		34C1CC0A27D2BC9100047D8D /* vstplugmain.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 34C1CBDF27D2BC9100047D8D /* vstplugmain.cpp */; };
+		34C1CC0B27D2BC9100047D8D /* vstplugmain.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 34C1CBDF27D2BC9100047D8D /* vstplugmain.cpp */; };
+		34C1CC0C27D2BC9100047D8D /* vstplugmain.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 34C1CBDF27D2BC9100047D8D /* vstplugmain.cpp */; };
+		34C1CC0D27D2BC9100047D8D /* vstplugmain.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 34C1CBDF27D2BC9100047D8D /* vstplugmain.cpp */; };
+		34C1CC0E27D2BC9100047D8D /* vstplugmain.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 34C1CBDF27D2BC9100047D8D /* vstplugmain.cpp */; };
+		34C1CC0F27D2BC9100047D8D /* vstplugmain.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 34C1CBDF27D2BC9100047D8D /* vstplugmain.cpp */; };
+		34C1CC1027D2BC9100047D8D /* vstplugmain.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 34C1CBDF27D2BC9100047D8D /* vstplugmain.cpp */; };
+		34C1CC1127D2BC9100047D8D /* vstplugmain.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 34C1CBDF27D2BC9100047D8D /* vstplugmain.cpp */; };
+		34C1CC1227D2BC9100047D8D /* vstplugmain.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 34C1CBDF27D2BC9100047D8D /* vstplugmain.cpp */; };
+		34C1CC1327D2BC9100047D8D /* vstplugmain.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 34C1CBDF27D2BC9100047D8D /* vstplugmain.cpp */; };
+		34C1CC1427D2BC9100047D8D /* vstplugmain.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 34C1CBDF27D2BC9100047D8D /* vstplugmain.cpp */; };
+		34C1CC1527D2BC9100047D8D /* vstplugmain.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 34C1CBDF27D2BC9100047D8D /* vstplugmain.cpp */; };
+		34C1CC1627D2BC9100047D8D /* vstplugmain.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 34C1CBDF27D2BC9100047D8D /* vstplugmain.cpp */; };
+		34C1CC1727D2BC9100047D8D /* vstplugmain.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 34C1CBDF27D2BC9100047D8D /* vstplugmain.cpp */; };
+		34C1CC1827D2BC9100047D8D /* vstplugmain.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 34C1CBDF27D2BC9100047D8D /* vstplugmain.cpp */; };
+		34C1CC1927D2BC9100047D8D /* vstplugmain.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 34C1CBDF27D2BC9100047D8D /* vstplugmain.cpp */; };
+		34C1CC1A27D2BC9100047D8D /* vstplugmain.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 34C1CBDF27D2BC9100047D8D /* vstplugmain.cpp */; };
+		34C1CC1B27D2BC9100047D8D /* vstplugmain.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 34C1CBDF27D2BC9100047D8D /* vstplugmain.cpp */; };
+		34C1CC1C27D2BC9100047D8D /* vstplugmain.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 34C1CBDF27D2BC9100047D8D /* vstplugmain.cpp */; };
+		34C1CC1D27D2BC9100047D8D /* vstplugmain.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 34C1CBDF27D2BC9100047D8D /* vstplugmain.cpp */; };
+		34C1CC1E27D2BC9100047D8D /* vstplugmain.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 34C1CBDF27D2BC9100047D8D /* vstplugmain.cpp */; };
+		34C1CC1F27D2BC9100047D8D /* vstplugmain.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 34C1CBDF27D2BC9100047D8D /* vstplugmain.cpp */; };
+		34C1CC2027D2BC9100047D8D /* vstplugmain.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 34C1CBDF27D2BC9100047D8D /* vstplugmain.cpp */; };
+		34C1CC2127D2BC9100047D8D /* vstplugmain.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 34C1CBDF27D2BC9100047D8D /* vstplugmain.cpp */; };
+		34C1CC2227D2BC9100047D8D /* vstplugmain.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 34C1CBDF27D2BC9100047D8D /* vstplugmain.cpp */; };
+		34C1CC2327D2BC9100047D8D /* vstplugmain.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 34C1CBDF27D2BC9100047D8D /* vstplugmain.cpp */; };
+		34C1CC2427D2BC9100047D8D /* vstplugmain.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 34C1CBDF27D2BC9100047D8D /* vstplugmain.cpp */; };
+		34C1CC2527D2BC9100047D8D /* vstplugmain.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 34C1CBDF27D2BC9100047D8D /* vstplugmain.cpp */; };
+		34C1CC2627D2BC9100047D8D /* vstplugmain.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 34C1CBDF27D2BC9100047D8D /* vstplugmain.cpp */; };
+		34C1CC2727D2BC9100047D8D /* vstplugmain.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 34C1CBDF27D2BC9100047D8D /* vstplugmain.cpp */; };
+		34C1CC2827D2BC9100047D8D /* vstplugmain.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 34C1CBDF27D2BC9100047D8D /* vstplugmain.cpp */; };
+		34C1CC2927D2BC9100047D8D /* vstplugmain.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 34C1CBDF27D2BC9100047D8D /* vstplugmain.cpp */; };
+		34C1CC2A27D2BC9100047D8D /* vstplugmain.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 34C1CBDF27D2BC9100047D8D /* vstplugmain.cpp */; };
+		34C1CC2B27D2BC9100047D8D /* vstplugmain.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 34C1CBDF27D2BC9100047D8D /* vstplugmain.cpp */; };
+		34C1CC2C27D2BC9100047D8D /* audioeffect.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 34C1CBE327D2BC9100047D8D /* audioeffect.cpp */; };
+		34C1CC2D27D2BC9100047D8D /* audioeffect.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 34C1CBE327D2BC9100047D8D /* audioeffect.cpp */; };
+		34C1CC2E27D2BC9100047D8D /* audioeffect.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 34C1CBE327D2BC9100047D8D /* audioeffect.cpp */; };
+		34C1CC2F27D2BC9100047D8D /* audioeffect.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 34C1CBE327D2BC9100047D8D /* audioeffect.cpp */; };
+		34C1CC3027D2BC9100047D8D /* audioeffect.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 34C1CBE327D2BC9100047D8D /* audioeffect.cpp */; };
+		34C1CC3127D2BC9100047D8D /* audioeffect.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 34C1CBE327D2BC9100047D8D /* audioeffect.cpp */; };
+		34C1CC3227D2BC9100047D8D /* audioeffect.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 34C1CBE327D2BC9100047D8D /* audioeffect.cpp */; };
+		34C1CC3327D2BC9100047D8D /* audioeffect.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 34C1CBE327D2BC9100047D8D /* audioeffect.cpp */; };
+		34C1CC3427D2BC9100047D8D /* audioeffect.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 34C1CBE327D2BC9100047D8D /* audioeffect.cpp */; };
+		34C1CC3527D2BC9100047D8D /* audioeffect.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 34C1CBE327D2BC9100047D8D /* audioeffect.cpp */; };
+		34C1CC3627D2BC9100047D8D /* audioeffect.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 34C1CBE327D2BC9100047D8D /* audioeffect.cpp */; };
+		34C1CC3727D2BC9100047D8D /* audioeffect.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 34C1CBE327D2BC9100047D8D /* audioeffect.cpp */; };
+		34C1CC3827D2BC9100047D8D /* audioeffect.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 34C1CBE327D2BC9100047D8D /* audioeffect.cpp */; };
+		34C1CC3927D2BC9100047D8D /* audioeffect.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 34C1CBE327D2BC9100047D8D /* audioeffect.cpp */; };
+		34C1CC3A27D2BC9100047D8D /* audioeffect.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 34C1CBE327D2BC9100047D8D /* audioeffect.cpp */; };
+		34C1CC3B27D2BC9100047D8D /* audioeffect.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 34C1CBE327D2BC9100047D8D /* audioeffect.cpp */; };
+		34C1CC3C27D2BC9100047D8D /* audioeffect.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 34C1CBE327D2BC9100047D8D /* audioeffect.cpp */; };
+		34C1CC3D27D2BC9100047D8D /* audioeffect.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 34C1CBE327D2BC9100047D8D /* audioeffect.cpp */; };
+		34C1CC3E27D2BC9100047D8D /* audioeffect.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 34C1CBE327D2BC9100047D8D /* audioeffect.cpp */; };
+		34C1CC3F27D2BC9100047D8D /* audioeffect.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 34C1CBE327D2BC9100047D8D /* audioeffect.cpp */; };
+		34C1CC4027D2BC9100047D8D /* audioeffect.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 34C1CBE327D2BC9100047D8D /* audioeffect.cpp */; };
+		34C1CC4127D2BC9100047D8D /* audioeffect.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 34C1CBE327D2BC9100047D8D /* audioeffect.cpp */; };
+		34C1CC4227D2BC9100047D8D /* audioeffect.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 34C1CBE327D2BC9100047D8D /* audioeffect.cpp */; };
+		34C1CC4327D2BC9100047D8D /* audioeffect.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 34C1CBE327D2BC9100047D8D /* audioeffect.cpp */; };
+		34C1CC4427D2BC9100047D8D /* audioeffect.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 34C1CBE327D2BC9100047D8D /* audioeffect.cpp */; };
+		34C1CC4527D2BC9100047D8D /* audioeffect.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 34C1CBE327D2BC9100047D8D /* audioeffect.cpp */; };
+		34C1CC4627D2BC9100047D8D /* audioeffect.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 34C1CBE327D2BC9100047D8D /* audioeffect.cpp */; };
+		34C1CC4727D2BC9100047D8D /* audioeffect.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 34C1CBE327D2BC9100047D8D /* audioeffect.cpp */; };
+		34C1CC4827D2BC9100047D8D /* audioeffect.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 34C1CBE327D2BC9100047D8D /* audioeffect.cpp */; };
+		34C1CC4927D2BC9100047D8D /* audioeffect.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 34C1CBE327D2BC9100047D8D /* audioeffect.cpp */; };
+		34C1CC4A27D2BC9100047D8D /* audioeffect.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 34C1CBE327D2BC9100047D8D /* audioeffect.cpp */; };
+		34C1CC4B27D2BC9100047D8D /* audioeffect.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 34C1CBE327D2BC9100047D8D /* audioeffect.cpp */; };
+		34C1CC4C27D2BC9100047D8D /* audioeffect.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 34C1CBE327D2BC9100047D8D /* audioeffect.cpp */; };
+		34C1CC4D27D2BC9100047D8D /* audioeffect.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 34C1CBE327D2BC9100047D8D /* audioeffect.cpp */; };
+		34C1CC4E27D2BC9100047D8D /* audioeffect.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 34C1CBE327D2BC9100047D8D /* audioeffect.cpp */; };
+		34C1CC4F27D2BC9100047D8D /* audioeffect.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 34C1CBE327D2BC9100047D8D /* audioeffect.cpp */; };
 		6CA0F00E09C3782C00811C25 /* mdaAmbience.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 6CA0F00C09C3782C00811C25 /* mdaAmbience.cpp */; };
 		6CA0F01109C3785100811C25 /* mdaBandisto.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 6CA0F00F09C3785100811C25 /* mdaBandisto.cpp */; };
 		6CA0F01409C3786E00811C25 /* mdaBeatBox.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 6CA0F01209C3786D00811C25 /* mdaBeatBox.cpp */; };
@@ -495,17 +495,17 @@
 
 /* Begin PBXFileReference section */
 		08EA7FFBFE8413EDC02AAC07 /* Carbon.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Carbon.framework; path = /System/Library/Frameworks/Carbon.framework; sourceTree = "<absolute>"; };
-		344B8C592325D57100860751 /* aeffectx.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = aeffectx.h; path = ../../../../SDKs/VST_SDK_3.6.12_build67/VST2_SDK/pluginterfaces/vst2.x/aeffectx.h; sourceTree = "<group>"; };
-		344B8C5A2325D57100860751 /* aeffect.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = aeffect.h; path = ../../../../SDKs/VST_SDK_3.6.12_build67/VST2_SDK/pluginterfaces/vst2.x/aeffect.h; sourceTree = "<group>"; };
-		344B8C5B2325D59400860751 /* aeffeditor.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = aeffeditor.h; path = ../../../../SDKs/VST_SDK_3.6.12_build67/VST2_SDK/public.sdk/source/vst2.x/aeffeditor.h; sourceTree = "<group>"; };
-		344B8C5C2325D59400860751 /* audioeffect.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = audioeffect.cpp; path = ../../../../SDKs/VST_SDK_3.6.12_build67/VST2_SDK/public.sdk/source/vst2.x/audioeffect.cpp; sourceTree = "<group>"; };
-		344B8C5D2325D59400860751 /* audioeffect.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = audioeffect.h; path = ../../../../SDKs/VST_SDK_3.6.12_build67/VST2_SDK/public.sdk/source/vst2.x/audioeffect.h; sourceTree = "<group>"; };
-		344B8C5E2325D59400860751 /* audioeffectx.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = audioeffectx.cpp; path = ../../../../SDKs/VST_SDK_3.6.12_build67/VST2_SDK/public.sdk/source/vst2.x/audioeffectx.cpp; sourceTree = "<group>"; };
-		344B8C5F2325D59500860751 /* audioeffectx.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = audioeffectx.h; path = ../../../../SDKs/VST_SDK_3.6.12_build67/VST2_SDK/public.sdk/source/vst2.x/audioeffectx.h; sourceTree = "<group>"; };
-		344B8C602325D59500860751 /* vstplugmain.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = vstplugmain.cpp; path = ../../../../SDKs/VST_SDK_3.6.12_build67/VST2_SDK/public.sdk/source/vst2.x/vstplugmain.cpp; sourceTree = "<group>"; };
 		346B3BCD2487D8F400E059A7 /* mdaJX10.vst */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = mdaJX10.vst; sourceTree = BUILT_PRODUCTS_DIR; };
 		346B3BCF2487D98F00E059A7 /* mdaJX10.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = mdaJX10.cpp; path = src/mdaJX10.cpp; sourceTree = "<group>"; };
 		346B3BD02487D98F00E059A7 /* mdaJX10.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = mdaJX10.h; path = src/mdaJX10.h; sourceTree = "<group>"; };
+		34C1CBDE27D2BC9100047D8D /* audioeffectx.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = audioeffectx.cpp; path = ../../../../SDKs/VST_SDK/VST2_SDK/public.sdk/source/vst2.x/audioeffectx.cpp; sourceTree = SOURCE_ROOT; };
+		34C1CBDF27D2BC9100047D8D /* vstplugmain.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = vstplugmain.cpp; path = ../../../../SDKs/VST_SDK/VST2_SDK/public.sdk/source/vst2.x/vstplugmain.cpp; sourceTree = SOURCE_ROOT; };
+		34C1CBE027D2BC9100047D8D /* audioeffectx.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = audioeffectx.h; path = ../../../../SDKs/VST_SDK/VST2_SDK/public.sdk/source/vst2.x/audioeffectx.h; sourceTree = SOURCE_ROOT; };
+		34C1CBE127D2BC9100047D8D /* aeffeditor.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = aeffeditor.h; path = ../../../../SDKs/VST_SDK/VST2_SDK/public.sdk/source/vst2.x/aeffeditor.h; sourceTree = SOURCE_ROOT; };
+		34C1CBE227D2BC9100047D8D /* audioeffect.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = audioeffect.h; path = ../../../../SDKs/VST_SDK/VST2_SDK/public.sdk/source/vst2.x/audioeffect.h; sourceTree = SOURCE_ROOT; };
+		34C1CBE327D2BC9100047D8D /* audioeffect.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = audioeffect.cpp; path = ../../../../SDKs/VST_SDK/VST2_SDK/public.sdk/source/vst2.x/audioeffect.cpp; sourceTree = SOURCE_ROOT; };
+		34C1CC5027D2BCF800047D8D /* aeffect.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = aeffect.h; path = ../../../../SDKs/VST_SDK/VST2_SDK/pluginterfaces/vst2.x/aeffect.h; sourceTree = SOURCE_ROOT; };
+		34C1CC5127D2BCF800047D8D /* aeffectx.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = aeffectx.h; path = ../../../../SDKs/VST_SDK/VST2_SDK/pluginterfaces/vst2.x/aeffectx.h; sourceTree = SOURCE_ROOT; };
 		6CA0EDF809C36A0000811C25 /* mdaBandisto.vst */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = mdaBandisto.vst; sourceTree = BUILT_PRODUCTS_DIR; };
 		6CA0EE1A09C36F5F00811C25 /* mdaBeatBox.vst */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = mdaBeatBox.vst; sourceTree = BUILT_PRODUCTS_DIR; };
 		6CA0EE2609C36F8A00811C25 /* mdaCombo.vst */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = mdaCombo.vst; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -1051,14 +1051,14 @@
 		344B8BAC2325CC1700860751 /* vst2sdk */ = {
 			isa = PBXGroup;
 			children = (
-				344B8C5B2325D59400860751 /* aeffeditor.h */,
-				344B8C5C2325D59400860751 /* audioeffect.cpp */,
-				344B8C5D2325D59400860751 /* audioeffect.h */,
-				344B8C5E2325D59400860751 /* audioeffectx.cpp */,
-				344B8C5F2325D59500860751 /* audioeffectx.h */,
-				344B8C602325D59500860751 /* vstplugmain.cpp */,
-				344B8C5A2325D57100860751 /* aeffect.h */,
-				344B8C592325D57100860751 /* aeffectx.h */,
+				34C1CC5027D2BCF800047D8D /* aeffect.h */,
+				34C1CC5127D2BCF800047D8D /* aeffectx.h */,
+				34C1CBE327D2BC9100047D8D /* audioeffect.cpp */,
+				34C1CBE127D2BC9100047D8D /* aeffeditor.h */,
+				34C1CBE227D2BC9100047D8D /* audioeffect.h */,
+				34C1CBE027D2BC9100047D8D /* audioeffectx.h */,
+				34C1CBDE27D2BC9100047D8D /* audioeffectx.cpp */,
+				34C1CBDF27D2BC9100047D8D /* vstplugmain.cpp */,
 			);
 			name = vst2sdk;
 			sourceTree = "<group>";
@@ -1720,7 +1720,7 @@
 		089C1669FE841209C02AAC07 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 1200;
+				LastUpgradeCheck = 1320;
 			};
 			buildConfigurationList = 4FADC23708B4156C00ABE55E /* Build configuration list for PBXProject "mda-vst" */;
 			compatibilityVersion = "Xcode 2.4";
@@ -2035,10 +2035,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				346B3BC42487D8F400E059A7 /* audioeffectx.cpp in Sources */,
+				34C1CC1627D2BC9100047D8D /* vstplugmain.cpp in Sources */,
 				346B3BD12487D9CF00E059A7 /* mdaJX10.cpp in Sources */,
-				346B3BC62487D8F400E059A7 /* vstplugmain.cpp in Sources */,
-				346B3BC72487D8F400E059A7 /* audioeffect.cpp in Sources */,
+				34C1CC3A27D2BC9100047D8D /* audioeffect.cpp in Sources */,
+				34C1CBF227D2BC9100047D8D /* audioeffectx.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -2046,10 +2046,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				344B8C852325D59500860751 /* audioeffectx.cpp in Sources */,
+				34C1CC0927D2BC9100047D8D /* vstplugmain.cpp in Sources */,
 				6CA0F01109C3785100811C25 /* mdaBandisto.cpp in Sources */,
-				344B8CA82325D59500860751 /* vstplugmain.cpp in Sources */,
-				344B8C622325D59500860751 /* audioeffect.cpp in Sources */,
+				34C1CC2D27D2BC9100047D8D /* audioeffect.cpp in Sources */,
+				34C1CBE527D2BC9100047D8D /* audioeffectx.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -2057,10 +2057,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				344B8C862325D59500860751 /* audioeffectx.cpp in Sources */,
+				34C1CC0A27D2BC9100047D8D /* vstplugmain.cpp in Sources */,
 				6CA0F01409C3786E00811C25 /* mdaBeatBox.cpp in Sources */,
-				344B8CA92325D59500860751 /* vstplugmain.cpp in Sources */,
-				344B8C632325D59500860751 /* audioeffect.cpp in Sources */,
+				34C1CC2E27D2BC9100047D8D /* audioeffect.cpp in Sources */,
+				34C1CBE627D2BC9100047D8D /* audioeffectx.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -2068,10 +2068,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				344B8C872325D59500860751 /* audioeffectx.cpp in Sources */,
+				34C1CC0B27D2BC9100047D8D /* vstplugmain.cpp in Sources */,
 				6CA0F01B09C37F3100811C25 /* mdaCombo.cpp in Sources */,
-				344B8CAA2325D59500860751 /* vstplugmain.cpp in Sources */,
-				344B8C642325D59500860751 /* audioeffect.cpp in Sources */,
+				34C1CC2F27D2BC9100047D8D /* audioeffect.cpp in Sources */,
+				34C1CBE727D2BC9100047D8D /* audioeffectx.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -2079,10 +2079,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				344B8C882325D59500860751 /* audioeffectx.cpp in Sources */,
+				34C1CC0C27D2BC9100047D8D /* vstplugmain.cpp in Sources */,
 				6CA0F01E09C37F4500811C25 /* mdaDeEss.cpp in Sources */,
-				344B8CAB2325D59500860751 /* vstplugmain.cpp in Sources */,
-				344B8C652325D59500860751 /* audioeffect.cpp in Sources */,
+				34C1CC3027D2BC9100047D8D /* audioeffect.cpp in Sources */,
+				34C1CBE827D2BC9100047D8D /* audioeffectx.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -2090,10 +2090,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				344B8C892325D59500860751 /* audioeffectx.cpp in Sources */,
+				34C1CC0D27D2BC9100047D8D /* vstplugmain.cpp in Sources */,
 				6CA0F02109C37F5900811C25 /* mdaDegrade.cpp in Sources */,
-				344B8CAC2325D59500860751 /* vstplugmain.cpp in Sources */,
-				344B8C662325D59500860751 /* audioeffect.cpp in Sources */,
+				34C1CC3127D2BC9100047D8D /* audioeffect.cpp in Sources */,
+				34C1CBE927D2BC9100047D8D /* audioeffectx.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -2101,10 +2101,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				344B8C8A2325D59500860751 /* audioeffectx.cpp in Sources */,
+				34C1CC0E27D2BC9100047D8D /* vstplugmain.cpp in Sources */,
 				6CA0F02409C37F8300811C25 /* mdaDelay.cpp in Sources */,
-				344B8CAD2325D59500860751 /* vstplugmain.cpp in Sources */,
-				344B8C672325D59500860751 /* audioeffect.cpp in Sources */,
+				34C1CC3227D2BC9100047D8D /* audioeffect.cpp in Sources */,
+				34C1CBEA27D2BC9100047D8D /* audioeffectx.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -2112,10 +2112,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				344B8C8B2325D59500860751 /* audioeffectx.cpp in Sources */,
+				34C1CC0F27D2BC9100047D8D /* vstplugmain.cpp in Sources */,
 				6CA0F02709C37F9E00811C25 /* mdaDetune.cpp in Sources */,
-				344B8CAE2325D59500860751 /* vstplugmain.cpp in Sources */,
-				344B8C682325D59500860751 /* audioeffect.cpp in Sources */,
+				34C1CC3327D2BC9100047D8D /* audioeffect.cpp in Sources */,
+				34C1CBEB27D2BC9100047D8D /* audioeffectx.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -2123,10 +2123,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				344B8C8C2325D59500860751 /* audioeffectx.cpp in Sources */,
+				34C1CC1027D2BC9100047D8D /* vstplugmain.cpp in Sources */,
 				6CA0F02A09C37FB300811C25 /* mdaDither.cpp in Sources */,
-				344B8CAF2325D59500860751 /* vstplugmain.cpp in Sources */,
-				344B8C692325D59500860751 /* audioeffect.cpp in Sources */,
+				34C1CC3427D2BC9100047D8D /* audioeffect.cpp in Sources */,
+				34C1CBEC27D2BC9100047D8D /* audioeffectx.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -2134,10 +2134,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				344B8C8D2325D59500860751 /* audioeffectx.cpp in Sources */,
+				34C1CC1127D2BC9100047D8D /* vstplugmain.cpp in Sources */,
 				6CA0F02D09C37FC700811C25 /* mdaDubDelay.cpp in Sources */,
-				344B8CB02325D59500860751 /* vstplugmain.cpp in Sources */,
-				344B8C6A2325D59500860751 /* audioeffect.cpp in Sources */,
+				34C1CC3527D2BC9100047D8D /* audioeffect.cpp in Sources */,
+				34C1CBED27D2BC9100047D8D /* audioeffectx.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -2145,10 +2145,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				344B8C8E2325D59500860751 /* audioeffectx.cpp in Sources */,
+				34C1CC1227D2BC9100047D8D /* vstplugmain.cpp in Sources */,
 				6CA0F03009C37FDB00811C25 /* mdaDX10.cpp in Sources */,
-				344B8CB12325D59500860751 /* vstplugmain.cpp in Sources */,
-				344B8C6B2325D59500860751 /* audioeffect.cpp in Sources */,
+				34C1CC3627D2BC9100047D8D /* audioeffect.cpp in Sources */,
+				34C1CBEE27D2BC9100047D8D /* audioeffectx.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -2156,10 +2156,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				344B8C8F2325D59500860751 /* audioeffectx.cpp in Sources */,
+				34C1CC1327D2BC9100047D8D /* vstplugmain.cpp in Sources */,
 				6CA0F03309C37FF100811C25 /* mdaDynamics.cpp in Sources */,
-				344B8CB22325D59500860751 /* vstplugmain.cpp in Sources */,
-				344B8C6C2325D59500860751 /* audioeffect.cpp in Sources */,
+				34C1CC3727D2BC9100047D8D /* audioeffect.cpp in Sources */,
+				34C1CBEF27D2BC9100047D8D /* audioeffectx.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -2167,10 +2167,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				344B8C902325D59500860751 /* audioeffectx.cpp in Sources */,
+				34C1CC1427D2BC9100047D8D /* vstplugmain.cpp in Sources */,
 				6CA0F07E09C3827200811C25 /* mdaEPiano.cpp in Sources */,
-				344B8CB32325D59500860751 /* vstplugmain.cpp in Sources */,
-				344B8C6D2325D59500860751 /* audioeffect.cpp in Sources */,
+				34C1CC3827D2BC9100047D8D /* audioeffect.cpp in Sources */,
+				34C1CBF027D2BC9100047D8D /* audioeffectx.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -2178,10 +2178,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				344B8C912325D59500860751 /* audioeffectx.cpp in Sources */,
+				34C1CC1527D2BC9100047D8D /* vstplugmain.cpp in Sources */,
 				6CA0F07B09C3825700811C25 /* mdaImage.cpp in Sources */,
-				344B8CB42325D59500860751 /* vstplugmain.cpp in Sources */,
-				344B8C6E2325D59500860751 /* audioeffect.cpp in Sources */,
+				34C1CC3927D2BC9100047D8D /* audioeffect.cpp in Sources */,
+				34C1CBF127D2BC9100047D8D /* audioeffectx.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -2189,10 +2189,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				344B8C922325D59500860751 /* audioeffectx.cpp in Sources */,
+				34C1CC1727D2BC9100047D8D /* vstplugmain.cpp in Sources */,
 				6CA0F07509C3822600811C25 /* mdaLeslie.cpp in Sources */,
-				344B8CB52325D59500860751 /* vstplugmain.cpp in Sources */,
-				344B8C6F2325D59500860751 /* audioeffect.cpp in Sources */,
+				34C1CC3B27D2BC9100047D8D /* audioeffect.cpp in Sources */,
+				34C1CBF327D2BC9100047D8D /* audioeffectx.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -2200,10 +2200,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				344B8C932325D59500860751 /* audioeffectx.cpp in Sources */,
+				34C1CC1827D2BC9100047D8D /* vstplugmain.cpp in Sources */,
 				6CA0F07209C3820E00811C25 /* mdaLimiter.cpp in Sources */,
-				344B8CB62325D59500860751 /* vstplugmain.cpp in Sources */,
-				344B8C702325D59500860751 /* audioeffect.cpp in Sources */,
+				34C1CC3C27D2BC9100047D8D /* audioeffect.cpp in Sources */,
+				34C1CBF427D2BC9100047D8D /* audioeffectx.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -2211,10 +2211,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				344B8C952325D59500860751 /* audioeffectx.cpp in Sources */,
+				34C1CC1A27D2BC9100047D8D /* vstplugmain.cpp in Sources */,
 				6CA0F06F09C381F800811C25 /* mdaLoudness.cpp in Sources */,
-				344B8CB82325D59500860751 /* vstplugmain.cpp in Sources */,
-				344B8C722325D59500860751 /* audioeffect.cpp in Sources */,
+				34C1CC3E27D2BC9100047D8D /* audioeffect.cpp in Sources */,
+				34C1CBF627D2BC9100047D8D /* audioeffectx.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -2222,10 +2222,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				344B8C962325D59500860751 /* audioeffectx.cpp in Sources */,
+				34C1CC1B27D2BC9100047D8D /* vstplugmain.cpp in Sources */,
 				6CA0F06C09C381D600811C25 /* mdaMultiBand.cpp in Sources */,
-				344B8CB92325D59500860751 /* vstplugmain.cpp in Sources */,
-				344B8C732325D59500860751 /* audioeffect.cpp in Sources */,
+				34C1CC3F27D2BC9100047D8D /* audioeffect.cpp in Sources */,
+				34C1CBF727D2BC9100047D8D /* audioeffectx.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -2233,10 +2233,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				344B8C972325D59500860751 /* audioeffectx.cpp in Sources */,
+				34C1CC1C27D2BC9100047D8D /* vstplugmain.cpp in Sources */,
 				6CA0F06909C381BC00811C25 /* mdaOverdrive.cpp in Sources */,
-				344B8CBA2325D59500860751 /* vstplugmain.cpp in Sources */,
-				344B8C742325D59500860751 /* audioeffect.cpp in Sources */,
+				34C1CC4027D2BC9100047D8D /* audioeffect.cpp in Sources */,
+				34C1CBF827D2BC9100047D8D /* audioeffectx.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -2244,10 +2244,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				344B8C982325D59500860751 /* audioeffectx.cpp in Sources */,
+				34C1CC1D27D2BC9100047D8D /* vstplugmain.cpp in Sources */,
 				6CA0F06609C381A500811C25 /* mdaPiano.cpp in Sources */,
-				344B8CBB2325D59500860751 /* vstplugmain.cpp in Sources */,
-				344B8C752325D59500860751 /* audioeffect.cpp in Sources */,
+				34C1CC4127D2BC9100047D8D /* audioeffect.cpp in Sources */,
+				34C1CBF927D2BC9100047D8D /* audioeffectx.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -2255,10 +2255,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				344B8C992325D59500860751 /* audioeffectx.cpp in Sources */,
+				34C1CC1E27D2BC9100047D8D /* vstplugmain.cpp in Sources */,
 				6CA0F06309C3818E00811C25 /* mdaRePsycho!.cpp in Sources */,
-				344B8CBC2325D59500860751 /* vstplugmain.cpp in Sources */,
-				344B8C762325D59500860751 /* audioeffect.cpp in Sources */,
+				34C1CC4227D2BC9100047D8D /* audioeffect.cpp in Sources */,
+				34C1CBFA27D2BC9100047D8D /* audioeffectx.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -2266,10 +2266,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				344B8C9A2325D59500860751 /* audioeffectx.cpp in Sources */,
+				34C1CC1F27D2BC9100047D8D /* vstplugmain.cpp in Sources */,
 				6CA0F06009C3817500811C25 /* mdaRezFilter.cpp in Sources */,
-				344B8CBD2325D59500860751 /* vstplugmain.cpp in Sources */,
-				344B8C772325D59500860751 /* audioeffect.cpp in Sources */,
+				34C1CC4327D2BC9100047D8D /* audioeffect.cpp in Sources */,
+				34C1CBFB27D2BC9100047D8D /* audioeffectx.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -2277,10 +2277,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				344B8C9B2325D59500860751 /* audioeffectx.cpp in Sources */,
+				34C1CC2027D2BC9100047D8D /* vstplugmain.cpp in Sources */,
 				6CA0F05D09C3815D00811C25 /* mdaRingMod.cpp in Sources */,
-				344B8CBE2325D59500860751 /* vstplugmain.cpp in Sources */,
-				344B8C782325D59500860751 /* audioeffect.cpp in Sources */,
+				34C1CC4427D2BC9100047D8D /* audioeffect.cpp in Sources */,
+				34C1CBFC27D2BC9100047D8D /* audioeffectx.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -2288,10 +2288,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				344B8C9C2325D59500860751 /* audioeffectx.cpp in Sources */,
+				34C1CC2127D2BC9100047D8D /* vstplugmain.cpp in Sources */,
 				6CA0F05A09C3814800811C25 /* mdaRoundPan.cpp in Sources */,
-				344B8CBF2325D59500860751 /* vstplugmain.cpp in Sources */,
-				344B8C792325D59500860751 /* audioeffect.cpp in Sources */,
+				34C1CC4527D2BC9100047D8D /* audioeffect.cpp in Sources */,
+				34C1CBFD27D2BC9100047D8D /* audioeffectx.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -2299,10 +2299,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				344B8C9D2325D59500860751 /* audioeffectx.cpp in Sources */,
+				34C1CC2227D2BC9100047D8D /* vstplugmain.cpp in Sources */,
 				6CA0F05709C3812900811C25 /* mdaShepard.cpp in Sources */,
-				344B8CC02325D59500860751 /* vstplugmain.cpp in Sources */,
-				344B8C7A2325D59500860751 /* audioeffect.cpp in Sources */,
+				34C1CC4627D2BC9100047D8D /* audioeffect.cpp in Sources */,
+				34C1CBFE27D2BC9100047D8D /* audioeffectx.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -2310,10 +2310,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				344B8C9E2325D59500860751 /* audioeffectx.cpp in Sources */,
+				34C1CC2327D2BC9100047D8D /* vstplugmain.cpp in Sources */,
 				6CA0F05109C380F300811C25 /* mdaSplitter.cpp in Sources */,
-				344B8CC12325D59500860751 /* vstplugmain.cpp in Sources */,
-				344B8C7B2325D59500860751 /* audioeffect.cpp in Sources */,
+				34C1CC4727D2BC9100047D8D /* audioeffect.cpp in Sources */,
+				34C1CBFF27D2BC9100047D8D /* audioeffectx.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -2321,10 +2321,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				344B8C9F2325D59500860751 /* audioeffectx.cpp in Sources */,
+				34C1CC2427D2BC9100047D8D /* vstplugmain.cpp in Sources */,
 				6CA0F04E09C380DA00811C25 /* mdaStereo.cpp in Sources */,
-				344B8CC22325D59500860751 /* vstplugmain.cpp in Sources */,
-				344B8C7C2325D59500860751 /* audioeffect.cpp in Sources */,
+				34C1CC4827D2BC9100047D8D /* audioeffect.cpp in Sources */,
+				34C1CC0027D2BC9100047D8D /* audioeffectx.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -2332,10 +2332,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				344B8CA12325D59500860751 /* audioeffectx.cpp in Sources */,
+				34C1CC2627D2BC9100047D8D /* vstplugmain.cpp in Sources */,
 				6CA0F04509C3809000811C25 /* mdaTestTone.cpp in Sources */,
-				344B8CC42325D59500860751 /* vstplugmain.cpp in Sources */,
-				344B8C7E2325D59500860751 /* audioeffect.cpp in Sources */,
+				34C1CC4A27D2BC9100047D8D /* audioeffect.cpp in Sources */,
+				34C1CC0227D2BC9100047D8D /* audioeffectx.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -2343,10 +2343,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				344B8CA22325D59500860751 /* audioeffectx.cpp in Sources */,
+				34C1CC2727D2BC9100047D8D /* vstplugmain.cpp in Sources */,
 				6CA0F04209C3807400811C25 /* mdaThruZero.cpp in Sources */,
-				344B8CC52325D59500860751 /* vstplugmain.cpp in Sources */,
-				344B8C7F2325D59500860751 /* audioeffect.cpp in Sources */,
+				34C1CC4B27D2BC9100047D8D /* audioeffect.cpp in Sources */,
+				34C1CC0327D2BC9100047D8D /* audioeffectx.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -2354,10 +2354,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				344B8CA32325D59500860751 /* audioeffectx.cpp in Sources */,
+				34C1CC2827D2BC9100047D8D /* vstplugmain.cpp in Sources */,
 				6CA0F03F09C3805B00811C25 /* mdaTracker.cpp in Sources */,
-				344B8CC62325D59500860751 /* vstplugmain.cpp in Sources */,
-				344B8C802325D59500860751 /* audioeffect.cpp in Sources */,
+				34C1CC4C27D2BC9100047D8D /* audioeffect.cpp in Sources */,
+				34C1CC0427D2BC9100047D8D /* audioeffectx.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -2365,10 +2365,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				344B8CA42325D59500860751 /* audioeffectx.cpp in Sources */,
+				34C1CC2927D2BC9100047D8D /* vstplugmain.cpp in Sources */,
 				6CA0F03C09C3804300811C25 /* mdaTransient.cpp in Sources */,
-				344B8CC72325D59500860751 /* vstplugmain.cpp in Sources */,
-				344B8C812325D59500860751 /* audioeffect.cpp in Sources */,
+				34C1CC4D27D2BC9100047D8D /* audioeffect.cpp in Sources */,
+				34C1CC0527D2BC9100047D8D /* audioeffectx.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -2376,10 +2376,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				344B8CA52325D59500860751 /* audioeffectx.cpp in Sources */,
+				34C1CC2A27D2BC9100047D8D /* vstplugmain.cpp in Sources */,
 				6CA0F03909C3802900811C25 /* mdaVocInput.cpp in Sources */,
-				344B8CC82325D59500860751 /* vstplugmain.cpp in Sources */,
-				344B8C822325D59500860751 /* audioeffect.cpp in Sources */,
+				34C1CC4E27D2BC9100047D8D /* audioeffect.cpp in Sources */,
+				34C1CC0627D2BC9100047D8D /* audioeffectx.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -2387,10 +2387,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				344B8CA62325D59500860751 /* audioeffectx.cpp in Sources */,
+				34C1CC2B27D2BC9100047D8D /* vstplugmain.cpp in Sources */,
 				6CA0F03609C3800B00811C25 /* mdaVocoder.cpp in Sources */,
-				344B8CC92325D59500860751 /* vstplugmain.cpp in Sources */,
-				344B8C832325D59500860751 /* audioeffect.cpp in Sources */,
+				34C1CC4F27D2BC9100047D8D /* audioeffect.cpp in Sources */,
+				34C1CC0727D2BC9100047D8D /* audioeffectx.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -2398,10 +2398,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				344B8C842325D59500860751 /* audioeffectx.cpp in Sources */,
+				34C1CC0827D2BC9100047D8D /* vstplugmain.cpp in Sources */,
 				6CA0F00E09C3782C00811C25 /* mdaAmbience.cpp in Sources */,
-				344B8CA72325D59500860751 /* vstplugmain.cpp in Sources */,
-				344B8C612325D59500860751 /* audioeffect.cpp in Sources */,
+				34C1CC2C27D2BC9100047D8D /* audioeffect.cpp in Sources */,
+				34C1CBE427D2BC9100047D8D /* audioeffectx.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -2409,10 +2409,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				344B8C942325D59500860751 /* audioeffectx.cpp in Sources */,
+				34C1CC1927D2BC9100047D8D /* vstplugmain.cpp in Sources */,
 				DA2FFA660A698D14001B44E6 /* mdaLooplex.cpp in Sources */,
-				344B8CB72325D59500860751 /* vstplugmain.cpp in Sources */,
-				344B8C712325D59500860751 /* audioeffect.cpp in Sources */,
+				34C1CC3D27D2BC9100047D8D /* audioeffect.cpp in Sources */,
+				34C1CBF527D2BC9100047D8D /* audioeffectx.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -2420,10 +2420,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				344B8CA02325D59500860751 /* audioeffectx.cpp in Sources */,
+				34C1CC2527D2BC9100047D8D /* vstplugmain.cpp in Sources */,
 				DAB133C10B982E2E006AA414 /* mdaSubSynth.cpp in Sources */,
-				344B8CC32325D59500860751 /* vstplugmain.cpp in Sources */,
-				344B8C7D2325D59500860751 /* audioeffect.cpp in Sources */,
+				34C1CC4927D2BC9100047D8D /* audioeffect.cpp in Sources */,
+				34C1CC0127D2BC9100047D8D /* audioeffectx.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -2682,7 +2682,7 @@
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				CODE_SIGN_IDENTITY = "Developer ID Application: Dunne & Associates Technology Consulting, Inc (W5AEHZN66V)";
+				CODE_SIGN_IDENTITY = "Apple Development";
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
@@ -2798,7 +2798,7 @@
 				);
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
 				INFOPLIST_PREPROCESS = YES;
-				ONLY_ACTIVE_ARCH = YES;
+				ONLY_ACTIVE_ARCH = NO;
 				OTHER_CODE_SIGN_FLAGS = "--timestamp";
 				SDKROOT = "";
 				WARNING_CFLAGS = "-Wall";
