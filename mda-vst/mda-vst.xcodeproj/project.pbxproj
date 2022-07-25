@@ -13,6 +13,8 @@
 			buildPhases = (
 			);
 			dependencies = (
+				347DB06728428F390002D5FF /* PBXTargetDependency */,
+				347DB06528428F280002D5FF /* PBXTargetDependency */,
 				346B3BD32487DA8600E059A7 /* PBXTargetDependency */,
 				6CA0EFC309C377F700811C25 /* PBXTargetDependency */,
 				6CA0EFC509C377F700811C25 /* PBXTargetDependency */,
@@ -58,6 +60,16 @@
 /* Begin PBXBuildFile section */
 		346B3BC92487D8F400E059A7 /* Carbon.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 08EA7FFBFE8413EDC02AAC07 /* Carbon.framework */; };
 		346B3BD12487D9CF00E059A7 /* mdaJX10.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 346B3BCF2487D98F00E059A7 /* mdaJX10.cpp */; };
+		347DB049284288D50002D5FF /* vstplugmain.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 34C1CBDF27D2BC9100047D8D /* vstplugmain.cpp */; };
+		347DB04B284288D50002D5FF /* audioeffect.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 34C1CBE327D2BC9100047D8D /* audioeffect.cpp */; };
+		347DB04C284288D50002D5FF /* audioeffectx.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 34C1CBDE27D2BC9100047D8D /* audioeffectx.cpp */; };
+		347DB04E284288D50002D5FF /* Carbon.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 08EA7FFBFE8413EDC02AAC07 /* Carbon.framework */; };
+		347DB0542842890A0002D5FF /* mdaEnvelope.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 347DB042284288740002D5FF /* mdaEnvelope.cpp */; };
+		347DB058284289500002D5FF /* vstplugmain.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 34C1CBDF27D2BC9100047D8D /* vstplugmain.cpp */; };
+		347DB05A284289500002D5FF /* audioeffect.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 34C1CBE327D2BC9100047D8D /* audioeffect.cpp */; };
+		347DB05B284289500002D5FF /* audioeffectx.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 34C1CBDE27D2BC9100047D8D /* audioeffectx.cpp */; };
+		347DB05D284289500002D5FF /* Carbon.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 08EA7FFBFE8413EDC02AAC07 /* Carbon.framework */; };
+		347DB063284289680002D5FF /* mdaTalkBox.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 347DB044284288B00002D5FF /* mdaTalkBox.cpp */; };
 		34C1CBE427D2BC9100047D8D /* audioeffectx.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 34C1CBDE27D2BC9100047D8D /* audioeffectx.cpp */; };
 		34C1CBE527D2BC9100047D8D /* audioeffectx.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 34C1CBDE27D2BC9100047D8D /* audioeffectx.cpp */; };
 		34C1CBE627D2BC9100047D8D /* audioeffectx.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 34C1CBDE27D2BC9100047D8D /* audioeffectx.cpp */; };
@@ -245,6 +257,20 @@
 			proxyType = 1;
 			remoteGlobalIDString = 346B3BC12487D8F400E059A7;
 			remoteInfo = mdaJX10;
+		};
+		347DB06428428F280002D5FF /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 089C1669FE841209C02AAC07 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 347DB046284288D50002D5FF;
+			remoteInfo = mdaEnvelope;
+		};
+		347DB06628428F390002D5FF /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 089C1669FE841209C02AAC07 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 347DB055284289500002D5FF;
+			remoteInfo = mdaTalkBox;
 		};
 		6CA0EFC209C377F700811C25 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -498,6 +524,14 @@
 		346B3BCD2487D8F400E059A7 /* mdaJX10.vst */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = mdaJX10.vst; sourceTree = BUILT_PRODUCTS_DIR; };
 		346B3BCF2487D98F00E059A7 /* mdaJX10.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = mdaJX10.cpp; path = src/mdaJX10.cpp; sourceTree = "<group>"; };
 		346B3BD02487D98F00E059A7 /* mdaJX10.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = mdaJX10.h; path = src/mdaJX10.h; sourceTree = "<group>"; };
+		347DB042284288740002D5FF /* mdaEnvelope.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = mdaEnvelope.cpp; path = src/mdaEnvelope.cpp; sourceTree = "<group>"; };
+		347DB043284288740002D5FF /* mdaEnvelope.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = mdaEnvelope.h; path = src/mdaEnvelope.h; sourceTree = "<group>"; };
+		347DB044284288B00002D5FF /* mdaTalkBox.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = mdaTalkBox.cpp; path = src/mdaTalkBox.cpp; sourceTree = "<group>"; };
+		347DB045284288B00002D5FF /* mdaTalkBox.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = mdaTalkBox.h; path = src/mdaTalkBox.h; sourceTree = "<group>"; };
+		347DB052284288D50002D5FF /* mdaEnvelope.vst */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = mdaEnvelope.vst; sourceTree = BUILT_PRODUCTS_DIR; };
+		347DB053284288D50002D5FF /* mdaDynamics copy-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "mdaDynamics copy-Info.plist"; path = "/Users/shane/Documents/GitHub/mda-effects/mda-vst/mdaDynamics copy-Info.plist"; sourceTree = "<absolute>"; };
+		347DB061284289500002D5FF /* mdaTalkBox.vst */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = mdaTalkBox.vst; sourceTree = BUILT_PRODUCTS_DIR; };
+		347DB062284289500002D5FF /* mdaVocoder copy-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "mdaVocoder copy-Info.plist"; path = "/Users/shane/Documents/GitHub/mda-effects/mda-vst/mdaVocoder copy-Info.plist"; sourceTree = "<absolute>"; };
 		34C1CBDE27D2BC9100047D8D /* audioeffectx.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = audioeffectx.cpp; path = ../../../../SDKs/VST_SDK/VST2_SDK/public.sdk/source/vst2.x/audioeffectx.cpp; sourceTree = SOURCE_ROOT; };
 		34C1CBDF27D2BC9100047D8D /* vstplugmain.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = vstplugmain.cpp; path = ../../../../SDKs/VST_SDK/VST2_SDK/public.sdk/source/vst2.x/vstplugmain.cpp; sourceTree = SOURCE_ROOT; };
 		34C1CBE027D2BC9100047D8D /* audioeffectx.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = audioeffectx.h; path = ../../../../SDKs/VST_SDK/VST2_SDK/public.sdk/source/vst2.x/audioeffectx.h; sourceTree = SOURCE_ROOT; };
@@ -612,8 +646,6 @@
 		DA2FFAE40A699751001B44E6 /* mdaEPianoData.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = mdaEPianoData.h; path = src/mdaEPianoData.h; sourceTree = "<group>"; };
 		DA2FFAE50A69977C001B44E6 /* mdaPianoData.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = mdaPianoData.h; path = src/mdaPianoData.h; sourceTree = "<group>"; };
 		DAB133BA0B982DA3006AA414 /* mdaSubSynth.vst */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = mdaSubSynth.vst; sourceTree = BUILT_PRODUCTS_DIR; };
-		DAB133BC0B982E12006AA414 /* mdaSubBass.cpp */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.cpp.cpp; name = mdaSubBass.cpp; path = src/mdaSubBass.cpp; sourceTree = "<group>"; };
-		DAB133BD0B982E12006AA414 /* mdaSubBass.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = mdaSubBass.h; path = src/mdaSubBass.h; sourceTree = "<group>"; };
 		DAB133BF0B982E2E006AA414 /* mdaSubSynth.cpp */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.cpp.cpp; name = mdaSubSynth.cpp; path = src/mdaSubSynth.cpp; sourceTree = "<group>"; };
 		DAB133C00B982E2E006AA414 /* mdaSubSynth.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = mdaSubSynth.h; path = src/mdaSubSynth.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -624,6 +656,22 @@
 			buildActionMask = 2147483647;
 			files = (
 				346B3BC92487D8F400E059A7 /* Carbon.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		347DB04D284288D50002D5FF /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				347DB04E284288D50002D5FF /* Carbon.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		347DB05C284289500002D5FF /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				347DB05D284289500002D5FF /* Carbon.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -917,6 +965,8 @@
 				08EA7FFBFE8413EDC02AAC07 /* Carbon.framework */,
 				08FB77ADFE841716C02AAC07 /* Source */,
 				19C28FB4FE9D528D11CA2CBB /* Products */,
+				347DB053284288D50002D5FF /* mdaDynamics copy-Info.plist */,
+				347DB062284289500002D5FF /* mdaVocoder copy-Info.plist */,
 			);
 			name = "vst 2.4 examples";
 			sourceTree = "<group>";
@@ -949,6 +999,8 @@
 				6CA0F02F09C37FDB00811C25 /* mdaDX10.h */,
 				6CA0F03109C37FF100811C25 /* mdaDynamics.cpp */,
 				6CA0F03209C37FF100811C25 /* mdaDynamics.h */,
+				347DB042284288740002D5FF /* mdaEnvelope.cpp */,
+				347DB043284288740002D5FF /* mdaEnvelope.h */,
 				DA2FFAE40A699751001B44E6 /* mdaEPianoData.h */,
 				6CA0F07C09C3827200811C25 /* mdaEPiano.cpp */,
 				6CA0F07D09C3827200811C25 /* mdaEPiano.h */,
@@ -985,10 +1037,10 @@
 				6CA0F05009C380F300811C25 /* mdaSplitter.h */,
 				6CA0F04C09C380DA00811C25 /* mdaStereo.cpp */,
 				6CA0F04D09C380DA00811C25 /* mdaStereo.h */,
-				DAB133BC0B982E12006AA414 /* mdaSubBass.cpp */,
-				DAB133BD0B982E12006AA414 /* mdaSubBass.h */,
 				DAB133BF0B982E2E006AA414 /* mdaSubSynth.cpp */,
 				DAB133C00B982E2E006AA414 /* mdaSubSynth.h */,
+				347DB044284288B00002D5FF /* mdaTalkBox.cpp */,
+				347DB045284288B00002D5FF /* mdaTalkBox.h */,
 				6CA0F04309C3809000811C25 /* mdaTestTone.cpp */,
 				6CA0F04409C3809000811C25 /* mdaTestTone.h */,
 				6CA0F04009C3807300811C25 /* mdaThruZero.cpp */,
@@ -1044,6 +1096,8 @@
 				DA2FFA620A698CBE001B44E6 /* mdaLooplex.vst */,
 				DAB133BA0B982DA3006AA414 /* mdaSubSynth.vst */,
 				346B3BCD2487D8F400E059A7 /* mdaJX10.vst */,
+				347DB052284288D50002D5FF /* mdaEnvelope.vst */,
+				347DB061284289500002D5FF /* mdaTalkBox.vst */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -1082,6 +1136,42 @@
 			productInstallPath = "$(HOME)/Library/Bundles";
 			productName = "vst 2.4 examples";
 			productReference = 346B3BCD2487D8F400E059A7 /* mdaJX10.vst */;
+			productType = "com.apple.product-type.bundle";
+		};
+		347DB046284288D50002D5FF /* mdaEnvelope */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 347DB04F284288D50002D5FF /* Build configuration list for PBXNativeTarget "mdaEnvelope" */;
+			buildPhases = (
+				347DB047284288D50002D5FF /* Resources */,
+				347DB048284288D50002D5FF /* Sources */,
+				347DB04D284288D50002D5FF /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = mdaEnvelope;
+			productInstallPath = "$(HOME)/Library/Bundles";
+			productName = "vst 2.4 examples";
+			productReference = 347DB052284288D50002D5FF /* mdaEnvelope.vst */;
+			productType = "com.apple.product-type.bundle";
+		};
+		347DB055284289500002D5FF /* mdaTalkBox */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 347DB05E284289500002D5FF /* Build configuration list for PBXNativeTarget "mdaTalkBox" */;
+			buildPhases = (
+				347DB056284289500002D5FF /* Resources */,
+				347DB057284289500002D5FF /* Sources */,
+				347DB05C284289500002D5FF /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = mdaTalkBox;
+			productInstallPath = "$(HOME)/Library/Bundles";
+			productName = "vst 2.4 examples";
+			productReference = 347DB061284289500002D5FF /* mdaTalkBox.vst */;
 			productType = "com.apple.product-type.bundle";
 		};
 		6CA0EDED09C36A0000811C25 /* mdaBandisto */ = {
@@ -1748,6 +1838,7 @@
 				6CA0EE7009C3701D00811C25 /* mdaDX10 */,
 				6CA0EE7C09C3703000811C25 /* mdaDynamics */,
 				6CA0EE8809C3703D00811C25 /* mdaePiano */,
+				347DB046284288D50002D5FF /* mdaEnvelope */,
 				6CA0EE9409C3705600811C25 /* mdaImage */,
 				346B3BC12487D8F400E059A7 /* mdaJX10 */,
 				6CA0EEAC09C3707A00811C25 /* mdaLeslie */,
@@ -1765,6 +1856,7 @@
 				6CA0EF3F09C371C600811C25 /* mdaSplitter */,
 				6CA0EF4B09C371D800811C25 /* mdaStereo */,
 				DAB133AE0B982DA3006AA414 /* mdaSubSynth */,
+				347DB055284289500002D5FF /* mdaTalkBox */,
 				6CA0EF6F09C3720D00811C25 /* mdaTestTone */,
 				6CA0EF7B09C3722300811C25 /* mdaThruZero */,
 				6CA0EF8709C3723600811C25 /* mdaTracker */,
@@ -1777,6 +1869,20 @@
 
 /* Begin PBXResourcesBuildPhase section */
 		346B3BC22487D8F400E059A7 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		347DB047284288D50002D5FF /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		347DB056284289500002D5FF /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -2039,6 +2145,28 @@
 				346B3BD12487D9CF00E059A7 /* mdaJX10.cpp in Sources */,
 				34C1CC3A27D2BC9100047D8D /* audioeffect.cpp in Sources */,
 				34C1CBF227D2BC9100047D8D /* audioeffectx.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		347DB048284288D50002D5FF /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				347DB049284288D50002D5FF /* vstplugmain.cpp in Sources */,
+				347DB0542842890A0002D5FF /* mdaEnvelope.cpp in Sources */,
+				347DB04B284288D50002D5FF /* audioeffect.cpp in Sources */,
+				347DB04C284288D50002D5FF /* audioeffectx.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		347DB057284289500002D5FF /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				347DB058284289500002D5FF /* vstplugmain.cpp in Sources */,
+				347DB063284289680002D5FF /* mdaTalkBox.cpp in Sources */,
+				347DB05A284289500002D5FF /* audioeffect.cpp in Sources */,
+				347DB05B284289500002D5FF /* audioeffectx.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -2435,6 +2563,16 @@
 			target = 346B3BC12487D8F400E059A7 /* mdaJX10 */;
 			targetProxy = 346B3BD22487DA8600E059A7 /* PBXContainerItemProxy */;
 		};
+		347DB06528428F280002D5FF /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 347DB046284288D50002D5FF /* mdaEnvelope */;
+			targetProxy = 347DB06428428F280002D5FF /* PBXContainerItemProxy */;
+		};
+		347DB06728428F390002D5FF /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 347DB055284289500002D5FF /* mdaTalkBox */;
+			targetProxy = 347DB06628428F390002D5FF /* PBXContainerItemProxy */;
+		};
 		6CA0EFC309C377F700811C25 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = 8D01CCC60486CAD60068D4B7 /* mdaAmbience */;
@@ -2619,6 +2757,7 @@
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				CURRENT_PROJECT_VERSION = 2.4;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
 				MARKETING_VERSION = 2.4;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaJX10";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -2632,8 +2771,57 @@
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				CURRENT_PROJECT_VERSION = 2.4;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
 				MARKETING_VERSION = 2.4;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaJX10";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = "";
+			};
+			name = Release;
+		};
+		347DB050284288D50002D5FF /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				INFOPLIST_FILE = "mdaDynamics copy-Info.plist";
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaEnvelope";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = "";
+			};
+			name = Debug;
+		};
+		347DB051284288D50002D5FF /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				INFOPLIST_FILE = "mdaDynamics copy-Info.plist";
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaEnvelope";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = "";
+			};
+			name = Release;
+		};
+		347DB05F284289500002D5FF /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				INFOPLIST_FILE = "mdaVocoder copy-Info.plist";
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaTalkBox";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = "";
+			};
+			name = Debug;
+		};
+		347DB060284289500002D5FF /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				INFOPLIST_FILE = "mdaVocoder copy-Info.plist";
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaTalkBox";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = "";
 			};
@@ -2643,6 +2831,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst-mdaAmbience";
 				PRODUCT_NAME = mdaAmbience;
 				SDKROOT = "";
@@ -2654,6 +2843,7 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst-mdaAmbience";
 				PRODUCT_NAME = mdaAmbience;
 				SDKROOT = "";
@@ -2811,6 +3001,7 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaBandisto";
 				PRODUCT_NAME = mdaBandisto;
 				SDKROOT = "";
@@ -2822,6 +3013,7 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaBandisto";
 				PRODUCT_NAME = mdaBandisto;
 				SDKROOT = "";
@@ -2833,6 +3025,7 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaBeatBox";
 				PRODUCT_NAME = mdaBeatBox;
 				SDKROOT = "";
@@ -2844,6 +3037,7 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaBeatBox";
 				PRODUCT_NAME = mdaBeatBox;
 				SDKROOT = "";
@@ -2855,6 +3049,7 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaCombo";
 				PRODUCT_NAME = mdaCombo;
 				SDKROOT = "";
@@ -2866,6 +3061,7 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaCombo";
 				PRODUCT_NAME = mdaCombo;
 				SDKROOT = "";
@@ -2877,6 +3073,7 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaDe-ess";
 				PRODUCT_NAME = "mdaDe-ess";
 				SDKROOT = "";
@@ -2888,6 +3085,7 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaDe-ess";
 				PRODUCT_NAME = "mdaDe-ess";
 				SDKROOT = "";
@@ -2899,6 +3097,7 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaDegrade";
 				PRODUCT_NAME = mdaDegrade;
 				SDKROOT = "";
@@ -2910,6 +3109,7 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaDegrade";
 				PRODUCT_NAME = mdaDegrade;
 				SDKROOT = "";
@@ -2921,6 +3121,7 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaDelay";
 				PRODUCT_NAME = mdaDelay;
 				SDKROOT = "";
@@ -2932,6 +3133,7 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaDelay";
 				PRODUCT_NAME = mdaDelay;
 				SDKROOT = "";
@@ -2943,6 +3145,7 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaDetune";
 				PRODUCT_NAME = mdaDetune;
 				SDKROOT = "";
@@ -2954,6 +3157,7 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaDetune";
 				PRODUCT_NAME = mdaDetune;
 				SDKROOT = "";
@@ -2965,6 +3169,7 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaDither";
 				PRODUCT_NAME = mdaDither;
 				SDKROOT = "";
@@ -2976,6 +3181,7 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaDither";
 				PRODUCT_NAME = mdaDither;
 				SDKROOT = "";
@@ -2987,6 +3193,7 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaDubDelay";
 				PRODUCT_NAME = mdaDubDelay;
 				SDKROOT = "";
@@ -2998,6 +3205,7 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaDubDelay";
 				PRODUCT_NAME = mdaDubDelay;
 				SDKROOT = "";
@@ -3009,6 +3217,7 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaDX10";
 				PRODUCT_NAME = mdaDX10;
 				SDKROOT = "";
@@ -3020,6 +3229,7 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaDX10";
 				PRODUCT_NAME = mdaDX10;
 				SDKROOT = "";
@@ -3031,6 +3241,7 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaDynamics";
 				PRODUCT_NAME = mdaDynamics;
 				SDKROOT = "";
@@ -3042,6 +3253,7 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaDynamics";
 				PRODUCT_NAME = mdaDynamics;
 				SDKROOT = "";
@@ -3053,6 +3265,7 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaePiano";
 				PRODUCT_NAME = mdaePiano;
 				SDKROOT = "";
@@ -3064,6 +3277,7 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaePiano";
 				PRODUCT_NAME = mdaePiano;
 				SDKROOT = "";
@@ -3075,6 +3289,7 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaImage";
 				PRODUCT_NAME = mdaImage;
 				SDKROOT = "";
@@ -3086,6 +3301,7 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaImage";
 				PRODUCT_NAME = mdaImage;
 				SDKROOT = "";
@@ -3097,6 +3313,7 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaLeslie";
 				PRODUCT_NAME = mdaLeslie;
 				SDKROOT = "";
@@ -3108,6 +3325,7 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaLeslie";
 				PRODUCT_NAME = mdaLeslie;
 				SDKROOT = "";
@@ -3119,6 +3337,7 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaLimiter";
 				PRODUCT_NAME = mdaLimiter;
 				SDKROOT = "";
@@ -3130,6 +3349,7 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaLimiter";
 				PRODUCT_NAME = mdaLimiter;
 				SDKROOT = "";
@@ -3141,6 +3361,7 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaLoudness";
 				PRODUCT_NAME = mdaLoudness;
 				SDKROOT = "";
@@ -3152,6 +3373,7 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaLoudness";
 				PRODUCT_NAME = mdaLoudness;
 				SDKROOT = "";
@@ -3163,6 +3385,7 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaMultiBand";
 				PRODUCT_NAME = mdaMultiBand;
 				SDKROOT = "";
@@ -3174,6 +3397,7 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaMultiBand";
 				PRODUCT_NAME = mdaMultiBand;
 				SDKROOT = "";
@@ -3185,6 +3409,7 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaOverdrive";
 				PRODUCT_NAME = mdaOverdrive;
 				SDKROOT = "";
@@ -3196,6 +3421,7 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaOverdrive";
 				PRODUCT_NAME = mdaOverdrive;
 				SDKROOT = "";
@@ -3207,6 +3433,7 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaPiano";
 				PRODUCT_NAME = mdaPiano;
 				SDKROOT = "";
@@ -3218,6 +3445,7 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaPiano";
 				PRODUCT_NAME = mdaPiano;
 				SDKROOT = "";
@@ -3229,6 +3457,7 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaRePsycho-";
 				PRODUCT_NAME = "mdaRePsycho!";
 				SDKROOT = "";
@@ -3240,6 +3469,7 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaRePsycho-";
 				PRODUCT_NAME = "mdaRePsycho!";
 				SDKROOT = "";
@@ -3251,6 +3481,7 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaRezFilter";
 				PRODUCT_NAME = mdaRezFilter;
 				SDKROOT = "";
@@ -3262,6 +3493,7 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaRezFilter";
 				PRODUCT_NAME = mdaRezFilter;
 				SDKROOT = "";
@@ -3273,6 +3505,7 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaRingMod";
 				PRODUCT_NAME = mdaRingMod;
 				SDKROOT = "";
@@ -3284,6 +3517,7 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaRingMod";
 				PRODUCT_NAME = mdaRingMod;
 				SDKROOT = "";
@@ -3295,6 +3529,7 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaRoundPan";
 				PRODUCT_NAME = mdaRoundPan;
 				SDKROOT = "";
@@ -3306,6 +3541,7 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaRoundPan";
 				PRODUCT_NAME = mdaRoundPan;
 				SDKROOT = "";
@@ -3317,6 +3553,7 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaShepard";
 				PRODUCT_NAME = mdaShepard;
 				SDKROOT = "";
@@ -3328,6 +3565,7 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaShepard";
 				PRODUCT_NAME = mdaShepard;
 				SDKROOT = "";
@@ -3339,6 +3577,7 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaSplitter";
 				PRODUCT_NAME = mdaSplitter;
 				SDKROOT = "";
@@ -3350,6 +3589,7 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaSplitter";
 				PRODUCT_NAME = mdaSplitter;
 				SDKROOT = "";
@@ -3361,6 +3601,7 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaStereo";
 				PRODUCT_NAME = mdaStereo;
 				SDKROOT = "";
@@ -3372,6 +3613,7 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaStereo";
 				PRODUCT_NAME = mdaStereo;
 				SDKROOT = "";
@@ -3383,6 +3625,7 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaTestTone";
 				PRODUCT_NAME = mdaTestTone;
 				SDKROOT = "";
@@ -3394,6 +3637,7 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaTestTone";
 				PRODUCT_NAME = mdaTestTone;
 				SDKROOT = "";
@@ -3405,6 +3649,7 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaThruZero";
 				PRODUCT_NAME = mdaThruZero;
 				SDKROOT = "";
@@ -3416,6 +3661,7 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaThruZero";
 				PRODUCT_NAME = mdaThruZero;
 				SDKROOT = "";
@@ -3427,6 +3673,7 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaTracker";
 				PRODUCT_NAME = mdaTracker;
 				SDKROOT = "";
@@ -3438,6 +3685,7 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaTracker";
 				PRODUCT_NAME = mdaTracker;
 				SDKROOT = "";
@@ -3449,6 +3697,7 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaTransient";
 				PRODUCT_NAME = mdaTransient;
 				SDKROOT = "";
@@ -3460,6 +3709,7 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaTransient";
 				PRODUCT_NAME = mdaTransient;
 				SDKROOT = "";
@@ -3471,6 +3721,7 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaVocInput";
 				PRODUCT_NAME = mdaVocInput;
 				SDKROOT = "";
@@ -3482,6 +3733,7 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaVocInput";
 				PRODUCT_NAME = mdaVocInput;
 				SDKROOT = "";
@@ -3493,6 +3745,7 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaVocoder";
 				PRODUCT_NAME = mdaVocoder;
 				SDKROOT = "";
@@ -3504,6 +3757,7 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaVocoder";
 				PRODUCT_NAME = mdaVocoder;
 				SDKROOT = "";
@@ -3517,6 +3771,7 @@
 				COPY_PHASE_STRIP = NO;
 				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
 				HEADER_SEARCH_PATHS = "$(HEADER_SEARCH_PATHS)";
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
 				OPTIMIZATION_CFLAGS = "-O0";
 				OTHER_CFLAGS = "";
 				OTHER_LDFLAGS = "";
@@ -3537,9 +3792,11 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
+				CODE_SIGN_INJECT_BASE_ENTITLEMENTS = NO;
 				COPY_PHASE_STRIP = YES;
 				GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
 				HEADER_SEARCH_PATHS = "$(HEADER_SEARCH_PATHS)";
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
 				OPTIMIZATION_CFLAGS = "-O0";
 				OTHER_CFLAGS = "";
 				OTHER_LDFLAGS = "";
@@ -3561,6 +3818,7 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaLooplex";
 				PRODUCT_NAME = mdaLooplex;
 				SDKROOT = "";
@@ -3572,6 +3830,7 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaLooplex";
 				PRODUCT_NAME = mdaLooplex;
 				SDKROOT = "";
@@ -3583,6 +3842,7 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaSubSynth";
 				PRODUCT_NAME = mdaSubSynth;
 				SDKROOT = "";
@@ -3594,6 +3854,7 @@
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				INFOPLIST_FILE = "mda-vst.xcodeproj/mda.plist";
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.mda-vst.mdaSubSynth";
 				PRODUCT_NAME = mdaSubSynth;
 				SDKROOT = "";
@@ -3608,6 +3869,24 @@
 			buildConfigurations = (
 				346B3BCB2487D8F400E059A7 /* Debug */,
 				346B3BCC2487D8F400E059A7 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		347DB04F284288D50002D5FF /* Build configuration list for PBXNativeTarget "mdaEnvelope" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				347DB050284288D50002D5FF /* Debug */,
+				347DB051284288D50002D5FF /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		347DB05E284289500002D5FF /* Build configuration list for PBXNativeTarget "mdaTalkBox" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				347DB05F284289500002D5FF /* Debug */,
+				347DB060284289500002D5FF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
